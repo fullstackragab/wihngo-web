@@ -5,12 +5,19 @@ import Link from "next/link";
 import Button from "@/components/Button";
 import DownloadSection from "@/components/DownloadSection";
 import { getBirdById } from "@/lib/data";
-import { fetchStoryById } from "@/lib/api";
+import { fetchStories, fetchStoryById } from "@/lib/api";
 
 interface StoryPageProps {
   params: Promise<{
     id: string;
   }>;
+}
+
+export async function generateStaticParams() {
+  const { stories } = await fetchStories(1, 50);
+  return stories.map((story) => ({
+    id: story.id,
+  }));
 }
 
 export async function generateMetadata({

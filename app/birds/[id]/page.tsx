@@ -5,12 +5,18 @@ import Link from "next/link";
 import Button from "@/components/Button";
 import StoryCard from "@/components/StoryCard";
 import DownloadSection from "@/components/DownloadSection";
-import { getBirdById, getStoriesByBirdId } from "@/lib/data";
+import { getBirdById, getStoriesByBirdId, birds } from "@/lib/data";
 
 interface BirdPageProps {
   params: Promise<{
     id: string;
   }>;
+}
+
+export async function generateStaticParams() {
+  return birds.map((bird) => ({
+    id: bird.id,
+  }));
 }
 
 export async function generateMetadata({

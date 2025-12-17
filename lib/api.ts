@@ -1,7 +1,10 @@
 import { APIStoriesResponse, APIStory, APISingleStory, Story } from "@/types";
-import { stories as staticStories } from "@/lib/data";
+import { stories as staticStories, stories } from "@/lib/data";
 
-const API_BASE_URL = "https://wihngo-api.onrender.com/api";
+const API_BASE_URL = "https://horsier-maliah-semilyrical.ngrok-free.dev/api";
+
+// Use longer timeout during build, shorter for runtime
+const FETCH_TIMEOUT = process.env.NODE_ENV === "production" ? 10000 : 5000;
 
 // Map mode number to mood string
 const modeToMood = (mode: number): Story["mood"] => {
@@ -39,15 +42,21 @@ export async function fetchStories(
   pageSize: number = 10
 ): Promise<{ stories: Story[]; totalCount: number; page: number }> {
   try {
+    const controller = new AbortController();
+    const timeoutId = setTimeout(() => controller.abort(), FETCH_TIMEOUT);
+
     const response = await fetch(
       `${API_BASE_URL}/stories?page=${page}&pageSize=${pageSize}`,
       {
         next: { revalidate: 60 }, // Cache for 60 seconds
+        signal: controller.signal,
       }
     );
 
+    clearTimeout(timeoutId);
+
     if (!response.ok) {
-      throw new Error(`API request failed: ${response.status}`);
+      return { stories, totalCount: stories.length, page: 1 };
     }
 
     const data: APIStoriesResponse = await response.json();
@@ -93,9 +102,15 @@ const transformSingleAPIStory = (apiStory: APISingleStory): Story => {
 
 export async function fetchStoryById(id: string): Promise<Story | null> {
   try {
+    const controller = new AbortController();
+    const timeoutId = setTimeout(() => controller.abort(), FETCH_TIMEOUT);
+
     const response = await fetch(`${API_BASE_URL}/stories/${id}`, {
       next: { revalidate: 60 }, // Cache for 60 seconds
+      signal: controller.signal,
     });
+
+    clearTimeout(timeoutId);
 
     if (!response.ok) {
       if (response.status === 404) {
