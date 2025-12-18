@@ -88,6 +88,16 @@ export default function Footer() {
           <p>
             &copy; {new Date().getFullYear()} {t("copyright")}
           </p>
+          <p className="mt-2">
+            <a
+              href="https://www.freepik.com/icon/bird_3069186"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hover:text-teal-600 transition-colors"
+            >
+              Bird icon by Freepik
+            </a>
+          </p>
         </div>
       </div>
     </footer>
