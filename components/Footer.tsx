@@ -1,43 +1,53 @@
-import Link from "next/link";
+"use client";
+
+import Image from "next/image";
+import { useTranslations } from "next-intl";
+import { Link } from "@/i18n/navigation";
 
 export default function Footer() {
+  const t = useTranslations("footer");
+  const tNav = useTranslations("nav");
+
   return (
     <footer className="bg-slate-50 border-t border-slate-200">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div className="col-span-1 md:col-span-2">
             <div className="flex items-center space-x-2 mb-4">
-              <span className="text-3xl">🐦</span>
+              <Image
+                src="/icon.png"
+                alt="Wihngo"
+                width={32}
+                height={32}
+              />
               <span className="text-xl font-bold text-slate-800">Wihngo</span>
             </div>
-            <p className="text-slate-600 mb-4">
-              A love-centric community for people who care about birds.
-            </p>
+            <p className="text-slate-600 mb-4">{t("tagline")}</p>
           </div>
 
           <div>
-            <h3 className="font-semibold text-slate-800 mb-4">Explore</h3>
+            <h3 className="font-semibold text-slate-800 mb-4">{t("explore")}</h3>
             <ul className="space-y-2">
               <li>
                 <Link
                   href="/stories"
                   className="text-slate-600 hover:text-teal-600 transition-colors"
                 >
-                  Stories
+                  {tNav("stories")}
                 </Link>
               </li>
             </ul>
           </div>
 
           <div>
-            <h3 className="font-semibold text-slate-800 mb-4">Download</h3>
+            <h3 className="font-semibold text-slate-800 mb-4">{t("download")}</h3>
             <ul className="space-y-2">
               <li>
                 <a
                   href="#download"
                   className="text-slate-600 hover:text-teal-600 transition-colors"
                 >
-                  Android
+                  {t("android")}
                 </a>
               </li>
               <li>
@@ -45,7 +55,7 @@ export default function Footer() {
                   href="#download"
                   className="text-slate-600 hover:text-teal-600 transition-colors"
                 >
-                  iOS
+                  {t("ios")}
                 </a>
               </li>
             </ul>
@@ -58,26 +68,25 @@ export default function Footer() {
               href="/privacy"
               className="hover:text-teal-600 transition-colors"
             >
-              Privacy Policy
+              {t("privacyPolicy")}
             </Link>
             <span>·</span>
             <Link
               href="/terms"
               className="hover:text-teal-600 transition-colors"
             >
-              Terms
+              {t("terms")}
             </Link>
             <span>·</span>
             <Link
               href="/contact"
               className="hover:text-teal-600 transition-colors"
             >
-              Contact
+              {t("contact")}
             </Link>
           </div>
           <p>
-            &copy; {new Date().getFullYear()} Wihngo. Built with love for birds
-            and their humans.
+            &copy; {new Date().getFullYear()} {t("copyright")}
           </p>
         </div>
       </div>

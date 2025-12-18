@@ -1,0 +1,200 @@
+{
+  "metadata": {
+    "title": "Wihngo - Cộng đồng yêu thương dành cho những người yêu chim",
+    "titleTemplate": "{title} | Wihngo",
+    "description": "Wihngo là cộng đồng yêu thương dành cho những người quan tâm đến chim. Nơi câu chuyện về chim được chia sẻ, kết nối được hình thành, và sự hỗ trợ được trao đi với tình yêu thương.",
+    "twitterTitle": "Wihngo - Nơi trái tim và đôi cánh gặp nhau",
+    "twitterDescription": "Nền tảng cộng đồng yêu thương dành cho người yêu chim."
+  },
+  "nav": {
+    "stories": "Câu chuyện",
+    "downloadApp": "Tải ứng dụng",
+    "menu": "Menu"
+  },
+  "footer": {
+    "tagline": "Cộng đồng yêu thương dành cho những người yêu chim.",
+    "explore": "Khám phá",
+    "download": "Tải xuống",
+    "android": "Android",
+    "ios": "iOS",
+    "privacyPolicy": "Chính sách bảo mật",
+    "terms": "Điều khoản",
+    "contact": "Liên hệ",
+    "copyright": "Wihngo. Được tạo ra với tình yêu dành cho chim và con người của chúng."
+  },
+  "home": {
+    "heroTitle": "Wihngo",
+    "heroDescription": "Wihngo là cộng đồng yêu thương dành cho những người quan tâm đến chim. Nơi câu chuyện về chim được chia sẻ, kết nối được hình thành, và sự hỗ trợ được trao đi với tình yêu thương.",
+    "mobileAppCta": "Trải nghiệm Wihngo đầy đủ có trên ứng dụng di động.",
+    "downloadTheApp": "Tải ứng dụng",
+    "birdStoriesTitle": "Câu chuyện về chim",
+    "birdStoriesSubtitle": "Mỗi con chim đều có câu chuyện. Mỗi khoảnh khắc đều quan trọng.",
+    "viewAllStories": "Xem tất cả câu chuyện"
+  },
+  "stories": {
+    "pageTitle": "Câu chuyện về chim",
+    "pageDescription": "Mỗi con chim đều có câu chuyện. Mỗi khoảnh khắc đều quan trọng. Đây là một số hành trình đẹp được cộng đồng của chúng tôi chia sẻ.",
+    "storiesCount": "{count} câu chuyện và đang tăng",
+    "haveStoryTitle": "Bạn có câu chuyện để chia sẻ?",
+    "haveStoryDescription": "Tải ứng dụng Wihngo để chia sẻ những khoảnh khắc đặc biệt của chim bạn với cộng đồng thực sự hiểu và trân trọng chúng.",
+    "getTheApp": "Tải ứng dụng",
+    "metaTitle": "Câu chuyện về chim | Wihngo",
+    "metaDescription": "Đọc những câu chuyện ấm lòng từ những người yêu chim trên khắp thế giới. Mỗi tiếng hót, mỗi khoảnh khắc, được chia sẻ với tình yêu."
+  },
+  "storyDetail": {
+    "notFoundTitle": "Không tìm thấy câu chuyện | Wihngo",
+    "about": "Về {name}",
+    "meetBird": "Gặp {name}",
+    "wantToSupport": "Bạn muốn hỗ trợ {name}?",
+    "supportDescription": "Tải ứng dụng Wihngo để kết nối với {name} và người của nó, đọc thêm câu chuyện, và tùy chọn hỗ trợ khi cần.",
+    "getWihngoApp": "Tải ứng dụng Wihngo",
+    "backToStories": "Quay lại tất cả câu chuyện"
+  },
+  "bird": {
+    "notFoundTitle": "Không tìm thấy chim | Wihngo",
+    "personality": "Tính cách",
+    "communitySince": "Là thành viên cộng đồng Wihngo từ {date}",
+    "storiesTitle": "Câu chuyện của {name}",
+    "storiesSubtitle": "Theo dõi hành trình của {name} qua những khoảnh khắc đặc biệt này",
+    "connectTitle": "Kết nối với {name}",
+    "connectDescription": "Tải ứng dụng Wihngo để theo dõi hành trình của {name}, đọc câu chuyện mới, và tùy chọn hỗ trợ khi cần.",
+    "backToBirds": "Quay lại tất cả chim",
+    "yearsOld": "{age} tuổi",
+    "meetTitle": "Gặp {name}"
+  },
+  "faq": {
+    "pageTitle": "Câu hỏi thường gặp",
+    "pageDescription": "Mọi thứ bạn cần biết về Wihngo, giá trị của chúng tôi, và cách chúng tôi hoạt động.",
+    "general": "Chung",
+    "generalDescription": "Tìm hiểu cơ bản về Wihngo và điều gì làm chúng tôi khác biệt",
+    "support": "Hỗ trợ & Đóng góp",
+    "supportDescription": "Cách hỗ trợ tài chính hoạt động trên Wihngo",
+    "transparency": "Minh bạch & Tin tưởng",
+    "transparencyDescription": "Cam kết của chúng tôi về sự cởi mở và trung thực",
+    "community": "Cộng đồng",
+    "communityDescription": "Kết nối với những người yêu chim khác",
+    "stillHaveQuestions": "Vẫn còn câu hỏi?",
+    "stillHaveQuestionsDescription": "Chúng tôi tin vào sự minh bạch hoàn toàn. Nếu bạn có câu hỏi chưa được trả lời ở đây, chúng tôi rất muốn nghe từ bạn. Tải ứng dụng để kết nối với cộng đồng và đội ngũ của chúng tôi.",
+    "metaTitle": "Câu hỏi thường gặp | Wihngo",
+    "metaDescription": "Tìm hiểu thêm về Wihngo, cách hoạt động, và cam kết của chúng tôi với chim và con người của chúng."
+  },
+  "faqItems": {
+    "q1": "Wihngo là gì?",
+    "a1": "Wihngo là nền tảng cộng đồng yêu thương dành cho người yêu chim. Đó là nơi những người quan tâm sâu sắc đến bạn đồng hành có lông của mình có thể chia sẻ câu chuyện, kết nối với người khác, và ăn mừng niềm vui mà chim mang đến cuộc sống của chúng ta. Wihngo được xây dựng trên niềm tin rằng mối quan hệ của chúng ta với chim là về tình yêu, sự chăm sóc và tình bạn - không phải thương mại hóa.",
+    "q2": "Wihngo có phải về tiền không?",
+    "a2": "Không. Wihngo về cơ bản là về tình yêu dành cho chim và những người chăm sóc chúng. Mặc dù nền tảng bao gồm các cách tùy chọn để hỗ trợ chim cần giúp đỡ, điều này không bao giờ bắt buộc hoặc ép buộc. Chúng tôi tin rằng sự chăm sóc thực sự và cộng đồng luôn là ưu tiên hàng đầu. Wihngo tồn tại để ăn mừng và củng cố mối liên kết giữa con người và chim, không phải để kiếm lời từ nó.",
+    "q3": "Hỗ trợ tài chính hoạt động như thế nào trên Wihngo?",
+    "a3": "Ứng dụng Wihngo cho phép thành viên cộng đồng tự nguyện hỗ trợ chim cần giúp đỡ về chăm sóc thú y, thức ăn, hoặc các nhu cầu khác. Tất cả hỗ trợ đều tùy chọn và minh bạch. Chúng tôi cung cấp thông tin rõ ràng về nơi đóng góp đi đâu, và không bao giờ gây áp lực cho ai để đóng góp. Trọng tâm luôn là sức khỏe của chim và mong muốn thực sự của con người để giúp đỡ.",
+    "q4": "Điều gì xảy ra nếu một con chim qua đời?",
+    "a4": "Mất một con chim là điều đau đớn sâu sắc, và Wihngo đối xử với điều này bằng sự tôn trọng và nhạy cảm cao nhất. Nếu hỗ trợ tài chính được cung cấp cho một con chim đã qua đời, chúng tôi xử lý từng tình huống riêng lẻ và cẩn thận. Minh bạch là tối quan trọng - chúng tôi giao tiếp cởi mở với người hỗ trợ và, khi phù hợp, chuyển hướng đóng góp đến những con chim khác cần giúp đỡ, luôn có sự đồng ý. Ưu tiên của chúng tôi là tôn vinh ký ức của chim và hỗ trợ con người của nó qua nỗi đau.",
+    "q5": "Wihngo minh bạch đến đâu?",
+    "a5": "Minh bạch hoàn toàn là giá trị cốt lõi của Wihngo. Chúng tôi chia sẻ công khai cách nền tảng hoạt động, cách hỗ trợ tài chính được quản lý, và các nguyên tắc hướng dẫn quyết định của chúng tôi. Chúng tôi tin rằng sự tin tưởng được kiếm được bằng sự trung thực, và cam kết rõ ràng về mọi khía cạnh của cách Wihngo hoạt động. Nếu bạn có câu hỏi, chúng tôi có câu trả lời.",
+    "q6": "Tôi có thể chia sẻ câu chuyện của chim tôi trên Wihngo không?",
+    "a6": "Có! Ứng dụng Wihngo (có trên Android và iOS) cho phép bạn chia sẻ câu chuyện, hình ảnh, và khoảnh khắc đặc biệt của chim với cộng đồng. Dù chim của bạn học được trò mới, có khoảnh khắc vui, hay bạn chỉ muốn ăn mừng sự hiện diện của nó trong cuộc sống, Wihngo là nơi để chia sẻ. Lưu ý: Trang web công cộng này chỉ để đọc; đăng bài cần ứng dụng di động.",
+    "q7": "Wihngo có miễn phí không?",
+    "a7": "Có, Wihngo miễn phí để tải và sử dụng. Bạn có thể chia sẻ câu chuyện, kết nối với những người yêu chim khác, và tham gia cộng đồng mà không mất phí. Các tính năng hỗ trợ tài chính tùy chọn có cho những ai muốn giúp đỡ chim cần giúp, nhưng sử dụng Wihngo hoàn toàn miễn phí.",
+    "q8": "Điều gì làm Wihngo khác với các nền tảng khác?",
+    "a8": "Wihngo được xây dựng trên tình yêu, không phải thuật toán được thiết kế để tối đa hóa tương tác hoặc lợi nhuận. Chúng tôi không khai thác nội dung cảm xúc để lấy click hoặc doanh thu quảng cáo. Chúng tôi không coi chim như sản phẩm. Thay vào đó, chúng tôi tập trung vào kết nối thực sự, câu chuyện ý nghĩa, và xây dựng cộng đồng hỗ trợ. Wihngo tồn tại vì chim xứng đáng được tốt hơn, và những người yêu chúng cũng vậy.",
+    "q9": "Làm sao tôi có thể kết nối với những người yêu chim khác?",
+    "a9": "Ứng dụng Wihngo cung cấp tính năng kết nối với các thành viên khác trong cộng đồng. Bạn có thể đọc và phản hồi câu chuyện, theo dõi chim và con người của chúng, và tham gia cộng đồng thực sự hiểu niềm vui và trách nhiệm độc đáo của việc chăm sóc chim. Trang web công cộng này cho bạn xem trước cộng đồng, nhưng tương tác đầy đủ diễn ra trong ứng dụng.",
+    "q10": "Wihngo được xây dựng như thế nào?",
+    "a10": "Wihngo được xây dựng với sự quan tâm, chủ đích, và tôn trọng cho cả chim và con người. Chúng tôi sử dụng công nghệ hiện đại để tạo trải nghiệm mượt mà, dễ tiếp cận, nhưng công nghệ luôn phục vụ sứ mệnh - không bao giờ ngược lại. Ứng dụng di động có trên Android và iOS, và trang web này cung cấp quyền truy cập công cộng vào câu chuyện và thông tin về cộng đồng Wihngo."
+  },
+  "privacy": {
+    "pageTitle": "Chính sách bảo mật",
+    "lastUpdated": "Cập nhật lần cuối:",
+    "lastUpdatedDate": "15 tháng 12, 2025",
+    "intro": "Wihngo tôn trọng quyền riêng tư của bạn và cam kết bảo vệ dữ liệu cá nhân của bạn.",
+    "whoWeAreTitle": "Chúng tôi là ai",
+    "whoWeAreContent": "Wihngo là nền tảng hoạt động trong Liên minh Châu Âu. Công ty đang trong quá trình đăng ký tại Estonia.",
+    "whatDataTitle": "Dữ liệu chúng tôi thu thập",
+    "whatDataIntro": "Khi bạn truy cập wihngo.com, chúng tôi có thể thu thập:",
+    "whatDataItem1": "Dữ liệu kỹ thuật cơ bản (như địa chỉ IP, loại trình duyệt, thông tin thiết bị)",
+    "whatDataItem2": "Dữ liệu sử dụng ẩn danh cho hiệu suất trang web và phân tích",
+    "whatDataNote": "Trang web chỉ để đọc. Không có tài khoản, thanh toán, hoặc tương tác nào được thực hiện trên trang web.",
+    "whyCollectTitle": "Tại sao chúng tôi thu thập dữ liệu này",
+    "whyCollectIntro": "Chúng tôi thu thập dữ liệu này để:",
+    "whyCollectItem1": "Đảm bảo trang web hoạt động đúng cách",
+    "whyCollectItem2": "Cải thiện hiệu suất và trải nghiệm người dùng",
+    "whyCollectItem3": "Duy trì bảo mật",
+    "legalBasisTitle": "Cơ sở pháp lý",
+    "legalBasisContent": "Dữ liệu được xử lý theo Quy định chung về bảo vệ dữ liệu (GDPR) dựa trên lợi ích hợp pháp.",
+    "dataSharingTitle": "Chia sẻ dữ liệu",
+    "dataSharingContent": "Chúng tôi không bán dữ liệu của bạn. Một số dữ liệu có thể được xử lý bởi các nhà cung cấp dịch vụ đáng tin cậy (như dịch vụ phân tích hoặc lưu trữ).",
+    "dataRetentionTitle": "Lưu giữ dữ liệu",
+    "dataRetentionContent": "Dữ liệu chỉ được giữ trong thời gian cần thiết cho các mục đích được mô tả ở trên.",
+    "yourRightsTitle": "Quyền của bạn",
+    "yourRightsContent": "Bạn có quyền truy cập, sửa chữa, hoặc yêu cầu xóa dữ liệu cá nhân của mình.",
+    "contactTitle": "Liên hệ",
+    "contactContent": "Cho câu hỏi liên quan đến quyền riêng tư, liên hệ:",
+    "metaTitle": "Chính sách bảo mật | Wihngo",
+    "metaDescription": "Wihngo tôn trọng quyền riêng tư của bạn và cam kết bảo vệ dữ liệu cá nhân của bạn."
+  },
+  "terms": {
+    "pageTitle": "Điều khoản dịch vụ",
+    "lastUpdated": "Cập nhật lần cuối:",
+    "lastUpdatedDate": "15 tháng 12, 2025",
+    "intro": "Bằng cách truy cập wihngo.com, bạn đồng ý với các điều khoản sau.",
+    "platformRoleTitle": "Vai trò nền tảng",
+    "platformRoleContent": "Wihngo là nền tảng cộng đồng. Không phải tổ chức từ thiện, tổ chức tài chính, hoặc dịch vụ thú y.",
+    "websiteUsageTitle": "Sử dụng trang web",
+    "websiteUsageContent": "Trang web được cung cấp chỉ cho mục đích thông tin. Các dịch vụ Wihngo chính được cung cấp qua ứng dụng di động.",
+    "userContentTitle": "Nội dung người dùng",
+    "userContentContent": "Nội dung hiển thị trên trang web đến từ người dùng nền tảng Wihngo. Người dùng vẫn là chủ sở hữu nội dung của họ.",
+    "noGuaranteesTitle": "Không bảo đảm",
+    "noGuaranteesContent": "Wihngo không đảm bảo kết quả liên quan đến chim, câu chuyện, hoặc hoạt động hỗ trợ.",
+    "limitationTitle": "Giới hạn trách nhiệm",
+    "limitationContent": "Wihngo không chịu trách nhiệm cho bất kỳ mất mát hoặc thiệt hại nào phát sinh từ việc sử dụng trang web.",
+    "governingLawTitle": "Luật điều chỉnh",
+    "governingLawContent": "Các điều khoản này được điều chỉnh bởi luật Estonia và Liên minh Châu Âu.",
+    "contactTitle": "Liên hệ",
+    "contactContent": "Cho câu hỏi hoặc hỗ trợ, liên hệ:",
+    "metaTitle": "Điều khoản dịch vụ | Wihngo",
+    "metaDescription": "Điều khoản dịch vụ cho nền tảng Wihngo."
+  },
+  "contact": {
+    "pageTitle": "Liên hệ",
+    "supportIntro": "Cho câu hỏi hoặc hỗ trợ, liên hệ:",
+    "privacyIntro": "Cho câu hỏi liên quan đến quyền riêng tư:",
+    "metaTitle": "Liên hệ | Wihngo",
+    "metaDescription": "Liên hệ với Wihngo."
+  },
+  "notFound": {
+    "title": "Không tìm thấy trang",
+    "description": "Con chim này đã bay đi. Hãy đưa bạn trở về vùng đất quen thuộc.",
+    "goHome": "Về trang chủ",
+    "readStories": "Đọc câu chuyện"
+  },
+  "loading": {
+    "text": "Đang tải..."
+  },
+  "download": {
+    "title": "Tải ứng dụng",
+    "description": "Trải nghiệm Wihngo đầy đủ có trên ứng dụng di động.",
+    "comingSoon": "Sắp ra mắt",
+    "availableOn": "Có trên iOS & Android"
+  },
+  "storiesList": {
+    "noStories": "Chưa có câu chuyện nào. Quay lại sớm nhé!",
+    "loadMore": "Tải thêm ({current}/{total})",
+    "loading": "Đang tải...",
+    "seenAll": "Bạn đã xem tất cả {count} câu chuyện",
+    "failedToFetch": "Không thể tải câu chuyện"
+  },
+  "cards": {
+    "readMore": "Đọc thêm",
+    "meet": "Gặp {name}"
+  },
+  "moods": {
+    "happy": "vui vẻ",
+    "playful": "tinh nghịch",
+    "calm": "bình tĩnh",
+    "curious": "tò mò",
+    "adventurous": "phiêu lưu",
+    "loving": "yêu thương"
+  },
+  "language": {
+    "select": "Chọn ngôn ngữ",
+    "current": "Ngôn ngữ hiện tại"
+  }
+}

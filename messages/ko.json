@@ -1,0 +1,200 @@
+{
+  "metadata": {
+    "title": "Wihngo - 새를 사랑하는 사람들을 위한 사랑 중심의 커뮤니티",
+    "titleTemplate": "{title} | Wihngo",
+    "description": "Wihngo는 새를 사랑하는 사람들을 위한 사랑 중심의 커뮤니티입니다. 새의 이야기가 공유되고, 연결이 형성되며, 따뜻한 지원이 제공되는 곳입니다.",
+    "twitterTitle": "Wihngo - 마음과 날개가 만나는 곳",
+    "twitterDescription": "새를 사랑하는 사람들을 위한 사랑 중심의 커뮤니티 플랫폼."
+  },
+  "nav": {
+    "stories": "스토리",
+    "downloadApp": "앱 다운로드",
+    "menu": "메뉴"
+  },
+  "footer": {
+    "tagline": "새를 사랑하는 사람들을 위한 사랑 중심의 커뮤니티.",
+    "explore": "탐색",
+    "download": "다운로드",
+    "android": "Android",
+    "ios": "iOS",
+    "privacyPolicy": "개인정보 보호정책",
+    "terms": "이용약관",
+    "contact": "연락처",
+    "copyright": "Wihngo. 새와 그들의 사람들을 위해 사랑으로 만들었습니다."
+  },
+  "home": {
+    "heroTitle": "Wihngo",
+    "heroDescription": "Wihngo는 새를 사랑하는 사람들을 위한 사랑 중심의 커뮤니티입니다. 새의 이야기가 공유되고, 연결이 형성되며, 따뜻한 지원이 제공되는 곳입니다.",
+    "mobileAppCta": "완전한 Wihngo 경험은 모바일 앱에 있습니다.",
+    "downloadTheApp": "앱 다운로드",
+    "birdStoriesTitle": "새 이야기",
+    "birdStoriesSubtitle": "모든 새에게는 이야기가 있습니다. 모든 순간이 소중합니다.",
+    "viewAllStories": "모든 이야기 보기"
+  },
+  "stories": {
+    "pageTitle": "새 이야기",
+    "pageDescription": "모든 새에게는 이야기가 있습니다. 모든 순간이 소중합니다. 우리 커뮤니티가 공유한 아름다운 여정들입니다.",
+    "storiesCount": "{count}개의 이야기가 계속 늘어나고 있습니다",
+    "haveStoryTitle": "공유할 이야기가 있나요?",
+    "haveStoryDescription": "Wihngo 앱을 다운로드하여 당신의 새의 특별한 순간을 진정으로 이해하고 축하하는 커뮤니티와 공유하세요.",
+    "getTheApp": "앱 받기",
+    "metaTitle": "새 이야기 | Wihngo",
+    "metaDescription": "전 세계 새 애호가들의 따뜻한 이야기를 읽어보세요. 모든 지저귐, 모든 순간이 사랑으로 공유됩니다."
+  },
+  "storyDetail": {
+    "notFoundTitle": "이야기를 찾을 수 없습니다 | Wihngo",
+    "about": "{name} 소개",
+    "meetBird": "{name} 만나기",
+    "wantToSupport": "{name}를 후원하고 싶으신가요?",
+    "supportDescription": "Wihngo 앱을 다운로드하여 {name}와 그 주인과 연결하고, 더 많은 이야기를 읽고, 필요할 때 지원을 제공하세요.",
+    "getWihngoApp": "Wihngo 앱 받기",
+    "backToStories": "모든 이야기로 돌아가기"
+  },
+  "bird": {
+    "notFoundTitle": "새를 찾을 수 없습니다 | Wihngo",
+    "personality": "성격",
+    "communitySince": "{date}부터 Wihngo 커뮤니티의 일원",
+    "storiesTitle": "{name}의 이야기",
+    "storiesSubtitle": "이 특별한 순간들을 통해 {name}의 여정을 따라가세요",
+    "connectTitle": "{name}와 연결하기",
+    "connectDescription": "Wihngo 앱을 다운로드하여 {name}의 여정을 팔로우하고, 새로운 이야기를 읽고, 필요할 때 지원을 제공하세요.",
+    "backToBirds": "모든 새로 돌아가기",
+    "yearsOld": "{age}",
+    "meetTitle": "{name} 만나기"
+  },
+  "faq": {
+    "pageTitle": "자주 묻는 질문",
+    "pageDescription": "Wihngo, 우리의 가치, 그리고 운영 방식에 대해 알아야 할 모든 것.",
+    "general": "일반",
+    "generalDescription": "Wihngo의 기본과 우리를 특별하게 만드는 것을 알아보세요",
+    "support": "후원 및 기부",
+    "supportDescription": "Wihngo에서 재정적 후원이 어떻게 작동하는지",
+    "transparency": "투명성과 신뢰",
+    "transparencyDescription": "개방성과 정직함에 대한 우리의 약속",
+    "community": "커뮤니티",
+    "communityDescription": "다른 새 애호가들과 연결하기",
+    "stillHaveQuestions": "아직 질문이 있으신가요?",
+    "stillHaveQuestionsDescription": "우리는 완전한 투명성을 믿습니다. 여기서 답변되지 않은 질문이 있다면, 연락주시기 바랍니다. 앱을 다운로드하여 커뮤니티와 팀과 연결하세요.",
+    "metaTitle": "자주 묻는 질문 | Wihngo",
+    "metaDescription": "Wihngo, 작동 방식, 새와 그들의 사람들에 대한 우리의 약속에 대해 자세히 알아보세요."
+  },
+  "faqItems": {
+    "q1": "Wihngo란 무엇인가요?",
+    "a1": "Wihngo는 새 애호가들을 위한 사랑 중심의 커뮤니티 플랫폼입니다. 깃털 달린 친구들을 깊이 아끼는 사람들이 이야기를 공유하고, 다른 사람들과 연결하며, 새가 우리 삶에 가져다주는 기쁨을 축하할 수 있는 곳입니다. Wihngo는 새와의 관계가 사랑, 돌봄, 동반자 관계에 관한 것이지 상업화가 아니라는 믿음 위에 세워졌습니다.",
+    "q2": "Wihngo는 돈에 관한 것인가요?",
+    "a2": "아니요. Wihngo는 근본적으로 새에 대한 사랑과 새를 돌보는 사람들에 관한 것입니다. 플랫폼에는 도움이 필요한 새를 후원하는 선택적 방법이 포함되어 있지만, 이것은 절대로 필수가 아니며 강요되지 않습니다. 우리는 진정한 돌봄과 커뮤니티가 항상 우선이라고 믿습니다. Wihngo는 인간과 새 사이의 유대를 축하하고 강화하기 위해 존재하지, 그것으로 이익을 얻기 위해서가 아닙니다.",
+    "q3": "Wihngo에서 재정적 후원은 어떻게 작동하나요?",
+    "a3": "Wihngo 앱을 통해 커뮤니티 구성원들은 수의료, 음식 또는 기타 필요로 도움이 필요한 새를 자발적으로 후원할 수 있습니다. 모든 후원은 선택적이고 투명합니다. 기부금이 어디로 가는지 명확한 정보를 제공하며, 누구에게도 기부를 강요하지 않습니다. 초점은 항상 새의 복지와 도움을 주고자 하는 인간의 진정한 욕구에 있습니다.",
+    "q4": "새가 죽으면 어떻게 되나요?",
+    "a4": "새의 상실은 깊이 고통스러우며, Wihngo는 이를 최대한의 존중과 민감함으로 다룹니다. 죽은 새에 대해 재정적 후원이 제공되었다면, 각 상황을 개별적으로 주의 깊게 처리합니다. 투명성이 가장 중요합니다 - 후원자들과 공개적으로 소통하고, 적절한 경우 항상 동의를 받아 다른 도움이 필요한 새에게 기부금을 전달합니다. 우리의 우선순위는 새의 기억을 기리고 슬픔 속에서 그 주인을 지원하는 것입니다.",
+    "q5": "Wihngo는 얼마나 투명한가요?",
+    "a5": "완전한 투명성은 Wihngo의 핵심 가치입니다. 플랫폼이 어떻게 운영되는지, 재정적 후원이 어떻게 처리되는지, 우리의 결정을 이끄는 원칙을 공개적으로 공유합니다. 신뢰는 정직함으로 얻어진다고 믿으며, Wihngo가 어떻게 기능하는지의 모든 측면에 대해 명확하게 하기 위해 최선을 다합니다. 질문이 있으시면 답변해 드립니다.",
+    "q6": "Wihngo에서 내 새의 이야기를 공유할 수 있나요?",
+    "a6": "네! Wihngo 앱(Android와 iOS에서 이용 가능)을 통해 새의 이야기, 사진, 특별한 순간을 커뮤니티와 공유할 수 있습니다. 새가 새로운 재주를 배웠거나, 재미있는 순간이 있었거나, 단순히 당신의 삶에서 그 존재를 축하하고 싶다면, Wihngo가 그것을 공유할 곳입니다. 참고: 이 공개 웹사이트는 읽기 전용입니다; 게시하려면 모바일 앱이 필요합니다.",
+    "q7": "Wihngo는 무료인가요?",
+    "a7": "네, Wihngo는 다운로드와 사용이 무료입니다. 비용 없이 이야기를 공유하고, 다른 새 애호가들과 연결하고, 커뮤니티에 참여할 수 있습니다. 도움이 필요한 새를 돕고 싶은 분들을 위한 선택적 재정 지원 기능이 있지만, Wihngo 자체의 사용은 완전히 무료입니다.",
+    "q8": "Wihngo는 다른 플랫폼과 어떻게 다른가요?",
+    "a8": "Wihngo는 사랑 위에 세워졌으며, 참여나 수익을 극대화하도록 설계된 알고리즘 위에 세워지지 않았습니다. 클릭이나 광고 수익을 위해 감정적인 콘텐츠를 악용하지 않습니다. 새를 상품으로 취급하지 않습니다. 대신, 진정한 연결, 의미 있는 이야기, 지원적인 커뮤니티 구축에 집중합니다. Wihngo는 새가 더 나은 것을 받을 자격이 있기 때문에 존재하며, 새를 사랑하는 사람들도 마찬가지입니다.",
+    "q9": "다른 새 애호가들과 어떻게 연결할 수 있나요?",
+    "a9": "Wihngo 앱은 커뮤니티의 다른 구성원들과 연결하는 기능을 제공합니다. 이야기를 읽고 반응하고, 새와 그 주인을 팔로우하고, 새를 돌보는 독특한 기쁨과 책임을 진정으로 이해하는 커뮤니티에 참여할 수 있습니다. 이 공개 웹사이트는 커뮤니티의 미리보기를 보여주지만, 완전한 상호작용은 앱에서 이루어집니다.",
+    "q10": "Wihngo는 어떻게 구축되었나요?",
+    "a10": "Wihngo는 새와 인간 모두에 대한 배려, 의도, 존중으로 구축되었습니다. 부드럽고 접근하기 쉬운 경험을 만들기 위해 현대 기술을 사용하지만, 기술은 항상 미션을 위해 봉사하며 그 반대가 아닙니다. 모바일 앱은 Android와 iOS에서 이용 가능하며, 이 웹사이트는 Wihngo 커뮤니티에 대한 이야기와 정보에 대한 공개 접근을 제공합니다."
+  },
+  "privacy": {
+    "pageTitle": "개인정보 보호정책",
+    "lastUpdated": "최종 업데이트:",
+    "lastUpdatedDate": "2025년 12월 15일",
+    "intro": "Wihngo는 귀하의 개인정보를 존중하며 개인 데이터 보호에 최선을 다합니다.",
+    "whoWeAreTitle": "우리는 누구인가",
+    "whoWeAreContent": "Wihngo는 유럽연합에서 운영되는 플랫폼입니다. 회사는 에스토니아에서 등록 중입니다.",
+    "whatDataTitle": "수집하는 데이터",
+    "whatDataIntro": "wihngo.com을 방문하면 다음을 수집할 수 있습니다:",
+    "whatDataItem1": "기본 기술 데이터(IP 주소, 브라우저 유형, 기기 정보 등)",
+    "whatDataItem2": "웹사이트 성능 및 분석을 위한 익명 사용 데이터",
+    "whatDataNote": "웹사이트는 읽기 전용입니다. 웹사이트에서 계정, 결제 또는 상호작용이 수행되지 않습니다.",
+    "whyCollectTitle": "이 데이터를 수집하는 이유",
+    "whyCollectIntro": "이 데이터를 수집하는 이유:",
+    "whyCollectItem1": "웹사이트가 올바르게 작동하도록 보장",
+    "whyCollectItem2": "성능 및 사용자 경험 개선",
+    "whyCollectItem3": "보안 유지",
+    "legalBasisTitle": "법적 근거",
+    "legalBasisContent": "데이터는 정당한 이익에 기반하여 일반 데이터 보호 규정(GDPR)에 따라 처리됩니다.",
+    "dataSharingTitle": "데이터 공유",
+    "dataSharingContent": "귀하의 데이터를 판매하지 않습니다. 일부 데이터는 신뢰할 수 있는 서비스 제공업체(분석 또는 호스팅 서비스 등)에 의해 처리될 수 있습니다.",
+    "dataRetentionTitle": "데이터 보존",
+    "dataRetentionContent": "데이터는 위에 설명된 목적에 필요한 기간 동안만 보관됩니다.",
+    "yourRightsTitle": "귀하의 권리",
+    "yourRightsContent": "귀하는 개인 데이터에 대한 접근, 수정 또는 삭제를 요청할 권리가 있습니다.",
+    "contactTitle": "연락처",
+    "contactContent": "개인정보 관련 질문은 다음으로 연락하세요:",
+    "metaTitle": "개인정보 보호정책 | Wihngo",
+    "metaDescription": "Wihngo는 귀하의 개인정보를 존중하며 개인 데이터 보호에 최선을 다합니다."
+  },
+  "terms": {
+    "pageTitle": "이용약관",
+    "lastUpdated": "최종 업데이트:",
+    "lastUpdatedDate": "2025년 12월 15일",
+    "intro": "wihngo.com에 접속함으로써 다음 약관에 동의합니다.",
+    "platformRoleTitle": "플랫폼 역할",
+    "platformRoleContent": "Wihngo는 커뮤니티 플랫폼입니다. 자선단체, 금융기관 또는 수의 서비스가 아닙니다.",
+    "websiteUsageTitle": "웹사이트 사용",
+    "websiteUsageContent": "웹사이트는 정보 제공 목적으로만 제공됩니다. Wihngo의 주요 서비스는 모바일 애플리케이션을 통해 제공됩니다.",
+    "userContentTitle": "사용자 콘텐츠",
+    "userContentContent": "웹사이트에 표시되는 콘텐츠는 Wihngo 플랫폼 사용자가 제공합니다. 사용자는 자신의 콘텐츠 소유권을 유지합니다.",
+    "noGuaranteesTitle": "보증 없음",
+    "noGuaranteesContent": "Wihngo는 새, 이야기 또는 지원 활동과 관련된 결과를 보장하지 않습니다.",
+    "limitationTitle": "책임 제한",
+    "limitationContent": "Wihngo는 웹사이트 사용으로 인한 손실이나 손해에 대해 책임지지 않습니다.",
+    "governingLawTitle": "준거법",
+    "governingLawContent": "이 약관은 에스토니아 및 유럽연합 법률의 적용을 받습니다.",
+    "contactTitle": "연락처",
+    "contactContent": "질문이나 지원은 다음으로 연락하세요:",
+    "metaTitle": "이용약관 | Wihngo",
+    "metaDescription": "Wihngo 플랫폼 이용약관."
+  },
+  "contact": {
+    "pageTitle": "연락처",
+    "supportIntro": "질문이나 지원은 다음으로 연락하세요:",
+    "privacyIntro": "개인정보 관련 질문은:",
+    "metaTitle": "연락처 | Wihngo",
+    "metaDescription": "Wihngo에 연락하세요."
+  },
+  "notFound": {
+    "title": "페이지를 찾을 수 없습니다",
+    "description": "이 새는 날아갔습니다. 익숙한 곳으로 돌아갑시다.",
+    "goHome": "홈으로",
+    "readStories": "이야기 읽기"
+  },
+  "loading": {
+    "text": "로딩 중..."
+  },
+  "download": {
+    "title": "앱 다운로드",
+    "description": "완전한 Wihngo 경험은 모바일 앱에 있습니다.",
+    "comingSoon": "곧 출시",
+    "availableOn": "iOS 및 Android에서 이용 가능"
+  },
+  "storiesList": {
+    "noStories": "아직 이야기가 없습니다. 곧 다시 확인해주세요!",
+    "loadMore": "더 보기 ({current}/{total})",
+    "loading": "로딩 중...",
+    "seenAll": "{count}개의 모든 이야기를 보았습니다",
+    "failedToFetch": "이야기를 불러오지 못했습니다"
+  },
+  "cards": {
+    "readMore": "더 읽기",
+    "meet": "{name} 만나기"
+  },
+  "moods": {
+    "happy": "행복한",
+    "playful": "장난스러운",
+    "calm": "차분한",
+    "curious": "호기심 많은",
+    "adventurous": "모험적인",
+    "loving": "다정한"
+  },
+  "language": {
+    "select": "언어 선택",
+    "current": "현재 언어"
+  }
+}

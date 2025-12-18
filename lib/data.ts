@@ -69,7 +69,7 @@ African Greys are known for their intelligence and ability to mimic, but hearing
 
 We celebrated with her favorite treat - fresh mango slices. Luna seemed to understand the joy she brought us, repeating the phrase several more times throughout the day.
 
-This is what Whingo is all about - these precious moments that remind us why we dedicate our lives to these beautiful creatures.`,
+This is what Wihngo is all about - these precious moments that remind us why we dedicate our lives to these beautiful creatures.`,
     imageUrl:
       "https://images.unsplash.com/photo-1552728089-57bdde30beb3?w=800&q=80",
     mood: "loving",
@@ -113,7 +113,7 @@ Within minutes, they were chattering away, sharing perches, and even playing wit
 
 Budgerigars are incredibly social creatures, and seeing Kiwi so happy reminded me of how important companionship is for these little ones.
 
-We're planning more playdates, and who knows - maybe Kiwi and Mango will become best friends. The Whingo community has made connections like these possible.`,
+We're planning more playdates, and who knows - maybe Kiwi and Mango will become best friends. The Wihngo community has made connections like these possible.`,
     imageUrl:
       "https://images.unsplash.com/photo-1522926193341-e9ffd686c60f?w=800&q=80",
     mood: "happy",
@@ -198,72 +198,72 @@ Thank you, Sunny, for reminding me to dance more often.`,
 export const faqs: FAQ[] = [
   {
     id: "1",
-    question: "What is Whingo?",
+    question: "What is Wihngo?",
     answer:
-      "Whingo is a love-centric community platform for bird lovers. It's a place where people who care deeply about their feathered companions can share stories, connect with others, and celebrate the joy that birds bring to our lives. Whingo is built on the belief that our relationships with birds are about love, care, and companionship - not commodification.",
+      "Wihngo is a love-centric community platform for bird lovers. It's a place where people who care deeply about their feathered companions can share stories, connect with others, and celebrate the joy that birds bring to our lives. Wihngo is built on the belief that our relationships with birds are about love, care, and companionship - not commodification.",
     category: "general",
   },
   {
     id: "2",
-    question: "Is Whingo about money?",
+    question: "Is Wihngo about money?",
     answer:
-      "No. Whingo is fundamentally about love for birds and the people who care for them. While the platform includes optional ways to support birds in need, this is never required or pushed. We believe that genuine care and community come first, always. Whingo exists to celebrate and strengthen the bond between humans and birds, not to profit from it.",
+      "No. Wihngo is fundamentally about love for birds and the people who care for them. While the platform includes optional ways to support birds in need, this is never required or pushed. We believe that genuine care and community come first, always. Wihngo exists to celebrate and strengthen the bond between humans and birds, not to profit from it.",
     category: "general",
   },
   {
     id: "3",
-    question: "How does financial support work on Whingo?",
+    question: "How does financial support work on Wihngo?",
     answer:
-      "The Whingo mobile app allows community members to voluntarily support birds who need help with veterinary care, food, or other necessities. All support is optional and transparent. We provide clear information about where contributions go, and we never pressure anyone to give. The focus is always on the bird's wellbeing and the human's genuine desire to help.",
+      "The Wihngo mobile app allows community members to voluntarily support birds who need help with veterinary care, food, or other necessities. All support is optional and transparent. We provide clear information about where contributions go, and we never pressure anyone to give. The focus is always on the bird's wellbeing and the human's genuine desire to help.",
     category: "support",
   },
   {
     id: "4",
     question: "What happens if a bird passes away?",
     answer:
-      "The loss of a bird is deeply painful, and Whingo treats this with the utmost respect and sensitivity. If financial support was provided for a bird who has passed, we handle each situation individually and with care. Transparency is paramount - we communicate openly with supporters and, when appropriate, redirect contributions to other birds in need, always with consent. Our priority is honoring the bird's memory and supporting their human through grief.",
+      "The loss of a bird is deeply painful, and Wihngo treats this with the utmost respect and sensitivity. If financial support was provided for a bird who has passed, we handle each situation individually and with care. Transparency is paramount - we communicate openly with supporters and, when appropriate, redirect contributions to other birds in need, always with consent. Our priority is honoring the bird's memory and supporting their human through grief.",
     category: "support",
   },
   {
     id: "5",
-    question: "How transparent is Whingo?",
+    question: "How transparent is Wihngo?",
     answer:
-      "Complete transparency is a core value of Whingo. We openly share how the platform operates, how financial support is handled, and the principles that guide our decisions. We believe trust is earned through honesty, and we're committed to being clear about every aspect of how Whingo functions. If you have questions, we have answers.",
+      "Complete transparency is a core value of Wihngo. We openly share how the platform operates, how financial support is handled, and the principles that guide our decisions. We believe trust is earned through honesty, and we're committed to being clear about every aspect of how Wihngo functions. If you have questions, we have answers.",
     category: "transparency",
   },
   {
     id: "6",
-    question: "Can I share my bird's story on Whingo?",
+    question: "Can I share my bird's story on Wihngo?",
     answer:
-      "Yes! The Whingo mobile app (available on Android and iOS) allows you to share your bird's stories, photos, and special moments with the community. Whether your bird learned a new trick, had a funny moment, or you simply want to celebrate their presence in your life, Whingo is the place to share it. Note: This public website is read-only; posting requires the mobile app.",
+      "Yes! The Wihngo mobile app (available on Android and iOS) allows you to share your bird's stories, photos, and special moments with the community. Whether your bird learned a new trick, had a funny moment, or you simply want to celebrate their presence in your life, Wihngo is the place to share it. Note: This public website is read-only; posting requires the mobile app.",
     category: "community",
   },
   {
     id: "7",
-    question: "Is Whingo free to use?",
+    question: "Is Wihngo free to use?",
     answer:
-      "Yes, Whingo is free to download and use. You can share stories, connect with other bird lovers, and participate in the community without any cost. Optional financial support features exist for those who wish to help birds in need, but using Whingo itself is completely free.",
+      "Yes, Wihngo is free to download and use. You can share stories, connect with other bird lovers, and participate in the community without any cost. Optional financial support features exist for those who wish to help birds in need, but using Wihngo itself is completely free.",
     category: "general",
   },
   {
     id: "8",
-    question: "What makes Whingo different from other platforms?",
+    question: "What makes Wihngo different from other platforms?",
     answer:
-      "Whingo is built on love, not algorithms designed to maximize engagement or profit. We don't exploit emotional content for clicks or ad revenue. We don't treat birds as products. Instead, we focus on genuine connection, meaningful stories, and building a supportive community. Whingo exists because birds deserve better, and so do the people who love them.",
+      "Wihngo is built on love, not algorithms designed to maximize engagement or profit. We don't exploit emotional content for clicks or ad revenue. We don't treat birds as products. Instead, we focus on genuine connection, meaningful stories, and building a supportive community. Wihngo exists because birds deserve better, and so do the people who love them.",
     category: "general",
   },
   {
     id: "9",
     question: "How can I connect with other bird lovers?",
     answer:
-      "The Whingo mobile app provides features for connecting with other members of the community. You can read and react to stories, follow birds and their humans, and participate in a community that truly understands the unique joy and responsibility of caring for birds. This public website shows you a preview of the community, but full interaction happens in the app.",
+      "The Wihngo mobile app provides features for connecting with other members of the community. You can read and react to stories, follow birds and their humans, and participate in a community that truly understands the unique joy and responsibility of caring for birds. This public website shows you a preview of the community, but full interaction happens in the app.",
     category: "community",
   },
   {
     id: "10",
-    question: "How is Whingo built?",
+    question: "How is Wihngo built?",
     answer:
-      "Whingo is built with care, intention, and respect for both birds and humans. We use modern technology to create a smooth, accessible experience, but technology always serves the mission - never the other way around. The mobile app is available on Android and iOS, and this website provides public access to stories and information about the Whingo community.",
+      "Wihngo is built with care, intention, and respect for both birds and humans. We use modern technology to create a smooth, accessible experience, but technology always serves the mission - never the other way around. The mobile app is available on Android and iOS, and this website provides public access to stories and information about the Wihngo community.",
     category: "transparency",
   },
 ];

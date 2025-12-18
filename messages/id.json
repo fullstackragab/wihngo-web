@@ -1,0 +1,200 @@
+{
+  "metadata": {
+    "title": "Wihngo - Komunitas berbasis cinta untuk pecinta burung",
+    "titleTemplate": "{title} | Wihngo",
+    "description": "Wihngo adalah komunitas berbasis cinta untuk pecinta burung. Tempat di mana cerita burung dibagikan, koneksi terbentuk, dan dukungan diberikan dengan penuh perhatian.",
+    "twitterTitle": "Wihngo - Tempat Hati dan Sayap Bertemu",
+    "twitterDescription": "Platform komunitas berbasis cinta untuk pecinta burung."
+  },
+  "nav": {
+    "stories": "Cerita",
+    "downloadApp": "Unduh Aplikasi",
+    "menu": "Menu"
+  },
+  "footer": {
+    "tagline": "Komunitas berbasis cinta untuk pecinta burung.",
+    "explore": "Jelajahi",
+    "download": "Unduh",
+    "android": "Android",
+    "ios": "iOS",
+    "privacyPolicy": "Kebijakan Privasi",
+    "terms": "Ketentuan",
+    "contact": "Kontak",
+    "copyright": "Wihngo. Dibuat dengan cinta untuk burung dan manusianya."
+  },
+  "home": {
+    "heroTitle": "Wihngo",
+    "heroDescription": "Wihngo adalah komunitas berbasis cinta untuk pecinta burung. Tempat di mana cerita burung dibagikan, koneksi terbentuk, dan dukungan diberikan dengan penuh perhatian.",
+    "mobileAppCta": "Pengalaman Wihngo lengkap ada di aplikasi mobile.",
+    "downloadTheApp": "Unduh aplikasi",
+    "birdStoriesTitle": "Cerita Burung",
+    "birdStoriesSubtitle": "Setiap burung punya cerita. Setiap momen berarti.",
+    "viewAllStories": "Lihat semua cerita"
+  },
+  "stories": {
+    "pageTitle": "Cerita Burung",
+    "pageDescription": "Setiap burung punya cerita. Setiap momen berarti. Berikut adalah beberapa perjalanan indah yang dibagikan oleh komunitas kami.",
+    "storiesCount": "{count} cerita dan terus bertambah",
+    "haveStoryTitle": "Punya Cerita untuk Dibagikan?",
+    "haveStoryDescription": "Unduh aplikasi Wihngo untuk membagikan momen spesial burung Anda dengan komunitas yang benar-benar memahami dan merayakannya.",
+    "getTheApp": "Dapatkan Aplikasi",
+    "metaTitle": "Cerita Burung | Wihngo",
+    "metaDescription": "Baca cerita menyentuh dari pecinta burung di seluruh dunia. Setiap kicauan, setiap momen, dibagikan dengan cinta."
+  },
+  "storyDetail": {
+    "notFoundTitle": "Cerita Tidak Ditemukan | Wihngo",
+    "about": "Tentang {name}",
+    "meetBird": "Kenali {name}",
+    "wantToSupport": "Ingin Mendukung {name}?",
+    "supportDescription": "Unduh aplikasi Wihngo untuk terhubung dengan {name} dan manusianya, baca lebih banyak cerita, dan berikan dukungan saat diperlukan.",
+    "getWihngoApp": "Dapatkan Aplikasi Wihngo",
+    "backToStories": "Kembali ke semua cerita"
+  },
+  "bird": {
+    "notFoundTitle": "Burung Tidak Ditemukan | Wihngo",
+    "personality": "Kepribadian",
+    "communitySince": "Bagian dari komunitas Wihngo sejak {date}",
+    "storiesTitle": "Cerita {name}",
+    "storiesSubtitle": "Ikuti perjalanan {name} melalui momen-momen spesial ini",
+    "connectTitle": "Terhubung dengan {name}",
+    "connectDescription": "Unduh aplikasi Wihngo untuk mengikuti perjalanan {name}, baca cerita baru saat dibagikan, dan berikan dukungan saat diperlukan.",
+    "backToBirds": "Kembali ke semua burung",
+    "yearsOld": "Umur {age}",
+    "meetTitle": "Kenali {name}"
+  },
+  "faq": {
+    "pageTitle": "Pertanyaan yang Sering Diajukan",
+    "pageDescription": "Semua yang perlu Anda ketahui tentang Wihngo, nilai-nilai kami, dan cara kami beroperasi.",
+    "general": "Umum",
+    "generalDescription": "Pelajari dasar-dasar Wihngo dan apa yang membuat kami berbeda",
+    "support": "Dukungan & Kontribusi",
+    "supportDescription": "Bagaimana dukungan finansial bekerja di Wihngo",
+    "transparency": "Transparansi & Kepercayaan",
+    "transparencyDescription": "Komitmen kami terhadap keterbukaan dan kejujuran",
+    "community": "Komunitas",
+    "communityDescription": "Terhubung dengan pecinta burung lainnya",
+    "stillHaveQuestions": "Masih Punya Pertanyaan?",
+    "stillHaveQuestionsDescription": "Kami percaya pada transparansi penuh. Jika Anda memiliki pertanyaan yang belum terjawab di sini, kami ingin mendengar dari Anda. Unduh aplikasi untuk terhubung dengan komunitas dan tim kami.",
+    "metaTitle": "Pertanyaan yang Sering Diajukan | Wihngo",
+    "metaDescription": "Pelajari lebih lanjut tentang Wihngo, cara kerjanya, dan komitmen kami terhadap burung dan manusianya."
+  },
+  "faqItems": {
+    "q1": "Apa itu Wihngo?",
+    "a1": "Wihngo adalah platform komunitas berbasis cinta untuk pecinta burung. Tempat di mana orang yang peduli pada teman berbulu mereka dapat berbagi cerita, terhubung dengan orang lain, dan merayakan kebahagiaan yang burung bawa ke dalam hidup kita. Wihngo dibangun dengan keyakinan bahwa hubungan kita dengan burung adalah tentang cinta, perhatian, dan persahabatan - bukan komersialisasi.",
+    "q2": "Apakah Wihngo tentang uang?",
+    "a2": "Tidak. Wihngo pada dasarnya adalah tentang cinta terhadap burung dan orang-orang yang merawat mereka. Meskipun platform ini mencakup cara opsional untuk mendukung burung yang membutuhkan, ini tidak pernah diwajibkan atau dipaksakan. Kami percaya bahwa kepedulian dan komunitas yang tulus selalu menjadi prioritas. Wihngo ada untuk merayakan dan memperkuat ikatan antara manusia dan burung, bukan untuk mendapat keuntungan darinya.",
+    "q3": "Bagaimana dukungan finansial bekerja di Wihngo?",
+    "a3": "Aplikasi Wihngo memungkinkan anggota komunitas untuk secara sukarela mendukung burung yang membutuhkan bantuan untuk perawatan hewan, makanan, atau kebutuhan lainnya. Semua dukungan bersifat opsional dan transparan. Kami memberikan informasi yang jelas tentang ke mana kontribusi pergi, dan kami tidak pernah menekan siapa pun untuk memberi. Fokusnya selalu pada kesejahteraan burung dan keinginan tulus manusia untuk membantu.",
+    "q4": "Apa yang terjadi jika burung meninggal?",
+    "a4": "Kehilangan burung sangat menyakitkan, dan Wihngo memperlakukan ini dengan rasa hormat dan sensitivitas tertinggi. Jika dukungan finansial diberikan untuk burung yang telah meninggal, kami menangani setiap situasi secara individual dan dengan hati-hati. Transparansi adalah yang utama - kami berkomunikasi secara terbuka dengan pendukung dan, jika sesuai, mengalihkan kontribusi ke burung lain yang membutuhkan, selalu dengan persetujuan. Prioritas kami adalah menghormati kenangan burung dan mendukung manusianya melewati kesedihan.",
+    "q5": "Seberapa transparan Wihngo?",
+    "a5": "Transparansi penuh adalah nilai inti Wihngo. Kami secara terbuka berbagi bagaimana platform beroperasi, bagaimana dukungan finansial ditangani, dan prinsip-prinsip yang memandu keputusan kami. Kami percaya kepercayaan diperoleh melalui kejujuran, dan kami berkomitmen untuk jelas tentang setiap aspek cara Wihngo bekerja. Jika Anda memiliki pertanyaan, kami memiliki jawaban.",
+    "q6": "Bisakah saya membagikan cerita burung saya di Wihngo?",
+    "a6": "Ya! Aplikasi Wihngo (tersedia di Android dan iOS) memungkinkan Anda berbagi cerita, foto, dan momen spesial burung Anda dengan komunitas. Baik burung Anda belajar trik baru, mengalami momen lucu, atau Anda hanya ingin merayakan kehadirannya dalam hidup Anda, Wihngo adalah tempatnya. Catatan: Website publik ini hanya untuk membaca; posting memerlukan aplikasi mobile.",
+    "q7": "Apakah Wihngo gratis?",
+    "a7": "Ya, Wihngo gratis untuk diunduh dan digunakan. Anda dapat berbagi cerita, terhubung dengan pecinta burung lainnya, dan berpartisipasi dalam komunitas tanpa biaya apa pun. Fitur dukungan finansial opsional tersedia bagi mereka yang ingin membantu burung yang membutuhkan, tetapi menggunakan Wihngo itu sendiri sepenuhnya gratis.",
+    "q8": "Apa yang membuat Wihngo berbeda dari platform lain?",
+    "a8": "Wihngo dibangun atas dasar cinta, bukan algoritma yang dirancang untuk memaksimalkan engagement atau keuntungan. Kami tidak mengeksploitasi konten emosional untuk klik atau pendapatan iklan. Kami tidak memperlakukan burung sebagai produk. Sebaliknya, kami fokus pada koneksi yang tulus, cerita yang bermakna, dan membangun komunitas yang suportif. Wihngo ada karena burung layak mendapat yang lebih baik, begitu juga orang-orang yang mencintai mereka.",
+    "q9": "Bagaimana saya bisa terhubung dengan pecinta burung lainnya?",
+    "a9": "Aplikasi Wihngo menyediakan fitur untuk terhubung dengan anggota komunitas lainnya. Anda dapat membaca dan merespons cerita, mengikuti burung dan manusianya, dan berpartisipasi dalam komunitas yang benar-benar memahami kebahagiaan dan tanggung jawab unik dalam merawat burung. Website publik ini menunjukkan pratinjau komunitas, tetapi interaksi penuh terjadi di aplikasi.",
+    "q10": "Bagaimana Wihngo dibangun?",
+    "a10": "Wihngo dibangun dengan kepedulian, niat, dan rasa hormat terhadap burung dan manusia. Kami menggunakan teknologi modern untuk menciptakan pengalaman yang lancar dan mudah diakses, tetapi teknologi selalu melayani misi - bukan sebaliknya. Aplikasi mobile tersedia di Android dan iOS, dan website ini menyediakan akses publik ke cerita dan informasi tentang komunitas Wihngo."
+  },
+  "privacy": {
+    "pageTitle": "Kebijakan Privasi",
+    "lastUpdated": "Terakhir diperbarui:",
+    "lastUpdatedDate": "15 Desember 2025",
+    "intro": "Wihngo menghormati privasi Anda dan berkomitmen untuk melindungi data pribadi Anda.",
+    "whoWeAreTitle": "Siapa kami",
+    "whoWeAreContent": "Wihngo adalah platform yang beroperasi di Uni Eropa. Perusahaan sedang dalam proses pendaftaran di Estonia.",
+    "whatDataTitle": "Data apa yang kami kumpulkan",
+    "whatDataIntro": "Ketika Anda mengunjungi wihngo.com, kami mungkin mengumpulkan:",
+    "whatDataItem1": "Data teknis dasar (seperti alamat IP, jenis browser, informasi perangkat)",
+    "whatDataItem2": "Data penggunaan anonim untuk kinerja website dan analitik",
+    "whatDataNote": "Website ini hanya untuk dibaca. Tidak ada akun, pembayaran, atau interaksi yang dilakukan di website.",
+    "whyCollectTitle": "Mengapa kami mengumpulkan data ini",
+    "whyCollectIntro": "Kami mengumpulkan data ini untuk:",
+    "whyCollectItem1": "Memastikan website bekerja dengan benar",
+    "whyCollectItem2": "Meningkatkan kinerja dan pengalaman pengguna",
+    "whyCollectItem3": "Menjaga keamanan",
+    "legalBasisTitle": "Dasar hukum",
+    "legalBasisContent": "Data diproses di bawah General Data Protection Regulation (GDPR) berdasarkan kepentingan yang sah.",
+    "dataSharingTitle": "Berbagi data",
+    "dataSharingContent": "Kami tidak menjual data Anda. Beberapa data mungkin diproses oleh penyedia layanan tepercaya (seperti layanan analitik atau hosting).",
+    "dataRetentionTitle": "Penyimpanan data",
+    "dataRetentionContent": "Data hanya disimpan selama diperlukan untuk tujuan yang dijelaskan di atas.",
+    "yourRightsTitle": "Hak Anda",
+    "yourRightsContent": "Anda memiliki hak untuk mengakses, memperbaiki, atau meminta penghapusan data pribadi Anda.",
+    "contactTitle": "Kontak",
+    "contactContent": "Untuk pertanyaan terkait privasi, hubungi:",
+    "metaTitle": "Kebijakan Privasi | Wihngo",
+    "metaDescription": "Wihngo menghormati privasi Anda dan berkomitmen untuk melindungi data pribadi Anda."
+  },
+  "terms": {
+    "pageTitle": "Ketentuan Layanan",
+    "lastUpdated": "Terakhir diperbarui:",
+    "lastUpdatedDate": "15 Desember 2025",
+    "intro": "Dengan mengakses wihngo.com, Anda menyetujui ketentuan berikut.",
+    "platformRoleTitle": "Peran platform",
+    "platformRoleContent": "Wihngo adalah platform komunitas. Ini bukan lembaga amal, lembaga keuangan, atau layanan hewan.",
+    "websiteUsageTitle": "Penggunaan website",
+    "websiteUsageContent": "Website ini disediakan hanya untuk tujuan informasi. Layanan utama Wihngo diberikan melalui aplikasi mobile.",
+    "userContentTitle": "Konten pengguna",
+    "userContentContent": "Konten yang ditampilkan di website berasal dari pengguna platform Wihngo. Pengguna tetap menjadi pemilik konten mereka.",
+    "noGuaranteesTitle": "Tidak ada jaminan",
+    "noGuaranteesContent": "Wihngo tidak menjamin hasil yang terkait dengan burung, cerita, atau aktivitas dukungan.",
+    "limitationTitle": "Batasan tanggung jawab",
+    "limitationContent": "Wihngo tidak bertanggung jawab atas kerugian atau kerusakan yang timbul dari penggunaan website.",
+    "governingLawTitle": "Hukum yang berlaku",
+    "governingLawContent": "Ketentuan ini diatur oleh hukum Estonia dan Uni Eropa.",
+    "contactTitle": "Kontak",
+    "contactContent": "Untuk pertanyaan atau dukungan, hubungi:",
+    "metaTitle": "Ketentuan Layanan | Wihngo",
+    "metaDescription": "Ketentuan Layanan untuk platform Wihngo."
+  },
+  "contact": {
+    "pageTitle": "Kontak",
+    "supportIntro": "Untuk pertanyaan atau dukungan, hubungi:",
+    "privacyIntro": "Untuk pertanyaan terkait privasi:",
+    "metaTitle": "Kontak | Wihngo",
+    "metaDescription": "Hubungi Wihngo."
+  },
+  "notFound": {
+    "title": "Halaman Tidak Ditemukan",
+    "description": "Burung ini telah terbang. Mari kita bawa Anda kembali ke tempat yang familiar.",
+    "goHome": "Ke Beranda",
+    "readStories": "Baca Cerita"
+  },
+  "loading": {
+    "text": "Memuat..."
+  },
+  "download": {
+    "title": "Unduh aplikasi",
+    "description": "Pengalaman Wihngo lengkap ada di aplikasi mobile.",
+    "comingSoon": "Segera Hadir",
+    "availableOn": "Tersedia di iOS & Android"
+  },
+  "storiesList": {
+    "noStories": "Belum ada cerita. Kembali lagi nanti!",
+    "loadMore": "Muat Lebih Banyak ({current} dari {total})",
+    "loading": "Memuat...",
+    "seenAll": "Anda telah melihat semua {count} cerita",
+    "failedToFetch": "Gagal mengambil cerita"
+  },
+  "cards": {
+    "readMore": "Baca selengkapnya",
+    "meet": "Kenali {name}"
+  },
+  "moods": {
+    "happy": "senang",
+    "playful": "ceria",
+    "calm": "tenang",
+    "curious": "penasaran",
+    "adventurous": "petualang",
+    "loving": "penyayang"
+  },
+  "language": {
+    "select": "Pilih bahasa",
+    "current": "Bahasa saat ini"
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "metadata": {
+    "title": "Wihngo - Une communauté centrée sur l'amour pour les passionnés d'oiseaux",
+    "titleTemplate": "{title} | Wihngo",
+    "description": "Wihngo est une communauté centrée sur l'amour pour les passionnés d'oiseaux. Un endroit où les histoires d'oiseaux sont partagées, les liens se forment et le soutien est donné avec attention.",
+    "twitterTitle": "Wihngo - Où les cœurs et les ailes se rencontrent",
+    "twitterDescription": "Une plateforme communautaire centrée sur l'amour pour les amoureux des oiseaux."
+  },
+  "nav": {
+    "stories": "Histoires",
+    "downloadApp": "Télécharger l'App",
+    "menu": "Menu"
+  },
+  "footer": {
+    "tagline": "Une communauté centrée sur l'amour pour les passionnés d'oiseaux.",
+    "explore": "Explorer",
+    "download": "Télécharger",
+    "android": "Android",
+    "ios": "iOS",
+    "privacyPolicy": "Confidentialité",
+    "terms": "Conditions",
+    "contact": "Contact",
+    "copyright": "Wihngo. Créé avec amour pour les oiseaux et leurs humains."
+  },
+  "home": {
+    "heroTitle": "Wihngo",
+    "heroDescription": "Wihngo est une communauté centrée sur l'amour pour les passionnés d'oiseaux. Un endroit où les histoires d'oiseaux sont partagées, les liens se forment et le soutien est donné avec attention.",
+    "mobileAppCta": "L'expérience Wihngo complète est dans l'application mobile.",
+    "downloadTheApp": "Télécharger l'app",
+    "birdStoriesTitle": "Histoires d'Oiseaux",
+    "birdStoriesSubtitle": "Chaque oiseau a une histoire. Chaque moment compte.",
+    "viewAllStories": "Voir toutes les histoires"
+  },
+  "stories": {
+    "pageTitle": "Histoires d'Oiseaux",
+    "pageDescription": "Chaque oiseau a une histoire. Chaque moment compte. Voici quelques-uns des beaux voyages partagés par notre communauté.",
+    "storiesCount": "{count} histoires et ça continue",
+    "haveStoryTitle": "Vous avez une histoire à partager ?",
+    "haveStoryDescription": "Téléchargez l'app Wihngo pour partager les moments spéciaux de votre oiseau avec une communauté qui les comprend et les célèbre vraiment.",
+    "getTheApp": "Obtenir l'App",
+    "metaTitle": "Histoires d'Oiseaux | Wihngo",
+    "metaDescription": "Lisez des histoires touchantes d'amoureux des oiseaux du monde entier. Chaque gazouillis, chaque moment, partagé avec amour."
+  },
+  "storyDetail": {
+    "notFoundTitle": "Histoire non trouvée | Wihngo",
+    "about": "À propos de {name}",
+    "meetBird": "Rencontrez {name}",
+    "wantToSupport": "Vous voulez soutenir {name} ?",
+    "supportDescription": "Téléchargez l'app Wihngo pour vous connecter avec {name} et son humain, lire plus d'histoires et optionnellement apporter votre soutien si nécessaire.",
+    "getWihngoApp": "Obtenir l'App Wihngo",
+    "backToStories": "Retour à toutes les histoires"
+  },
+  "bird": {
+    "notFoundTitle": "Oiseau non trouvé | Wihngo",
+    "personality": "Personnalité",
+    "communitySince": "Membre de la communauté Wihngo depuis {date}",
+    "storiesTitle": "Histoires de {name}",
+    "storiesSubtitle": "Suivez le voyage de {name} à travers ces moments spéciaux",
+    "connectTitle": "Connectez-vous avec {name}",
+    "connectDescription": "Téléchargez l'app Wihngo pour suivre le voyage de {name}, lire les nouvelles histoires et optionnellement apporter votre soutien si nécessaire.",
+    "backToBirds": "Retour à tous les oiseaux",
+    "yearsOld": "{age}",
+    "meetTitle": "Rencontrez {name}"
+  },
+  "faq": {
+    "pageTitle": "Questions Fréquentes",
+    "pageDescription": "Tout ce que vous devez savoir sur Wihngo, nos valeurs et notre fonctionnement.",
+    "general": "Général",
+    "generalDescription": "Apprenez les bases de Wihngo et ce qui nous rend différents",
+    "support": "Soutien et Contributions",
+    "supportDescription": "Comment fonctionne le soutien financier sur Wihngo",
+    "transparency": "Transparence et Confiance",
+    "transparencyDescription": "Notre engagement envers l'ouverture et l'honnêteté",
+    "community": "Communauté",
+    "communityDescription": "Se connecter avec d'autres amoureux des oiseaux",
+    "stillHaveQuestions": "Encore des questions ?",
+    "stillHaveQuestionsDescription": "Nous croyons en la transparence totale. Si vous avez des questions sans réponse ici, nous serions ravis de vous entendre. Téléchargez l'app pour vous connecter avec notre communauté et notre équipe.",
+    "metaTitle": "Questions Fréquentes | Wihngo",
+    "metaDescription": "En savoir plus sur Wihngo, comment ça fonctionne et notre engagement envers les oiseaux et leurs humains."
+  },
+  "faqItems": {
+    "q1": "Qu'est-ce que Wihngo ?",
+    "a1": "Wihngo est une plateforme communautaire centrée sur l'amour pour les amoureux des oiseaux. C'est un endroit où les personnes qui se soucient profondément de leurs compagnons à plumes peuvent partager des histoires, se connecter avec d'autres et célébrer la joie que les oiseaux apportent à nos vies. Wihngo est construit sur la conviction que nos relations avec les oiseaux sont basées sur l'amour, les soins et la compagnie - pas la commercialisation.",
+    "q2": "Wihngo est-il une question d'argent ?",
+    "a2": "Non. Wihngo est fondamentalement une question d'amour pour les oiseaux et les personnes qui s'en occupent. Bien que la plateforme inclue des moyens optionnels de soutenir les oiseaux dans le besoin, ce n'est jamais requis ou imposé. Nous croyons que le véritable soin et la communauté passent en premier, toujours. Wihngo existe pour célébrer et renforcer le lien entre les humains et les oiseaux, pas pour en profiter.",
+    "q3": "Comment fonctionne le soutien financier sur Wihngo ?",
+    "a3": "L'app Wihngo permet aux membres de la communauté de soutenir volontairement les oiseaux qui ont besoin d'aide pour les soins vétérinaires, la nourriture ou d'autres nécessités. Tout soutien est optionnel et transparent. Nous fournissons des informations claires sur la destination des contributions et ne mettons jamais personne sous pression pour donner. L'accent est toujours mis sur le bien-être de l'oiseau et le désir sincère de l'humain d'aider.",
+    "q4": "Que se passe-t-il si un oiseau décède ?",
+    "a4": "La perte d'un oiseau est profondément douloureuse, et Wihngo traite cela avec le plus grand respect et la plus grande sensibilité. Si un soutien financier a été fourni pour un oiseau décédé, nous traitons chaque situation individuellement et avec soin. La transparence est primordiale - nous communiquons ouvertement avec les donateurs et, le cas échéant, redirigeons les contributions vers d'autres oiseaux dans le besoin, toujours avec consentement. Notre priorité est d'honorer la mémoire de l'oiseau et de soutenir son humain dans le deuil.",
+    "q5": "Quelle est la transparence de Wihngo ?",
+    "a5": "La transparence totale est une valeur fondamentale de Wihngo. Nous partageons ouvertement le fonctionnement de la plateforme, la gestion du soutien financier et les principes qui guident nos décisions. Nous croyons que la confiance se gagne par l'honnêteté et nous nous engageons à être clairs sur chaque aspect du fonctionnement de Wihngo. Si vous avez des questions, nous avons des réponses.",
+    "q6": "Puis-je partager l'histoire de mon oiseau sur Wihngo ?",
+    "a6": "Oui ! L'app Wihngo (disponible sur Android et iOS) vous permet de partager les histoires, photos et moments spéciaux de votre oiseau avec la communauté. Que votre oiseau ait appris un nouveau tour, eu un moment drôle ou que vous vouliez simplement célébrer sa présence dans votre vie, Wihngo est l'endroit pour le partager. Note : Ce site web public est en lecture seule ; la publication nécessite l'app mobile.",
+    "q7": "Wihngo est-il gratuit ?",
+    "a7": "Oui, Wihngo est gratuit à télécharger et à utiliser. Vous pouvez partager des histoires, vous connecter avec d'autres amoureux des oiseaux et participer à la communauté sans aucun coût. Des fonctionnalités optionnelles de soutien financier existent pour ceux qui souhaitent aider les oiseaux dans le besoin, mais l'utilisation de Wihngo elle-même est entièrement gratuite.",
+    "q8": "Qu'est-ce qui rend Wihngo différent des autres plateformes ?",
+    "a8": "Wihngo est construit sur l'amour, pas sur des algorithmes conçus pour maximiser l'engagement ou le profit. Nous n'exploitons pas le contenu émotionnel pour des clics ou des revenus publicitaires. Nous ne traitons pas les oiseaux comme des produits. Au lieu de cela, nous nous concentrons sur la connexion authentique, les histoires significatives et la construction d'une communauté solidaire. Wihngo existe parce que les oiseaux méritent mieux, tout comme les personnes qui les aiment.",
+    "q9": "Comment puis-je me connecter avec d'autres amoureux des oiseaux ?",
+    "a9": "L'app Wihngo fournit des fonctionnalités pour se connecter avec d'autres membres de la communauté. Vous pouvez lire et réagir aux histoires, suivre les oiseaux et leurs humains, et participer à une communauté qui comprend vraiment la joie et la responsabilité uniques de s'occuper des oiseaux. Ce site web public vous montre un aperçu de la communauté, mais l'interaction complète se fait dans l'app.",
+    "q10": "Comment Wihngo est-il construit ?",
+    "a10": "Wihngo est construit avec soin, intention et respect pour les oiseaux et les humains. Nous utilisons la technologie moderne pour créer une expérience fluide et accessible, mais la technologie sert toujours la mission - jamais l'inverse. L'app mobile est disponible sur Android et iOS, et ce site web fournit un accès public aux histoires et informations sur la communauté Wihngo."
+  },
+  "privacy": {
+    "pageTitle": "Politique de Confidentialité",
+    "lastUpdated": "Dernière mise à jour :",
+    "lastUpdatedDate": "15 décembre 2025",
+    "intro": "Wihngo respecte votre vie privée et s'engage à protéger vos données personnelles.",
+    "whoWeAreTitle": "Qui sommes-nous",
+    "whoWeAreContent": "Wihngo est une plateforme opérée dans l'Union européenne. L'entreprise est en cours d'enregistrement en Estonie.",
+    "whatDataTitle": "Quelles données nous collectons",
+    "whatDataIntro": "Lorsque vous visitez wihngo.com, nous pouvons collecter :",
+    "whatDataItem1": "Données techniques de base (comme l'adresse IP, le type de navigateur, les informations sur l'appareil)",
+    "whatDataItem2": "Données d'utilisation anonymes pour les performances du site et l'analyse",
+    "whatDataNote": "Le site web est en lecture seule. Aucun compte, paiement ou interaction n'est effectué sur le site.",
+    "whyCollectTitle": "Pourquoi nous collectons ces données",
+    "whyCollectIntro": "Nous collectons ces données pour :",
+    "whyCollectItem1": "Assurer le bon fonctionnement du site",
+    "whyCollectItem2": "Améliorer les performances et l'expérience utilisateur",
+    "whyCollectItem3": "Maintenir la sécurité",
+    "legalBasisTitle": "Base légale",
+    "legalBasisContent": "Les données sont traitées conformément au Règlement général sur la protection des données (RGPD) sur la base de l'intérêt légitime.",
+    "dataSharingTitle": "Partage des données",
+    "dataSharingContent": "Nous ne vendons pas vos données. Certaines données peuvent être traitées par des prestataires de services de confiance (comme des services d'analyse ou d'hébergement).",
+    "dataRetentionTitle": "Conservation des données",
+    "dataRetentionContent": "Les données sont conservées uniquement aussi longtemps que nécessaire aux fins décrites ci-dessus.",
+    "yourRightsTitle": "Vos droits",
+    "yourRightsContent": "Vous avez le droit d'accéder, de corriger ou de demander la suppression de vos données personnelles.",
+    "contactTitle": "Contact",
+    "contactContent": "Pour les questions relatives à la confidentialité, contactez :",
+    "metaTitle": "Politique de Confidentialité | Wihngo",
+    "metaDescription": "Wihngo respecte votre vie privée et s'engage à protéger vos données personnelles."
+  },
+  "terms": {
+    "pageTitle": "Conditions d'Utilisation",
+    "lastUpdated": "Dernière mise à jour :",
+    "lastUpdatedDate": "15 décembre 2025",
+    "intro": "En accédant à wihngo.com, vous acceptez les conditions suivantes.",
+    "platformRoleTitle": "Rôle de la plateforme",
+    "platformRoleContent": "Wihngo est une plateforme communautaire. Ce n'est pas une organisation caritative, une institution financière ou un service vétérinaire.",
+    "websiteUsageTitle": "Utilisation du site",
+    "websiteUsageContent": "Le site web est fourni à titre informatif uniquement. Les principaux services Wihngo sont fournis via des applications mobiles.",
+    "userContentTitle": "Contenu utilisateur",
+    "userContentContent": "Le contenu affiché sur le site provient des utilisateurs de la plateforme Wihngo. Les utilisateurs restent propriétaires de leur contenu.",
+    "noGuaranteesTitle": "Aucune garantie",
+    "noGuaranteesContent": "Wihngo ne garantit pas les résultats liés aux oiseaux, aux histoires ou aux activités de soutien.",
+    "limitationTitle": "Limitation de responsabilité",
+    "limitationContent": "Wihngo n'est pas responsable des pertes ou dommages résultant de l'utilisation du site.",
+    "governingLawTitle": "Droit applicable",
+    "governingLawContent": "Ces conditions sont régies par les lois d'Estonie et de l'Union européenne.",
+    "contactTitle": "Contact",
+    "contactContent": "Pour questions ou assistance, contactez :",
+    "metaTitle": "Conditions d'Utilisation | Wihngo",
+    "metaDescription": "Conditions d'utilisation de la plateforme Wihngo."
+  },
+  "contact": {
+    "pageTitle": "Contact",
+    "supportIntro": "Pour questions ou assistance, contactez :",
+    "privacyIntro": "Pour les questions relatives à la confidentialité :",
+    "metaTitle": "Contact | Wihngo",
+    "metaDescription": "Contactez Wihngo."
+  },
+  "notFound": {
+    "title": "Page non trouvée",
+    "description": "Cet oiseau s'est envolé. Ramenons-vous en terrain connu.",
+    "goHome": "Accueil",
+    "readStories": "Lire les histoires"
+  },
+  "loading": {
+    "text": "Chargement..."
+  },
+  "download": {
+    "title": "Télécharger l'app",
+    "description": "L'expérience Wihngo complète est dans l'application mobile.",
+    "comingSoon": "Bientôt disponible",
+    "availableOn": "Disponible sur iOS et Android"
+  },
+  "storiesList": {
+    "noStories": "Pas encore d'histoires. Revenez bientôt !",
+    "loadMore": "Charger plus ({current} sur {total})",
+    "loading": "Chargement...",
+    "seenAll": "Vous avez vu les {count} histoires",
+    "failedToFetch": "Échec du chargement des histoires"
+  },
+  "cards": {
+    "readMore": "Lire la suite",
+    "meet": "Rencontrez {name}"
+  },
+  "moods": {
+    "happy": "heureux",
+    "playful": "joueur",
+    "calm": "calme",
+    "curious": "curieux",
+    "adventurous": "aventurier",
+    "loving": "aimant"
+  },
+  "language": {
+    "select": "Choisir la langue",
+    "current": "Langue actuelle"
+  }
+}

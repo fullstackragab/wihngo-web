@@ -1,0 +1,200 @@
+{
+  "metadata": {
+    "title": "Wihngo - Kuşları seven insanlar için sevgi merkezli bir topluluk",
+    "titleTemplate": "{title} | Wihngo",
+    "description": "Wihngo, kuşları seven insanlar için sevgi merkezli bir topluluktur. Kuş hikayelerinin paylaşıldığı, bağlantıların kurulduğu ve desteğin özenle verildiği bir yer.",
+    "twitterTitle": "Wihngo - Kalplerin ve Kanatların Buluştuğu Yer",
+    "twitterDescription": "Kuş severler için sevgi merkezli bir topluluk platformu."
+  },
+  "nav": {
+    "stories": "Hikayeler",
+    "downloadApp": "Uygulamayı İndir",
+    "menu": "Menü"
+  },
+  "footer": {
+    "tagline": "Kuşları seven insanlar için sevgi merkezli bir topluluk.",
+    "explore": "Keşfet",
+    "download": "İndir",
+    "android": "Android",
+    "ios": "iOS",
+    "privacyPolicy": "Gizlilik Politikası",
+    "terms": "Şartlar",
+    "contact": "İletişim",
+    "copyright": "Wihngo. Kuşlar ve insanları için sevgiyle yapılmıştır."
+  },
+  "home": {
+    "heroTitle": "Wihngo",
+    "heroDescription": "Wihngo, kuşları seven insanlar için sevgi merkezli bir topluluktur. Kuş hikayelerinin paylaşıldığı, bağlantıların kurulduğu ve desteğin özenle verildiği bir yer.",
+    "mobileAppCta": "Tam Wihngo deneyimi mobil uygulamada.",
+    "downloadTheApp": "Uygulamayı indir",
+    "birdStoriesTitle": "Kuş Hikayeleri",
+    "birdStoriesSubtitle": "Her kuşun bir hikayesi var. Her an önemli.",
+    "viewAllStories": "Tüm hikayeleri gör"
+  },
+  "stories": {
+    "pageTitle": "Kuş Hikayeleri",
+    "pageDescription": "Her kuşun bir hikayesi var. Her an önemli. İşte topluluğumuz tarafından paylaşılan güzel yolculuklardan bazıları.",
+    "storiesCount": "{count} hikaye ve artıyor",
+    "haveStoryTitle": "Paylaşacak Bir Hikayeniz mi Var?",
+    "haveStoryDescription": "Kuşunuzun özel anlarını gerçekten anlayan ve kutlayan bir toplulukla paylaşmak için Wihngo uygulamasını indirin.",
+    "getTheApp": "Uygulamayı Al",
+    "metaTitle": "Kuş Hikayeleri | Wihngo",
+    "metaDescription": "Dünyanın dört bir yanından kuş severlerden yürek ısıtan hikayeler okuyun. Her cıvıltı, her an, sevgiyle paylaşılıyor."
+  },
+  "storyDetail": {
+    "notFoundTitle": "Hikaye Bulunamadı | Wihngo",
+    "about": "{name} Hakkında",
+    "meetBird": "{name} ile Tanış",
+    "wantToSupport": "{name}'i Desteklemek İster misiniz?",
+    "supportDescription": "{name} ve sahibiyle bağlantı kurmak, daha fazla hikaye okumak ve gerektiğinde destek sağlamak için Wihngo uygulamasını indirin.",
+    "getWihngoApp": "Wihngo Uygulamasını Al",
+    "backToStories": "Tüm hikayelere dön"
+  },
+  "bird": {
+    "notFoundTitle": "Kuş Bulunamadı | Wihngo",
+    "personality": "Kişilik",
+    "communitySince": "{date}'den beri Wihngo topluluğunun bir parçası",
+    "storiesTitle": "{name}'in Hikayeleri",
+    "storiesSubtitle": "Bu özel anlar aracılığıyla {name}'in yolculuğunu takip edin",
+    "connectTitle": "{name} ile Bağlan",
+    "connectDescription": "{name}'in yolculuğunu takip etmek, yeni hikayeler okumak ve gerektiğinde destek sağlamak için Wihngo uygulamasını indirin.",
+    "backToBirds": "Tüm kuşlara dön",
+    "yearsOld": "{age} yaşında",
+    "meetTitle": "{name} ile Tanış"
+  },
+  "faq": {
+    "pageTitle": "Sıkça Sorulan Sorular",
+    "pageDescription": "Wihngo, değerlerimiz ve nasıl çalıştığımız hakkında bilmeniz gereken her şey.",
+    "general": "Genel",
+    "generalDescription": "Wihngo'nun temellerini ve bizi farklı kılan şeyi öğrenin",
+    "support": "Destek ve Katkılar",
+    "supportDescription": "Wihngo'da finansal destek nasıl çalışır",
+    "transparency": "Şeffaflık ve Güven",
+    "transparencyDescription": "Açıklık ve dürüstlüğe olan bağlılığımız",
+    "community": "Topluluk",
+    "communityDescription": "Diğer kuş severlerle bağlantı kurma",
+    "stillHaveQuestions": "Hala Sorularınız mı Var?",
+    "stillHaveQuestionsDescription": "Tam şeffaflığa inanıyoruz. Burada cevaplanmayan sorularınız varsa, sizden haber almak isteriz. Topluluğumuz ve ekibimizle bağlantı kurmak için uygulamayı indirin.",
+    "metaTitle": "Sıkça Sorulan Sorular | Wihngo",
+    "metaDescription": "Wihngo hakkında, nasıl çalıştığı ve kuşlara ve insanlarına olan bağlılığımız hakkında daha fazla bilgi edinin."
+  },
+  "faqItems": {
+    "q1": "Wihngo nedir?",
+    "a1": "Wihngo, kuş severler için sevgi merkezli bir topluluk platformudur. Tüylü arkadaşlarını derinden önemseyen insanların hikayeler paylaşabildiği, başkalarıyla bağlantı kurabildiği ve kuşların hayatlarımıza kattığı neşeyi kutlayabildiği bir yer. Wihngo, kuşlarla olan ilişkilerimizin sevgi, bakım ve arkadaşlık hakkında olduğu - ticarileştirme değil - inancı üzerine inşa edilmiştir.",
+    "q2": "Wihngo para ile mi ilgili?",
+    "a2": "Hayır. Wihngo temelde kuşlara duyulan sevgi ve onlara bakan insanlarla ilgilidir. Platform ihtiyacı olan kuşları desteklemenin opsiyonel yollarını içerse de, bu asla zorunlu veya dayatmalı değildir. Gerçek bakım ve topluluğun her zaman önce geldiğine inanıyoruz. Wihngo, insanlar ve kuşlar arasındaki bağı kutlamak ve güçlendirmek için var, bundan kâr etmek için değil.",
+    "q3": "Wihngo'da finansal destek nasıl çalışır?",
+    "a3": "Wihngo uygulaması, topluluk üyelerinin veteriner bakımı, yiyecek veya diğer ihtiyaçlar için yardıma muhtaç kuşları gönüllü olarak desteklemesine olanak tanır. Tüm destek opsiyonel ve şeffaftır. Katkıların nereye gittiği hakkında net bilgi sağlıyoruz ve kimseyi bağış yapmaya zorlamıyoruz. Odak her zaman kuşun refahı ve insanın yardım etme konusundaki gerçek isteği üzerindedir.",
+    "q4": "Bir kuş öldüğünde ne olur?",
+    "a4": "Bir kuşun kaybı derinden acı vericidir ve Wihngo bunu en büyük saygı ve hassasiyetle ele alır. Ölen bir kuş için finansal destek sağlandıysa, her durumu bireysel olarak ve özenle ele alırız. Şeffaflık en önemlisidir - destekçilerle açıkça iletişim kurarız ve uygun olduğunda, her zaman onaylarıyla, katkıları ihtiyacı olan diğer kuşlara yönlendiririz. Önceliğimiz kuşun anısını onurlandırmak ve insanını yas sürecinde desteklemektir.",
+    "q5": "Wihngo ne kadar şeffaf?",
+    "a5": "Tam şeffaflık, Wihngo'nun temel bir değeridir. Platformun nasıl çalıştığını, finansal desteğin nasıl yönetildiğini ve kararlarımıza rehberlik eden ilkeleri açıkça paylaşıyoruz. Güvenin dürüstlükle kazanıldığına inanıyoruz ve Wihngo'nun çalışma şeklinin her yönü hakkında net olmaya kararlıyız. Sorularınız varsa, cevaplarımız var.",
+    "q6": "Wihngo'da kuşumun hikayesini paylaşabilir miyim?",
+    "a6": "Evet! Wihngo uygulaması (Android ve iOS'ta mevcut), kuşunuzun hikayelerini, fotoğraflarını ve özel anlarını toplulukla paylaşmanıza olanak tanır. Kuşunuz yeni bir numara öğrenmiş, komik bir anı olmuş veya sadece hayatınızdaki varlığını kutlamak istiyorsanız, Wihngo paylaşmak için doğru yer. Not: Bu halka açık web sitesi salt okunurdur; gönderi yapmak mobil uygulamayı gerektirir.",
+    "q7": "Wihngo ücretsiz mi?",
+    "a7": "Evet, Wihngo'yu indirmek ve kullanmak ücretsizdir. Hiçbir ücret ödemeden hikayeler paylaşabilir, diğer kuş severlerle bağlantı kurabilir ve topluluğa katılabilirsiniz. İhtiyacı olan kuşlara yardım etmek isteyenler için opsiyonel finansal destek özellikleri mevcuttur, ancak Wihngo'yu kullanmak tamamen ücretsizdir.",
+    "q8": "Wihngo'yu diğer platformlardan farklı kılan nedir?",
+    "a8": "Wihngo, etkileşimi veya kârı maksimize etmek için tasarlanmış algoritmalar üzerine değil, sevgi üzerine inşa edilmiştir. Duygusal içeriği tıklamalar veya reklam geliri için sömürmüyoruz. Kuşları ürün olarak görmüyoruz. Bunun yerine, gerçek bağlantıya, anlamlı hikayelere ve destekleyici bir topluluk oluşturmaya odaklanıyoruz. Wihngo var çünkü kuşlar daha iyisini hak ediyor, onları seven insanlar da.",
+    "q9": "Diğer kuş severlerle nasıl bağlantı kurabilirim?",
+    "a9": "Wihngo uygulaması, topluluğun diğer üyeleriyle bağlantı kurma özellikleri sunar. Hikayeleri okuyabilir ve tepki verebilir, kuşları ve insanlarını takip edebilir ve kuşlara bakmanın benzersiz sevincini ve sorumluluğunu gerçekten anlayan bir topluluğa katılabilirsiniz. Bu halka açık web sitesi size topluluğun bir önizlemesini gösterir, ancak tam etkileşim uygulamada gerçekleşir.",
+    "q10": "Wihngo nasıl oluşturuldu?",
+    "a10": "Wihngo, hem kuşlara hem de insanlara özen, niyet ve saygıyla oluşturulmuştur. Pürüzsüz, erişilebilir bir deneyim yaratmak için modern teknolojiyi kullanıyoruz, ancak teknoloji her zaman misyona hizmet eder - asla tersine değil. Mobil uygulama Android ve iOS'ta mevcuttur ve bu web sitesi Wihngo topluluğu hakkındaki hikayelere ve bilgilere halka açık erişim sağlar."
+  },
+  "privacy": {
+    "pageTitle": "Gizlilik Politikası",
+    "lastUpdated": "Son güncelleme:",
+    "lastUpdatedDate": "15 Aralık 2025",
+    "intro": "Wihngo gizliliğinize saygı duyar ve kişisel verilerinizi korumaya kararlıdır.",
+    "whoWeAreTitle": "Biz kimiz",
+    "whoWeAreContent": "Wihngo, Avrupa Birliği'nde faaliyet gösteren bir platformdur. Şirket Estonya'da kayıt sürecindedir.",
+    "whatDataTitle": "Hangi verileri topluyoruz",
+    "whatDataIntro": "wihngo.com'u ziyaret ettiğinizde şunları toplayabiliriz:",
+    "whatDataItem1": "Temel teknik veriler (IP adresi, tarayıcı türü, cihaz bilgileri gibi)",
+    "whatDataItem2": "Web sitesi performansı ve analitik için anonim kullanım verileri",
+    "whatDataNote": "Web sitesi salt okunurdur. Web sitesinde hesap, ödeme veya etkileşim yapılmaz.",
+    "whyCollectTitle": "Bu verileri neden topluyoruz",
+    "whyCollectIntro": "Bu verileri şunlar için topluyoruz:",
+    "whyCollectItem1": "Web sitesinin doğru çalışmasını sağlamak",
+    "whyCollectItem2": "Performansı ve kullanıcı deneyimini iyileştirmek",
+    "whyCollectItem3": "Güvenliği korumak",
+    "legalBasisTitle": "Yasal dayanak",
+    "legalBasisContent": "Veriler, meşru çıkara dayalı olarak Genel Veri Koruma Yönetmeliği (GDPR) kapsamında işlenir.",
+    "dataSharingTitle": "Veri paylaşımı",
+    "dataSharingContent": "Verilerinizi satmıyoruz. Bazı veriler güvenilir hizmet sağlayıcıları (analitik veya barındırma hizmetleri gibi) tarafından işlenebilir.",
+    "dataRetentionTitle": "Veri saklama",
+    "dataRetentionContent": "Veriler yalnızca yukarıda açıklanan amaçlar için gerekli olduğu sürece saklanır.",
+    "yourRightsTitle": "Haklarınız",
+    "yourRightsContent": "Kişisel verilerinize erişme, düzeltme veya silme talebinde bulunma hakkınız vardır.",
+    "contactTitle": "İletişim",
+    "contactContent": "Gizlilikle ilgili sorular için iletişime geçin:",
+    "metaTitle": "Gizlilik Politikası | Wihngo",
+    "metaDescription": "Wihngo gizliliğinize saygı duyar ve kişisel verilerinizi korumaya kararlıdır."
+  },
+  "terms": {
+    "pageTitle": "Hizmet Şartları",
+    "lastUpdated": "Son güncelleme:",
+    "lastUpdatedDate": "15 Aralık 2025",
+    "intro": "wihngo.com'a erişerek aşağıdaki şartları kabul etmiş olursunuz.",
+    "platformRoleTitle": "Platform rolü",
+    "platformRoleContent": "Wihngo bir topluluk platformudur. Hayır kurumu, finans kurumu veya veterinerlik hizmeti değildir.",
+    "websiteUsageTitle": "Web sitesi kullanımı",
+    "websiteUsageContent": "Web sitesi yalnızca bilgilendirme amaçlıdır. Ana Wihngo hizmetleri mobil uygulamalar aracılığıyla sunulur.",
+    "userContentTitle": "Kullanıcı içeriği",
+    "userContentContent": "Web sitesinde gösterilen içerik Wihngo platform kullanıcılarından kaynaklanır. Kullanıcılar içeriklerinin sahibi olmaya devam eder.",
+    "noGuaranteesTitle": "Garanti yok",
+    "noGuaranteesContent": "Wihngo, kuşlar, hikayeler veya destek faaliyetleriyle ilgili sonuçları garanti etmez.",
+    "limitationTitle": "Sorumluluk sınırlaması",
+    "limitationContent": "Wihngo, web sitesinin kullanımından kaynaklanan herhangi bir kayıp veya hasardan sorumlu değildir.",
+    "governingLawTitle": "Geçerli yasa",
+    "governingLawContent": "Bu şartlar Estonya ve Avrupa Birliği yasalarına tabidir.",
+    "contactTitle": "İletişim",
+    "contactContent": "Sorular veya destek için iletişime geçin:",
+    "metaTitle": "Hizmet Şartları | Wihngo",
+    "metaDescription": "Wihngo platformu için Hizmet Şartları."
+  },
+  "contact": {
+    "pageTitle": "İletişim",
+    "supportIntro": "Sorular veya destek için iletişime geçin:",
+    "privacyIntro": "Gizlilikle ilgili sorular için:",
+    "metaTitle": "İletişim | Wihngo",
+    "metaDescription": "Wihngo ile iletişime geçin."
+  },
+  "notFound": {
+    "title": "Sayfa Bulunamadı",
+    "description": "Bu kuş uçup gitmiş. Sizi tanıdık topraklara geri götürelim.",
+    "goHome": "Ana Sayfaya Git",
+    "readStories": "Hikayeleri Oku"
+  },
+  "loading": {
+    "text": "Yükleniyor..."
+  },
+  "download": {
+    "title": "Uygulamayı indir",
+    "description": "Tam Wihngo deneyimi mobil uygulamada.",
+    "comingSoon": "Yakında",
+    "availableOn": "iOS ve Android'de mevcut"
+  },
+  "storiesList": {
+    "noStories": "Henüz hikaye yok. Yakında tekrar kontrol edin!",
+    "loadMore": "Daha Fazla Yükle ({current}/{total})",
+    "loading": "Yükleniyor...",
+    "seenAll": "{count} hikayenin tamamını gördünüz",
+    "failedToFetch": "Hikayeler yüklenemedi"
+  },
+  "cards": {
+    "readMore": "Devamını oku",
+    "meet": "{name} ile Tanış"
+  },
+  "moods": {
+    "happy": "mutlu",
+    "playful": "oyuncu",
+    "calm": "sakin",
+    "curious": "meraklı",
+    "adventurous": "maceracı",
+    "loving": "sevecen"
+  },
+  "language": {
+    "select": "Dil seçin",
+    "current": "Mevcut dil"
+  }
+}

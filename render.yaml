@@ -1,9 +1,13 @@
 services:
   - type: web
     name: wihngo-web
-    runtime: static
+    runtime: node
+    plan: free
     buildCommand: npm install && npm run build
-    staticPublishPath: ./out
+    startCommand: npm run start
     envVars:
       - key: NODE_VERSION
         value: 20
+      - key: NODE_ENV
+        value: production
+    healthCheckPath: /en

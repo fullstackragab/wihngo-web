@@ -1,0 +1,200 @@
+{
+  "metadata": {
+    "title": "Wihngo - 一个以爱为中心的鸟类爱好者社区",
+    "titleTemplate": "{title} | Wihngo",
+    "description": "Wihngo是一个以爱为中心的鸟类爱好者社区。这是一个分享鸟类故事、建立联系、用心给予支持的地方。",
+    "twitterTitle": "Wihngo - 心与翼相遇的地方",
+    "twitterDescription": "一个以爱为中心的鸟类爱好者社区平台。"
+  },
+  "nav": {
+    "stories": "故事",
+    "downloadApp": "下载应用",
+    "menu": "菜单"
+  },
+  "footer": {
+    "tagline": "一个以爱为中心的鸟类爱好者社区。",
+    "explore": "探索",
+    "download": "下载",
+    "android": "Android",
+    "ios": "iOS",
+    "privacyPolicy": "隐私政策",
+    "terms": "条款",
+    "contact": "联系我们",
+    "copyright": "Wihngo。为鸟儿和它们的人类用心打造。"
+  },
+  "home": {
+    "heroTitle": "Wihngo",
+    "heroDescription": "Wihngo是一个以爱为中心的鸟类爱好者社区。这是一个分享鸟类故事、建立联系、用心给予支持的地方。",
+    "mobileAppCta": "完整的Wihngo体验在移动应用中。",
+    "downloadTheApp": "下载应用",
+    "birdStoriesTitle": "鸟类故事",
+    "birdStoriesSubtitle": "每只鸟都有故事。每一刻都很重要。",
+    "viewAllStories": "查看所有故事"
+  },
+  "stories": {
+    "pageTitle": "鸟类故事",
+    "pageDescription": "每只鸟都有故事。每一刻都很重要。这里是我们社区分享的一些美丽旅程。",
+    "storiesCount": "{count}个故事，持续增加中",
+    "haveStoryTitle": "有故事要分享吗？",
+    "haveStoryDescription": "下载Wihngo应用，与一个真正理解和欣赏你鸟儿特别时刻的社区分享。",
+    "getTheApp": "获取应用",
+    "metaTitle": "鸟类故事 | Wihngo",
+    "metaDescription": "阅读来自世界各地鸟类爱好者的温馨故事。每一声鸣叫，每一个瞬间，都带着爱分享。"
+  },
+  "storyDetail": {
+    "notFoundTitle": "未找到故事 | Wihngo",
+    "about": "关于{name}",
+    "meetBird": "认识{name}",
+    "wantToSupport": "想要支持{name}吗？",
+    "supportDescription": "下载Wihngo应用，与{name}及其主人建立联系，阅读更多故事，并在需要时提供支持。",
+    "getWihngoApp": "获取Wihngo应用",
+    "backToStories": "返回所有故事"
+  },
+  "bird": {
+    "notFoundTitle": "未找到鸟类 | Wihngo",
+    "personality": "性格",
+    "communitySince": "自{date}起成为Wihngo社区的一员",
+    "storiesTitle": "{name}的故事",
+    "storiesSubtitle": "通过这些特别时刻追随{name}的旅程",
+    "connectTitle": "与{name}建立联系",
+    "connectDescription": "下载Wihngo应用，追随{name}的旅程，阅读新故事，并在需要时提供支持。",
+    "backToBirds": "返回所有鸟类",
+    "yearsOld": "{age}大",
+    "meetTitle": "认识{name}"
+  },
+  "faq": {
+    "pageTitle": "常见问题",
+    "pageDescription": "关于Wihngo、我们的价值观以及运营方式，您需要了解的一切。",
+    "general": "常规",
+    "generalDescription": "了解Wihngo的基础知识以及我们的与众不同之处",
+    "support": "支持与贡献",
+    "supportDescription": "Wihngo上的财务支持如何运作",
+    "transparency": "透明度与信任",
+    "transparencyDescription": "我们对开放和诚实的承诺",
+    "community": "社区",
+    "communityDescription": "与其他鸟类爱好者建立联系",
+    "stillHaveQuestions": "还有问题吗？",
+    "stillHaveQuestionsDescription": "我们相信完全透明。如果您有未在此处解答的问题，我们很乐意听取您的意见。下载应用以与我们的社区和团队建立联系。",
+    "metaTitle": "常见问题 | Wihngo",
+    "metaDescription": "了解更多关于Wihngo、它是如何运作的，以及我们对鸟类及其主人的承诺。"
+  },
+  "faqItems": {
+    "q1": "什么是Wihngo？",
+    "a1": "Wihngo是一个以爱为中心的鸟类爱好者社区平台。这是一个深深关心其羽毛伙伴的人们可以分享故事、与他人建立联系、庆祝鸟类给我们生活带来的快乐的地方。Wihngo建立在这样的信念之上：我们与鸟类的关系是关于爱、关怀和陪伴的——而不是商业化。",
+    "q2": "Wihngo是关于金钱的吗？",
+    "a2": "不是。Wihngo从根本上是关于对鸟类的爱以及照顾它们的人。虽然平台包括支持需要帮助的鸟类的可选方式，但这绝不是强制或施压的。我们相信真正的关怀和社区总是第一位的。Wihngo的存在是为了庆祝和加强人与鸟之间的纽带，而不是从中获利。",
+    "q3": "Wihngo上的财务支持如何运作？",
+    "a3": "Wihngo应用允许社区成员自愿支持需要兽医护理、食物或其他需求帮助的鸟类。所有支持都是可选的、透明的。我们提供关于捐款去向的清晰信息，从不强迫任何人捐款。重点始终是鸟的福祉和人类真诚帮助的愿望。",
+    "q4": "如果一只鸟去世了会怎样？",
+    "a4": "失去一只鸟是非常痛苦的，Wihngo以最大的尊重和敏感来处理这件事。如果为一只已经去世的鸟提供了财务支持，我们会个别地、谨慎地处理每种情况。透明度至关重要——我们与支持者公开沟通，并在适当的时候，始终在取得同意的情况下，将捐款重新分配给其他需要帮助的鸟类。我们的首要任务是纪念鸟的记忆，并在悲伤中支持其主人。",
+    "q5": "Wihngo有多透明？",
+    "a5": "完全透明是Wihngo的核心价值。我们公开分享平台如何运作、财务支持如何处理，以及指导我们决策的原则。我们相信信任是通过诚实赢得的，我们致力于对Wihngo运作的每个方面保持清晰。如果您有问题，我们有答案。",
+    "q6": "我可以在Wihngo上分享我鸟儿的故事吗？",
+    "a6": "可以！Wihngo应用（在Android和iOS上可用）允许您与社区分享您鸟儿的故事、照片和特别时刻。无论您的鸟学会了新把戏、有了有趣的时刻，还是您只想庆祝它在您生活中的存在，Wihngo都是分享的地方。注意：这个公共网站是只读的；发帖需要移动应用。",
+    "q7": "Wihngo是免费的吗？",
+    "a7": "是的，Wihngo可以免费下载和使用。您可以分享故事、与其他鸟类爱好者建立联系、参与社区，完全免费。对于想要帮助需要帮助的鸟类的人，有可选的财务支持功能，但使用Wihngo本身是完全免费的。",
+    "q8": "是什么让Wihngo与其他平台不同？",
+    "a8": "Wihngo建立在爱之上，而不是为了最大化参与度或利润而设计的算法。我们不利用情感内容来获取点击或广告收入。我们不把鸟当作产品。相反，我们专注于真正的联系、有意义的故事和建设支持性社区。Wihngo的存在是因为鸟类值得更好的，爱它们的人也是。",
+    "q9": "我如何与其他鸟类爱好者建立联系？",
+    "a9": "Wihngo应用提供与社区其他成员联系的功能。您可以阅读故事并作出反应，关注鸟类及其主人，并参与一个真正理解照顾鸟类的独特快乐和责任的社区。这个公共网站向您展示社区的预览，但完整的互动发生在应用中。",
+    "q10": "Wihngo是如何构建的？",
+    "a10": "Wihngo是用心、有意图地、对鸟类和人类都怀有尊重地构建的。我们使用现代技术创造流畅、易于访问的体验，但技术始终服务于使命——而不是相反。移动应用在Android和iOS上可用，这个网站提供对Wihngo社区故事和信息的公开访问。"
+  },
+  "privacy": {
+    "pageTitle": "隐私政策",
+    "lastUpdated": "最后更新：",
+    "lastUpdatedDate": "2025年12月15日",
+    "intro": "Wihngo尊重您的隐私，致力于保护您的个人数据。",
+    "whoWeAreTitle": "我们是谁",
+    "whoWeAreContent": "Wihngo是一个在欧盟运营的平台。公司正在爱沙尼亚注册中。",
+    "whatDataTitle": "我们收集哪些数据",
+    "whatDataIntro": "当您访问wihngo.com时，我们可能会收集：",
+    "whatDataItem1": "基本技术数据（如IP地址、浏览器类型、设备信息）",
+    "whatDataItem2": "用于网站性能和分析的匿名使用数据",
+    "whatDataNote": "网站是只读的。网站上不进行账户、支付或交互。",
+    "whyCollectTitle": "我们为什么收集这些数据",
+    "whyCollectIntro": "我们收集这些数据是为了：",
+    "whyCollectItem1": "确保网站正常运行",
+    "whyCollectItem2": "改善性能和用户体验",
+    "whyCollectItem3": "维护安全",
+    "legalBasisTitle": "法律依据",
+    "legalBasisContent": "数据根据《通用数据保护条例》(GDPR)基于合法利益进行处理。",
+    "dataSharingTitle": "数据共享",
+    "dataSharingContent": "我们不出售您的数据。某些数据可能由受信任的服务提供商（如分析或托管服务）处理。",
+    "dataRetentionTitle": "数据保留",
+    "dataRetentionContent": "数据仅在上述目的所需的时间内保留。",
+    "yourRightsTitle": "您的权利",
+    "yourRightsContent": "您有权访问、更正或请求删除您的个人数据。",
+    "contactTitle": "联系方式",
+    "contactContent": "如有隐私相关问题，请联系：",
+    "metaTitle": "隐私政策 | Wihngo",
+    "metaDescription": "Wihngo尊重您的隐私，致力于保护您的个人数据。"
+  },
+  "terms": {
+    "pageTitle": "服务条款",
+    "lastUpdated": "最后更新：",
+    "lastUpdatedDate": "2025年12月15日",
+    "intro": "访问wihngo.com即表示您同意以下条款。",
+    "platformRoleTitle": "平台角色",
+    "platformRoleContent": "Wihngo是一个社区平台。它不是慈善机构、金融机构或兽医服务。",
+    "websiteUsageTitle": "网站使用",
+    "websiteUsageContent": "网站仅供信息目的提供。Wihngo的主要服务通过移动应用程序提供。",
+    "userContentTitle": "用户内容",
+    "userContentContent": "网站上显示的内容来自Wihngo平台用户。用户保留其内容的所有权。",
+    "noGuaranteesTitle": "无保证",
+    "noGuaranteesContent": "Wihngo不保证与鸟类、故事或支持活动相关的结果。",
+    "limitationTitle": "责任限制",
+    "limitationContent": "Wihngo对因使用网站而产生的任何损失或损害不承担责任。",
+    "governingLawTitle": "适用法律",
+    "governingLawContent": "这些条款受爱沙尼亚和欧盟法律管辖。",
+    "contactTitle": "联系方式",
+    "contactContent": "如有问题或需要支持，请联系：",
+    "metaTitle": "服务条款 | Wihngo",
+    "metaDescription": "Wihngo平台服务条款。"
+  },
+  "contact": {
+    "pageTitle": "联系我们",
+    "supportIntro": "如有问题或需要支持，请联系：",
+    "privacyIntro": "如有隐私相关问题：",
+    "metaTitle": "联系我们 | Wihngo",
+    "metaDescription": "联系Wihngo。"
+  },
+  "notFound": {
+    "title": "页面未找到",
+    "description": "这只鸟飞走了。让我们带您回到熟悉的地方。",
+    "goHome": "回到首页",
+    "readStories": "阅读故事"
+  },
+  "loading": {
+    "text": "加载中..."
+  },
+  "download": {
+    "title": "下载应用",
+    "description": "完整的Wihngo体验在移动应用中。",
+    "comingSoon": "即将推出",
+    "availableOn": "在iOS和Android上可用"
+  },
+  "storiesList": {
+    "noStories": "还没有故事。请稍后再来！",
+    "loadMore": "加载更多（{current}/{total}）",
+    "loading": "加载中...",
+    "seenAll": "您已看完全部{count}个故事",
+    "failedToFetch": "加载故事失败"
+  },
+  "cards": {
+    "readMore": "阅读更多",
+    "meet": "认识{name}"
+  },
+  "moods": {
+    "happy": "快乐",
+    "playful": "爱玩",
+    "calm": "平静",
+    "curious": "好奇",
+    "adventurous": "爱冒险",
+    "loving": "充满爱"
+  },
+  "language": {
+    "select": "选择语言",
+    "current": "当前语言"
+  }
+}

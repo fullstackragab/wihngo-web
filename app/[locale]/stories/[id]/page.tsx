@@ -2,50 +2,68 @@ import { Metadata } from "next";
 import { notFound } from "next/navigation";
 import Image from "next/image";
 import Link from "next/link";
+import { useTranslations } from "next-intl";
+import { getTranslations, setRequestLocale } from "next-intl/server";
 import Button from "@/components/Button";
 import DownloadSection from "@/components/DownloadSection";
 import { getBirdById } from "@/lib/data";
 import { fetchStories, fetchStoryById } from "@/lib/api";
+import { routing } from "@/i18n/routing";
 
 interface StoryPageProps {
   params: Promise<{
     id: string;
+    locale: string;
   }>;
 }
 
 export async function generateStaticParams() {
   const { stories } = await fetchStories(1, 50);
-  return stories.map((story) => ({
-    id: story.id,
-  }));
+  return routing.locales.flatMap((locale) =>
+    stories.map((story) => ({
+      locale,
+      id: story.id,
+    }))
+  );
 }
 
 export async function generateMetadata({
   params,
 }: StoryPageProps): Promise<Metadata> {
-  const { id } = await params;
+  const { id, locale } = await params;
   const story = await fetchStoryById(id);
+  const t = await getTranslations({ locale, namespace: "storyDetail" });
 
   if (!story) {
     return {
-      title: "Story Not Found | Whingo",
+      title: t("notFoundTitle"),
     };
   }
 
   return {
-    title: `${story.title} | Whingo`,
+    title: `${story.title} | Wihngo`,
     description: story.excerpt,
     openGraph: {
       title: story.title,
       description: story.excerpt,
       images: [story.imageUrl],
       type: "article",
+      siteName: "Wihngo",
+      url: `https://wihngo.com/stories/${id}`,
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: story.title,
+      description: story.excerpt,
+      images: [story.imageUrl],
     },
   };
 }
 
 export default async function StoryPage({ params }: StoryPageProps) {
-  const { id } = await params;
+  const { id, locale } = await params;
+  setRequestLocale(locale);
+
   const story = await fetchStoryById(id);
 
   if (!story) {
@@ -53,6 +71,16 @@ export default async function StoryPage({ params }: StoryPageProps) {
   }
 
   const bird = getBirdById(story.birdId);
+
+  return <StoryPageContent story={story} bird={bird} />;
+}
+
+type Story = NonNullable<Awaited<ReturnType<typeof fetchStoryById>>>;
+type Bird = ReturnType<typeof getBirdById>;
+
+function StoryPageContent({ story, bird }: { story: Story; bird: Bird }) {
+  const t = useTranslations("storyDetail");
+  const tMoods = useTranslations("moods");
 
   const moodEmojis: { [key: string]: string } = {
     happy: "😊",
@@ -80,7 +108,7 @@ export default async function StoryPage({ params }: StoryPageProps) {
             <div className="inline-flex items-center gap-2 bg-white/90 backdrop-blur-sm px-4 py-2 rounded-full mb-4">
               <span className="text-2xl">{moodEmojis[story.mood]}</span>
               <span className="text-sm font-medium text-slate-800 capitalize">
-                {story.mood}
+                {tMoods(story.mood as "happy" | "playful" | "calm" | "curious" | "adventurous" | "loving")}
               </span>
             </div>
           </div>
@@ -123,7 +151,7 @@ export default async function StoryPage({ params }: StoryPageProps) {
                 <div className="text-4xl">🐦</div>
                 <div>
                   <h3 className="font-bold text-slate-800 text-lg">
-                    About {bird.name}
+                    {t("about", { name: bird.name })}
                   </h3>
                   <p className="text-slate-600">{bird.species}</p>
                 </div>
@@ -133,7 +161,7 @@ export default async function StoryPage({ params }: StoryPageProps) {
                 href={`/birds/${bird.id}`}
                 className="inline-flex items-center text-teal-600 hover:text-teal-700 font-medium"
               >
-                Meet {bird.name} →
+                {t("meetBird", { name: bird.name })} →
               </Link>
             </div>
           )}
@@ -144,15 +172,13 @@ export default async function StoryPage({ params }: StoryPageProps) {
       <section className="py-16 px-4 bg-slate-50">
         <div className="max-w-3xl mx-auto text-center">
           <h2 className="text-3xl font-bold text-slate-800 mb-4">
-            Want to Support {story.birdName}?
+            {t("wantToSupport", { name: story.birdName })}
           </h2>
           <p className="text-lg text-slate-600 mb-8">
-            Download the Whingo app to connect with {story.birdName} and their
-            human, read more stories, and optionally provide support when
-            needed.
+            {t("supportDescription", { name: story.birdName })}
           </p>
           <Button href="#download" variant="primary" size="lg">
-            Get the Whingo App
+            {t("getWihngoApp")}
           </Button>
         </div>
       </section>
@@ -164,7 +190,7 @@ export default async function StoryPage({ params }: StoryPageProps) {
             href="/stories"
             className="inline-flex items-center text-teal-600 hover:text-teal-700 font-medium"
           >
-            ← Back to all stories
+            ← {t("backToStories")}
           </Link>
         </div>
       </section>

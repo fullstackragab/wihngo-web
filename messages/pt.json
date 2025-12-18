@@ -1,0 +1,200 @@
+{
+  "metadata": {
+    "title": "Wihngo - Uma comunidade baseada no amor para quem ama pássaros",
+    "titleTemplate": "{title} | Wihngo",
+    "description": "Wihngo é uma comunidade baseada no amor para pessoas que amam pássaros. Um lugar onde histórias de pássaros são compartilhadas, conexões são formadas e apoio é dado com carinho.",
+    "twitterTitle": "Wihngo - Onde corações e asas se encontram",
+    "twitterDescription": "Uma plataforma comunitária baseada no amor para amantes de pássaros."
+  },
+  "nav": {
+    "stories": "Histórias",
+    "downloadApp": "Baixar App",
+    "menu": "Menu"
+  },
+  "footer": {
+    "tagline": "Uma comunidade baseada no amor para quem ama pássaros.",
+    "explore": "Explorar",
+    "download": "Download",
+    "android": "Android",
+    "ios": "iOS",
+    "privacyPolicy": "Privacidade",
+    "terms": "Termos",
+    "contact": "Contato",
+    "copyright": "Wihngo. Feito com amor para pássaros e seus humanos."
+  },
+  "home": {
+    "heroTitle": "Wihngo",
+    "heroDescription": "Wihngo é uma comunidade baseada no amor para pessoas que amam pássaros. Um lugar onde histórias de pássaros são compartilhadas, conexões são formadas e apoio é dado com carinho.",
+    "mobileAppCta": "A experiência completa do Wihngo está no aplicativo móvel.",
+    "downloadTheApp": "Baixar o app",
+    "birdStoriesTitle": "Histórias de Pássaros",
+    "birdStoriesSubtitle": "Todo pássaro tem uma história. Todo momento importa.",
+    "viewAllStories": "Ver todas as histórias"
+  },
+  "stories": {
+    "pageTitle": "Histórias de Pássaros",
+    "pageDescription": "Todo pássaro tem uma história. Todo momento importa. Aqui estão algumas das belas jornadas compartilhadas pela nossa comunidade.",
+    "storiesCount": "{count} histórias e contando",
+    "haveStoryTitle": "Tem uma história para compartilhar?",
+    "haveStoryDescription": "Baixe o app Wihngo para compartilhar os momentos especiais do seu pássaro com uma comunidade que realmente os entende e celebra.",
+    "getTheApp": "Baixar o App",
+    "metaTitle": "Histórias de Pássaros | Wihngo",
+    "metaDescription": "Leia histórias emocionantes de amantes de pássaros do mundo todo. Cada canto, cada momento, compartilhado com amor."
+  },
+  "storyDetail": {
+    "notFoundTitle": "História não encontrada | Wihngo",
+    "about": "Sobre {name}",
+    "meetBird": "Conheça {name}",
+    "wantToSupport": "Quer apoiar {name}?",
+    "supportDescription": "Baixe o app Wihngo para se conectar com {name} e seu humano, ler mais histórias e opcionalmente fornecer apoio quando necessário.",
+    "getWihngoApp": "Baixar o App Wihngo",
+    "backToStories": "Voltar para todas as histórias"
+  },
+  "bird": {
+    "notFoundTitle": "Pássaro não encontrado | Wihngo",
+    "personality": "Personalidade",
+    "communitySince": "Parte da comunidade Wihngo desde {date}",
+    "storiesTitle": "Histórias de {name}",
+    "storiesSubtitle": "Acompanhe a jornada de {name} através destes momentos especiais",
+    "connectTitle": "Conecte-se com {name}",
+    "connectDescription": "Baixe o app Wihngo para seguir a jornada de {name}, ler novas histórias e opcionalmente fornecer apoio quando necessário.",
+    "backToBirds": "Voltar para todos os pássaros",
+    "yearsOld": "{age} de idade",
+    "meetTitle": "Conheça {name}"
+  },
+  "faq": {
+    "pageTitle": "Perguntas Frequentes",
+    "pageDescription": "Tudo o que você precisa saber sobre o Wihngo, nossos valores e como operamos.",
+    "general": "Geral",
+    "generalDescription": "Aprenda o básico sobre o Wihngo e o que nos torna diferentes",
+    "support": "Apoio e Contribuições",
+    "supportDescription": "Como funciona o apoio financeiro no Wihngo",
+    "transparency": "Transparência e Confiança",
+    "transparencyDescription": "Nosso compromisso com abertura e honestidade",
+    "community": "Comunidade",
+    "communityDescription": "Conectando-se com outros amantes de pássaros",
+    "stillHaveQuestions": "Ainda tem perguntas?",
+    "stillHaveQuestionsDescription": "Acreditamos em total transparência. Se você tem perguntas que não foram respondidas aqui, adoraríamos ouvir de você. Baixe o app para se conectar com nossa comunidade e equipe.",
+    "metaTitle": "Perguntas Frequentes | Wihngo",
+    "metaDescription": "Saiba mais sobre o Wihngo, como funciona e nosso compromisso com os pássaros e seus humanos."
+  },
+  "faqItems": {
+    "q1": "O que é o Wihngo?",
+    "a1": "Wihngo é uma plataforma comunitária baseada no amor para amantes de pássaros. É um lugar onde pessoas que se preocupam profundamente com seus companheiros de penas podem compartilhar histórias, conectar-se com outros e celebrar a alegria que os pássaros trazem para nossas vidas. Wihngo é construído na crença de que nossos relacionamentos com pássaros são sobre amor, cuidado e companheirismo - não comercialização.",
+    "q2": "O Wihngo é sobre dinheiro?",
+    "a2": "Não. O Wihngo é fundamentalmente sobre o amor pelos pássaros e as pessoas que cuidam deles. Embora a plataforma inclua formas opcionais de apoiar pássaros em necessidade, isso nunca é obrigatório ou forçado. Acreditamos que cuidado genuíno e comunidade sempre vêm primeiro. O Wihngo existe para celebrar e fortalecer o vínculo entre humanos e pássaros, não para lucrar com isso.",
+    "q3": "Como funciona o apoio financeiro no Wihngo?",
+    "a3": "O app Wihngo permite que membros da comunidade apoiem voluntariamente pássaros que precisam de ajuda com cuidados veterinários, comida ou outras necessidades. Todo apoio é opcional e transparente. Fornecemos informações claras sobre para onde vão as contribuições e nunca pressionamos ninguém a dar. O foco é sempre no bem-estar do pássaro e no desejo genuíno do humano de ajudar.",
+    "q4": "O que acontece se um pássaro morre?",
+    "a4": "A perda de um pássaro é profundamente dolorosa, e o Wihngo trata isso com o máximo respeito e sensibilidade. Se apoio financeiro foi fornecido para um pássaro que faleceu, lidamos com cada situação individualmente e com cuidado. Transparência é fundamental - comunicamos abertamente com os apoiadores e, quando apropriado, redirecionamos contribuições para outros pássaros em necessidade, sempre com consentimento. Nossa prioridade é honrar a memória do pássaro e apoiar seu humano no luto.",
+    "q5": "Quão transparente é o Wihngo?",
+    "a5": "Transparência total é um valor central do Wihngo. Compartilhamos abertamente como a plataforma opera, como o apoio financeiro é gerenciado e os princípios que guiam nossas decisões. Acreditamos que confiança é conquistada com honestidade e estamos comprometidos em ser claros sobre cada aspecto de como o Wihngo funciona. Se você tem perguntas, temos respostas.",
+    "q6": "Posso compartilhar a história do meu pássaro no Wihngo?",
+    "a6": "Sim! O app Wihngo (disponível para Android e iOS) permite que você compartilhe as histórias, fotos e momentos especiais do seu pássaro com a comunidade. Seja que seu pássaro aprendeu um novo truque, teve um momento engraçado, ou você simplesmente quer celebrar sua presença na sua vida, o Wihngo é o lugar para compartilhar. Nota: Este site público é somente leitura; publicar requer o app móvel.",
+    "q7": "O Wihngo é gratuito?",
+    "a7": "Sim, o Wihngo é gratuito para baixar e usar. Você pode compartilhar histórias, conectar-se com outros amantes de pássaros e participar da comunidade sem nenhum custo. Recursos opcionais de apoio financeiro existem para quem deseja ajudar pássaros em necessidade, mas usar o Wihngo em si é completamente gratuito.",
+    "q8": "O que torna o Wihngo diferente de outras plataformas?",
+    "a8": "O Wihngo é construído sobre amor, não algoritmos projetados para maximizar engajamento ou lucro. Não exploramos conteúdo emocional por cliques ou receita de anúncios. Não tratamos pássaros como produtos. Em vez disso, focamos em conexão genuína, histórias significativas e construção de uma comunidade solidária. O Wihngo existe porque pássaros merecem melhor, e as pessoas que os amam também.",
+    "q9": "Como posso me conectar com outros amantes de pássaros?",
+    "a9": "O app Wihngo oferece recursos para se conectar com outros membros da comunidade. Você pode ler e reagir a histórias, seguir pássaros e seus humanos, e participar de uma comunidade que realmente entende a alegria e responsabilidade únicas de cuidar de pássaros. Este site público mostra uma prévia da comunidade, mas a interação completa acontece no app.",
+    "q10": "Como o Wihngo é construído?",
+    "a10": "O Wihngo é construído com cuidado, intenção e respeito tanto por pássaros quanto por humanos. Usamos tecnologia moderna para criar uma experiência suave e acessível, mas a tecnologia sempre serve à missão - nunca o contrário. O app móvel está disponível para Android e iOS, e este site fornece acesso público a histórias e informações sobre a comunidade Wihngo."
+  },
+  "privacy": {
+    "pageTitle": "Política de Privacidade",
+    "lastUpdated": "Última atualização:",
+    "lastUpdatedDate": "15 de dezembro de 2025",
+    "intro": "O Wihngo respeita sua privacidade e está comprometido em proteger seus dados pessoais.",
+    "whoWeAreTitle": "Quem somos",
+    "whoWeAreContent": "O Wihngo é uma plataforma operada na União Europeia. A empresa está em processo de registro na Estônia.",
+    "whatDataTitle": "Quais dados coletamos",
+    "whatDataIntro": "Quando você visita wihngo.com, podemos coletar:",
+    "whatDataItem1": "Dados técnicos básicos (como endereço IP, tipo de navegador, informações do dispositivo)",
+    "whatDataItem2": "Dados de uso anônimos para desempenho do site e análises",
+    "whatDataNote": "O site é somente leitura. Nenhuma conta, pagamento ou interação é realizada no site.",
+    "whyCollectTitle": "Por que coletamos esses dados",
+    "whyCollectIntro": "Coletamos esses dados para:",
+    "whyCollectItem1": "Garantir que o site funcione corretamente",
+    "whyCollectItem2": "Melhorar o desempenho e a experiência do usuário",
+    "whyCollectItem3": "Manter a segurança",
+    "legalBasisTitle": "Base legal",
+    "legalBasisContent": "Os dados são processados sob o Regulamento Geral de Proteção de Dados (GDPR) com base em interesse legítimo.",
+    "dataSharingTitle": "Compartilhamento de dados",
+    "dataSharingContent": "Não vendemos seus dados. Alguns dados podem ser processados por provedores de serviços confiáveis (como serviços de análise ou hospedagem).",
+    "dataRetentionTitle": "Retenção de dados",
+    "dataRetentionContent": "Os dados são mantidos apenas pelo tempo necessário para os fins descritos acima.",
+    "yourRightsTitle": "Seus direitos",
+    "yourRightsContent": "Você tem o direito de acessar, corrigir ou solicitar a exclusão de seus dados pessoais.",
+    "contactTitle": "Contato",
+    "contactContent": "Para perguntas relacionadas à privacidade, contate:",
+    "metaTitle": "Política de Privacidade | Wihngo",
+    "metaDescription": "O Wihngo respeita sua privacidade e está comprometido em proteger seus dados pessoais."
+  },
+  "terms": {
+    "pageTitle": "Termos de Serviço",
+    "lastUpdated": "Última atualização:",
+    "lastUpdatedDate": "15 de dezembro de 2025",
+    "intro": "Ao acessar wihngo.com, você concorda com os seguintes termos.",
+    "platformRoleTitle": "Papel da plataforma",
+    "platformRoleContent": "O Wihngo é uma plataforma comunitária. Não é uma instituição de caridade, instituição financeira ou serviço veterinário.",
+    "websiteUsageTitle": "Uso do site",
+    "websiteUsageContent": "O site é fornecido apenas para fins informativos. Os principais serviços do Wihngo são entregues através de aplicativos móveis.",
+    "userContentTitle": "Conteúdo do usuário",
+    "userContentContent": "O conteúdo mostrado no site origina-se de usuários da plataforma Wihngo. Os usuários permanecem proprietários de seu conteúdo.",
+    "noGuaranteesTitle": "Sem garantias",
+    "noGuaranteesContent": "O Wihngo não garante resultados relacionados a pássaros, histórias ou atividades de apoio.",
+    "limitationTitle": "Limitação de responsabilidade",
+    "limitationContent": "O Wihngo não é responsável por qualquer perda ou dano decorrente do uso do site.",
+    "governingLawTitle": "Lei aplicável",
+    "governingLawContent": "Estes termos são regidos pelas leis da Estônia e da União Europeia.",
+    "contactTitle": "Contato",
+    "contactContent": "Para perguntas ou suporte, contate:",
+    "metaTitle": "Termos de Serviço | Wihngo",
+    "metaDescription": "Termos de Serviço para a plataforma Wihngo."
+  },
+  "contact": {
+    "pageTitle": "Contato",
+    "supportIntro": "Para perguntas ou suporte, contate:",
+    "privacyIntro": "Para perguntas relacionadas à privacidade:",
+    "metaTitle": "Contato | Wihngo",
+    "metaDescription": "Entre em contato com o Wihngo."
+  },
+  "notFound": {
+    "title": "Página não encontrada",
+    "description": "Este pássaro voou para longe. Vamos te levar de volta a um território familiar.",
+    "goHome": "Ir para Início",
+    "readStories": "Ler Histórias"
+  },
+  "loading": {
+    "text": "Carregando..."
+  },
+  "download": {
+    "title": "Baixar o app",
+    "description": "A experiência completa do Wihngo está no aplicativo móvel.",
+    "comingSoon": "Em breve",
+    "availableOn": "Disponível para iOS e Android"
+  },
+  "storiesList": {
+    "noStories": "Ainda não há histórias. Volte em breve!",
+    "loadMore": "Carregar mais ({current} de {total})",
+    "loading": "Carregando...",
+    "seenAll": "Você viu todas as {count} histórias",
+    "failedToFetch": "Falha ao carregar histórias"
+  },
+  "cards": {
+    "readMore": "Ler mais",
+    "meet": "Conheça {name}"
+  },
+  "moods": {
+    "happy": "feliz",
+    "playful": "brincalhão",
+    "calm": "calmo",
+    "curious": "curioso",
+    "adventurous": "aventureiro",
+    "loving": "amoroso"
+  },
+  "language": {
+    "select": "Selecionar idioma",
+    "current": "Idioma atual"
+  }
+}

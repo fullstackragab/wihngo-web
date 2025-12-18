@@ -2,49 +2,67 @@ import { Metadata } from "next";
 import { notFound } from "next/navigation";
 import Image from "next/image";
 import Link from "next/link";
+import { useTranslations } from "next-intl";
+import { getTranslations, setRequestLocale } from "next-intl/server";
 import Button from "@/components/Button";
 import StoryCard from "@/components/StoryCard";
 import DownloadSection from "@/components/DownloadSection";
 import { getBirdById, getStoriesByBirdId, birds } from "@/lib/data";
+import { routing } from "@/i18n/routing";
 
 interface BirdPageProps {
   params: Promise<{
     id: string;
+    locale: string;
   }>;
 }
 
 export async function generateStaticParams() {
-  return birds.map((bird) => ({
-    id: bird.id,
-  }));
+  return routing.locales.flatMap((locale) =>
+    birds.map((bird) => ({
+      locale,
+      id: bird.id,
+    }))
+  );
 }
 
 export async function generateMetadata({
   params,
 }: BirdPageProps): Promise<Metadata> {
-  const { id } = await params;
+  const { id, locale } = await params;
   const bird = getBirdById(id);
+  const t = await getTranslations({ locale, namespace: "bird" });
 
   if (!bird) {
     return {
-      title: "Bird Not Found | Whingo",
+      title: t("notFoundTitle"),
     };
   }
 
   return {
-    title: `${bird.name} - ${bird.species} | Whingo`,
+    title: `${bird.name} - ${bird.species} | Wihngo`,
     description: bird.description,
     openGraph: {
-      title: `Meet ${bird.name}`,
+      title: t("meetTitle", { name: bird.name }),
       description: bird.description,
       images: [bird.imageUrl],
       type: "profile",
+      siteName: "Wihngo",
+      url: `https://wihngo.com/birds/${id}`,
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: t("meetTitle", { name: bird.name }),
+      description: bird.description,
+      images: [bird.imageUrl],
     },
   };
 }
 
 export default async function BirdPage({ params }: BirdPageProps) {
-  const { id } = await params;
+  const { id, locale } = await params;
+  setRequestLocale(locale);
+
   const bird = getBirdById(id);
 
   if (!bird) {
@@ -52,6 +70,29 @@ export default async function BirdPage({ params }: BirdPageProps) {
   }
 
   const stories = getStoriesByBirdId(id);
+
+  return <BirdPageContent bird={bird} stories={stories} locale={locale} />;
+}
+
+type Bird = NonNullable<ReturnType<typeof getBirdById>>;
+type Stories = ReturnType<typeof getStoriesByBirdId>;
+
+function BirdPageContent({
+  bird,
+  stories,
+  locale,
+}: {
+  bird: Bird;
+  stories: Stories;
+  locale: string;
+}) {
+  const t = useTranslations("bird");
+
+  // Get locale-specific date formatting
+  const formattedDate = new Date(bird.joinedDate).toLocaleDateString(locale, {
+    month: "long",
+    year: "numeric",
+  });
 
   return (
     <main>
@@ -79,7 +120,9 @@ export default async function BirdPage({ params }: BirdPageProps) {
                 {bird.name}
               </h1>
               {bird.age && (
-                <p className="text-xl text-slate-600 mb-6">{bird.age} old</p>
+                <p className="text-xl text-slate-600 mb-6">
+                  {t("yearsOld", { age: bird.age })}
+                </p>
               )}
               <p className="text-lg text-slate-700 leading-relaxed mb-8">
                 {bird.description}
@@ -88,7 +131,7 @@ export default async function BirdPage({ params }: BirdPageProps) {
               {bird.personality && bird.personality.length > 0 && (
                 <div className="mb-8">
                   <h3 className="font-semibold text-slate-800 mb-3">
-                    Personality
+                    {t("personality")}
                   </h3>
                   <div className="flex flex-wrap gap-2">
                     {bird.personality.map((trait) => (
@@ -104,11 +147,7 @@ export default async function BirdPage({ params }: BirdPageProps) {
               )}
 
               <div className="text-sm text-slate-500">
-                Part of the Whingo community since{" "}
-                {new Date(bird.joinedDate).toLocaleDateString("en-US", {
-                  month: "long",
-                  year: "numeric",
-                })}
+                {t("communitySince", { date: formattedDate })}
               </div>
             </div>
           </div>
@@ -120,10 +159,10 @@ export default async function BirdPage({ params }: BirdPageProps) {
         <section className="py-20 px-4">
           <div className="max-w-7xl mx-auto">
             <h2 className="text-3xl md:text-4xl font-bold text-slate-800 mb-4">
-              {bird.name}&apos;s Stories
+              {t("storiesTitle", { name: bird.name })}
             </h2>
             <p className="text-lg text-slate-600 mb-12">
-              Follow {bird.name}&apos;s journey through these special moments
+              {t("storiesSubtitle", { name: bird.name })}
             </p>
 
             <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
@@ -139,15 +178,15 @@ export default async function BirdPage({ params }: BirdPageProps) {
       <section className="py-20 px-4 bg-slate-50">
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="text-3xl md:text-4xl font-bold text-slate-800 mb-6">
-            Connect with {bird.name}
+            {t("connectTitle", { name: bird.name })}
           </h2>
           <p className="text-lg text-slate-600 mb-8">
-            Download the Whingo app to follow {bird.name}&apos;s journey, read
-            new stories as they&apos;re shared, and optionally provide support
-            when needed.
+            {t("connectDescription", { name: bird.name })}
           </p>
           <Button href="#download" variant="primary" size="lg">
-            Get the Whingo App
+            {t("connectTitle", { name: bird.name }).includes("Connect")
+              ? "Get the Wihngo App"
+              : t("connectTitle", { name: bird.name })}
           </Button>
         </div>
       </section>
@@ -159,7 +198,7 @@ export default async function BirdPage({ params }: BirdPageProps) {
             href="/#birds"
             className="inline-flex items-center text-teal-600 hover:text-teal-700 font-medium"
           >
-            ← Back to all birds
+            ← {t("backToBirds")}
           </Link>
         </div>
       </section>

@@ -1,0 +1,200 @@
+{
+  "metadata": {
+    "title": "Wihngo - A love-centric community for people who care about birds",
+    "titleTemplate": "{title} | Wihngo",
+    "description": "Wihngo is a love-centric community for people who care about birds. A place where bird stories are shared, connections are formed, and support is given with care.",
+    "twitterTitle": "Wihngo - Where Hearts & Wings Gather",
+    "twitterDescription": "A love-centric community platform for bird lovers."
+  },
+  "nav": {
+    "stories": "Stories",
+    "downloadApp": "Download App",
+    "menu": "Menu"
+  },
+  "footer": {
+    "tagline": "A love-centric community for people who care about birds.",
+    "explore": "Explore",
+    "download": "Download",
+    "android": "Android",
+    "ios": "iOS",
+    "privacyPolicy": "Privacy Policy",
+    "terms": "Terms",
+    "contact": "Contact",
+    "copyright": "Wihngo. Built with love for birds and their humans."
+  },
+  "home": {
+    "heroTitle": "Wihngo",
+    "heroDescription": "Wihngo is a love-centric community for people who care about birds. It's a place where bird stories are shared, connections are formed, and support is given with care.",
+    "mobileAppCta": "The full Wihngo experience lives in the mobile app.",
+    "downloadTheApp": "Download the app",
+    "birdStoriesTitle": "Bird Stories",
+    "birdStoriesSubtitle": "Every bird has a story. Every moment matters.",
+    "viewAllStories": "View all stories"
+  },
+  "stories": {
+    "pageTitle": "Bird Stories",
+    "pageDescription": "Every bird has a story. Every moment matters. Here are some of the beautiful journeys shared by our community.",
+    "storiesCount": "{count} stories and counting",
+    "haveStoryTitle": "Have a Story to Share?",
+    "haveStoryDescription": "Download the Wihngo app to share your bird's special moments with a community that truly understands and celebrates them.",
+    "getTheApp": "Get the App",
+    "metaTitle": "Bird Stories | Wihngo",
+    "metaDescription": "Read heartwarming stories from bird lovers around the world. Every chirp, every moment, shared with love."
+  },
+  "storyDetail": {
+    "notFoundTitle": "Story Not Found | Wihngo",
+    "about": "About {name}",
+    "meetBird": "Meet {name}",
+    "wantToSupport": "Want to Support {name}?",
+    "supportDescription": "Download the Wihngo app to connect with {name} and their human, read more stories, and optionally provide support when needed.",
+    "getWihngoApp": "Get the Wihngo App",
+    "backToStories": "Back to all stories"
+  },
+  "bird": {
+    "notFoundTitle": "Bird Not Found | Wihngo",
+    "personality": "Personality",
+    "communitySince": "Part of the Wihngo community since {date}",
+    "storiesTitle": "{name}'s Stories",
+    "storiesSubtitle": "Follow {name}'s journey through these special moments",
+    "connectTitle": "Connect with {name}",
+    "connectDescription": "Download the Wihngo app to follow {name}'s journey, read new stories as they're shared, and optionally provide support when needed.",
+    "backToBirds": "Back to all birds",
+    "yearsOld": "{age} old",
+    "meetTitle": "Meet {name}"
+  },
+  "faq": {
+    "pageTitle": "Frequently Asked Questions",
+    "pageDescription": "Everything you need to know about Wihngo, our values, and how we operate.",
+    "general": "General",
+    "generalDescription": "Learn the basics about Wihngo and what makes us different",
+    "support": "Support & Contributions",
+    "supportDescription": "How financial support works on Wihngo",
+    "transparency": "Transparency & Trust",
+    "transparencyDescription": "Our commitment to openness and honesty",
+    "community": "Community",
+    "communityDescription": "Connecting with other bird lovers",
+    "stillHaveQuestions": "Still Have Questions?",
+    "stillHaveQuestionsDescription": "We believe in complete transparency. If you have questions that aren't answered here, we'd love to hear from you. Download the app to connect with our community and team.",
+    "metaTitle": "Frequently Asked Questions | Wihngo",
+    "metaDescription": "Learn more about Wihngo, how it works, and our commitment to birds and their humans."
+  },
+  "faqItems": {
+    "q1": "What is Wihngo?",
+    "a1": "Wihngo is a love-centric community platform for bird lovers. It's a place where people who care deeply about their feathered companions can share stories, connect with others, and celebrate the joy that birds bring to our lives. Wihngo is built on the belief that our relationships with birds are about love, care, and companionship - not commodification.",
+    "q2": "Is Wihngo about money?",
+    "a2": "No. Wihngo is fundamentally about love for birds and the people who care for them. While the platform includes optional ways to support birds in need, this is never required or pushed. We believe that genuine care and community come first, always. Wihngo exists to celebrate and strengthen the bond between humans and birds, not to profit from it.",
+    "q3": "How does financial support work on Wihngo?",
+    "a3": "The Wihngo mobile app allows community members to voluntarily support birds who need help with veterinary care, food, or other necessities. All support is optional and transparent. We provide clear information about where contributions go, and we never pressure anyone to give. The focus is always on the bird's wellbeing and the human's genuine desire to help.",
+    "q4": "What happens if a bird passes away?",
+    "a4": "The loss of a bird is deeply painful, and Wihngo treats this with the utmost respect and sensitivity. If financial support was provided for a bird who has passed, we handle each situation individually and with care. Transparency is paramount - we communicate openly with supporters and, when appropriate, redirect contributions to other birds in need, always with consent. Our priority is honoring the bird's memory and supporting their human through grief.",
+    "q5": "How transparent is Wihngo?",
+    "a5": "Complete transparency is a core value of Wihngo. We openly share how the platform operates, how financial support is handled, and the principles that guide our decisions. We believe trust is earned through honesty, and we're committed to being clear about every aspect of how Wihngo functions. If you have questions, we have answers.",
+    "q6": "Can I share my bird's story on Wihngo?",
+    "a6": "Yes! The Wihngo mobile app (available on Android and iOS) allows you to share your bird's stories, photos, and special moments with the community. Whether your bird learned a new trick, had a funny moment, or you simply want to celebrate their presence in your life, Wihngo is the place to share it. Note: This public website is read-only; posting requires the mobile app.",
+    "q7": "Is Wihngo free to use?",
+    "a7": "Yes, Wihngo is free to download and use. You can share stories, connect with other bird lovers, and participate in the community without any cost. Optional financial support features exist for those who wish to help birds in need, but using Wihngo itself is completely free.",
+    "q8": "What makes Wihngo different from other platforms?",
+    "a8": "Wihngo is built on love, not algorithms designed to maximize engagement or profit. We don't exploit emotional content for clicks or ad revenue. We don't treat birds as products. Instead, we focus on genuine connection, meaningful stories, and building a supportive community. Wihngo exists because birds deserve better, and so do the people who love them.",
+    "q9": "How can I connect with other bird lovers?",
+    "a9": "The Wihngo mobile app provides features for connecting with other members of the community. You can read and react to stories, follow birds and their humans, and participate in a community that truly understands the unique joy and responsibility of caring for birds. This public website shows you a preview of the community, but full interaction happens in the app.",
+    "q10": "How is Wihngo built?",
+    "a10": "Wihngo is built with care, intention, and respect for both birds and humans. We use modern technology to create a smooth, accessible experience, but technology always serves the mission - never the other way around. The mobile app is available on Android and iOS, and this website provides public access to stories and information about the Wihngo community."
+  },
+  "privacy": {
+    "pageTitle": "Privacy Policy",
+    "lastUpdated": "Last updated:",
+    "lastUpdatedDate": "December 15, 2025",
+    "intro": "Wihngo respects your privacy and is committed to protecting your personal data.",
+    "whoWeAreTitle": "Who we are",
+    "whoWeAreContent": "Wihngo is a platform operated in the European Union. The company is in the process of registration in Estonia.",
+    "whatDataTitle": "What data we collect",
+    "whatDataIntro": "When you visit wihngo.com, we may collect:",
+    "whatDataItem1": "Basic technical data (such as IP address, browser type, device information)",
+    "whatDataItem2": "Anonymous usage data for website performance and analytics",
+    "whatDataNote": "The website is read-only. No accounts, payments, or interactions are performed on the website.",
+    "whyCollectTitle": "Why we collect this data",
+    "whyCollectIntro": "We collect this data to:",
+    "whyCollectItem1": "Ensure the website works correctly",
+    "whyCollectItem2": "Improve performance and user experience",
+    "whyCollectItem3": "Maintain security",
+    "legalBasisTitle": "Legal basis",
+    "legalBasisContent": "Data is processed under the General Data Protection Regulation (GDPR) based on legitimate interest.",
+    "dataSharingTitle": "Data sharing",
+    "dataSharingContent": "We do not sell your data. Some data may be processed by trusted service providers (such as analytics or hosting services).",
+    "dataRetentionTitle": "Data retention",
+    "dataRetentionContent": "Data is kept only as long as necessary for the purposes described above.",
+    "yourRightsTitle": "Your rights",
+    "yourRightsContent": "You have the right to access, correct, or request deletion of your personal data.",
+    "contactTitle": "Contact",
+    "contactContent": "For privacy-related questions, contact:",
+    "metaTitle": "Privacy Policy | Wihngo",
+    "metaDescription": "Wihngo respects your privacy and is committed to protecting your personal data."
+  },
+  "terms": {
+    "pageTitle": "Terms of Service",
+    "lastUpdated": "Last updated:",
+    "lastUpdatedDate": "December 15, 2025",
+    "intro": "By accessing wihngo.com, you agree to the following terms.",
+    "platformRoleTitle": "Platform role",
+    "platformRoleContent": "Wihngo is a community platform. It is not a charity, financial institution, or veterinary service.",
+    "websiteUsageTitle": "Website usage",
+    "websiteUsageContent": "The website is provided for informational purposes only. The main Wihngo services are delivered through mobile applications.",
+    "userContentTitle": "User content",
+    "userContentContent": "Content shown on the website originates from users of the Wihngo platform. Users remain the owners of their content.",
+    "noGuaranteesTitle": "No guarantees",
+    "noGuaranteesContent": "Wihngo does not guarantee outcomes related to birds, stories, or support activities.",
+    "limitationTitle": "Limitation of liability",
+    "limitationContent": "Wihngo is not responsible for any loss or damage arising from the use of the website.",
+    "governingLawTitle": "Governing law",
+    "governingLawContent": "These terms are governed by the laws of Estonia and the European Union.",
+    "contactTitle": "Contact",
+    "contactContent": "For questions or support, contact:",
+    "metaTitle": "Terms of Service | Wihngo",
+    "metaDescription": "Terms of Service for Wihngo platform."
+  },
+  "contact": {
+    "pageTitle": "Contact",
+    "supportIntro": "For questions or support, contact:",
+    "privacyIntro": "For privacy-related questions:",
+    "metaTitle": "Contact | Wihngo",
+    "metaDescription": "Get in touch with Wihngo."
+  },
+  "notFound": {
+    "title": "Page Not Found",
+    "description": "This bird has flown away. Let's get you back to familiar territory.",
+    "goHome": "Go Home",
+    "readStories": "Read Stories"
+  },
+  "loading": {
+    "text": "Loading..."
+  },
+  "download": {
+    "title": "Download the app",
+    "description": "The full Wihngo experience lives in the mobile app.",
+    "comingSoon": "Coming Soon",
+    "availableOn": "Available on iOS & Android"
+  },
+  "storiesList": {
+    "noStories": "No stories yet. Check back soon!",
+    "loadMore": "Load More Stories ({current} of {total})",
+    "loading": "Loading...",
+    "seenAll": "You've seen all {count} stories",
+    "failedToFetch": "Failed to fetch stories"
+  },
+  "cards": {
+    "readMore": "Read more",
+    "meet": "Meet {name}"
+  },
+  "moods": {
+    "happy": "happy",
+    "playful": "playful",
+    "calm": "calm",
+    "curious": "curious",
+    "adventurous": "adventurous",
+    "loving": "loving"
+  },
+  "language": {
+    "select": "Select language",
+    "current": "Current language"
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "metadata": {
+    "title": "Wihngo - Una comunità basata sull'amore per chi ama gli uccelli",
+    "titleTemplate": "{title} | Wihngo",
+    "description": "Wihngo è una comunità basata sull'amore per chi ama gli uccelli. Un luogo dove le storie degli uccelli vengono condivise, le connessioni si formano e il supporto viene dato con cura.",
+    "twitterTitle": "Wihngo - Dove cuori e ali si incontrano",
+    "twitterDescription": "Una piattaforma comunitaria basata sull'amore per gli amanti degli uccelli."
+  },
+  "nav": {
+    "stories": "Storie",
+    "downloadApp": "Scarica l'App",
+    "menu": "Menu"
+  },
+  "footer": {
+    "tagline": "Una comunità basata sull'amore per chi ama gli uccelli.",
+    "explore": "Esplora",
+    "download": "Scarica",
+    "android": "Android",
+    "ios": "iOS",
+    "privacyPolicy": "Privacy",
+    "terms": "Termini",
+    "contact": "Contatti",
+    "copyright": "Wihngo. Creato con amore per gli uccelli e i loro umani."
+  },
+  "home": {
+    "heroTitle": "Wihngo",
+    "heroDescription": "Wihngo è una comunità basata sull'amore per chi ama gli uccelli. Un luogo dove le storie degli uccelli vengono condivise, le connessioni si formano e il supporto viene dato con cura.",
+    "mobileAppCta": "L'esperienza completa di Wihngo è nell'app mobile.",
+    "downloadTheApp": "Scarica l'app",
+    "birdStoriesTitle": "Storie di Uccelli",
+    "birdStoriesSubtitle": "Ogni uccello ha una storia. Ogni momento conta.",
+    "viewAllStories": "Vedi tutte le storie"
+  },
+  "stories": {
+    "pageTitle": "Storie di Uccelli",
+    "pageDescription": "Ogni uccello ha una storia. Ogni momento conta. Ecco alcuni dei bei viaggi condivisi dalla nostra comunità.",
+    "storiesCount": "{count} storie e in crescita",
+    "haveStoryTitle": "Hai una storia da condividere?",
+    "haveStoryDescription": "Scarica l'app Wihngo per condividere i momenti speciali del tuo uccello con una comunità che li comprende e celebra veramente.",
+    "getTheApp": "Scarica l'App",
+    "metaTitle": "Storie di Uccelli | Wihngo",
+    "metaDescription": "Leggi storie commoventi dagli amanti degli uccelli di tutto il mondo. Ogni cinguettio, ogni momento, condiviso con amore."
+  },
+  "storyDetail": {
+    "notFoundTitle": "Storia non trovata | Wihngo",
+    "about": "Informazioni su {name}",
+    "meetBird": "Conosci {name}",
+    "wantToSupport": "Vuoi supportare {name}?",
+    "supportDescription": "Scarica l'app Wihngo per connetterti con {name} e il suo umano, leggere più storie e opzionalmente fornire supporto quando necessario.",
+    "getWihngoApp": "Scarica l'App Wihngo",
+    "backToStories": "Torna a tutte le storie"
+  },
+  "bird": {
+    "notFoundTitle": "Uccello non trovato | Wihngo",
+    "personality": "Personalità",
+    "communitySince": "Parte della comunità Wihngo da {date}",
+    "storiesTitle": "Storie di {name}",
+    "storiesSubtitle": "Segui il viaggio di {name} attraverso questi momenti speciali",
+    "connectTitle": "Connettiti con {name}",
+    "connectDescription": "Scarica l'app Wihngo per seguire il viaggio di {name}, leggere nuove storie quando vengono condivise e opzionalmente fornire supporto quando necessario.",
+    "backToBirds": "Torna a tutti gli uccelli",
+    "yearsOld": "{age}",
+    "meetTitle": "Conosci {name}"
+  },
+  "faq": {
+    "pageTitle": "Domande Frequenti",
+    "pageDescription": "Tutto ciò che devi sapere su Wihngo, i nostri valori e come operiamo.",
+    "general": "Generale",
+    "generalDescription": "Impara le basi di Wihngo e cosa ci rende diversi",
+    "support": "Supporto e Contributi",
+    "supportDescription": "Come funziona il supporto finanziario su Wihngo",
+    "transparency": "Trasparenza e Fiducia",
+    "transparencyDescription": "Il nostro impegno per l'apertura e l'onestà",
+    "community": "Comunità",
+    "communityDescription": "Connettersi con altri amanti degli uccelli",
+    "stillHaveQuestions": "Hai ancora domande?",
+    "stillHaveQuestionsDescription": "Crediamo nella completa trasparenza. Se hai domande senza risposta qui, ci piacerebbe sentirti. Scarica l'app per connetterti con la nostra comunità e il nostro team.",
+    "metaTitle": "Domande Frequenti | Wihngo",
+    "metaDescription": "Scopri di più su Wihngo, come funziona e il nostro impegno verso gli uccelli e i loro umani."
+  },
+  "faqItems": {
+    "q1": "Cos'è Wihngo?",
+    "a1": "Wihngo è una piattaforma comunitaria basata sull'amore per gli amanti degli uccelli. È un luogo dove le persone che si prendono cura dei loro compagni piumati possono condividere storie, connettersi con altri e celebrare la gioia che gli uccelli portano nelle nostre vite. Wihngo è costruito sulla convinzione che le nostre relazioni con gli uccelli riguardano l'amore, la cura e la compagnia - non la commercializzazione.",
+    "q2": "Wihngo riguarda i soldi?",
+    "a2": "No. Wihngo riguarda fondamentalmente l'amore per gli uccelli e le persone che se ne prendono cura. Sebbene la piattaforma includa modi opzionali per supportare gli uccelli bisognosi, questo non è mai richiesto o forzato. Crediamo che la cura genuina e la comunità vengano sempre prima. Wihngo esiste per celebrare e rafforzare il legame tra umani e uccelli, non per trarne profitto.",
+    "q3": "Come funziona il supporto finanziario su Wihngo?",
+    "a3": "L'app Wihngo permette ai membri della comunità di supportare volontariamente gli uccelli che hanno bisogno di aiuto per cure veterinarie, cibo o altre necessità. Tutto il supporto è opzionale e trasparente. Forniamo informazioni chiare su dove vanno i contributi e non mettiamo mai pressione a nessuno per donare. Il focus è sempre sul benessere dell'uccello e sul desiderio genuino dell'umano di aiutare.",
+    "q4": "Cosa succede se un uccello muore?",
+    "a4": "La perdita di un uccello è profondamente dolorosa, e Wihngo tratta questo con il massimo rispetto e sensibilità. Se è stato fornito supporto finanziario per un uccello che è morto, gestiamo ogni situazione individualmente e con cura. La trasparenza è fondamentale - comunichiamo apertamente con i sostenitori e, quando appropriato, reindirizziamo i contributi ad altri uccelli bisognosi, sempre con consenso. La nostra priorità è onorare la memoria dell'uccello e supportare il suo umano nel lutto.",
+    "q5": "Quanto è trasparente Wihngo?",
+    "a5": "La completa trasparenza è un valore fondamentale di Wihngo. Condividiamo apertamente come opera la piattaforma, come viene gestito il supporto finanziario e i principi che guidano le nostre decisioni. Crediamo che la fiducia si guadagni con l'onestà e ci impegniamo a essere chiari su ogni aspetto di come funziona Wihngo. Se hai domande, abbiamo risposte.",
+    "q6": "Posso condividere la storia del mio uccello su Wihngo?",
+    "a6": "Sì! L'app Wihngo (disponibile su Android e iOS) ti permette di condividere le storie, foto e momenti speciali del tuo uccello con la comunità. Che il tuo uccello abbia imparato un nuovo trucco, abbia avuto un momento divertente, o tu voglia semplicemente celebrare la sua presenza nella tua vita, Wihngo è il posto giusto per condividerlo. Nota: Questo sito web pubblico è solo in lettura; pubblicare richiede l'app mobile.",
+    "q7": "Wihngo è gratuito?",
+    "a7": "Sì, Wihngo è gratuito da scaricare e usare. Puoi condividere storie, connetterti con altri amanti degli uccelli e partecipare alla comunità senza alcun costo. Esistono funzionalità opzionali di supporto finanziario per chi desidera aiutare gli uccelli bisognosi, ma usare Wihngo stesso è completamente gratuito.",
+    "q8": "Cosa rende Wihngo diverso dalle altre piattaforme?",
+    "a8": "Wihngo è costruito sull'amore, non su algoritmi progettati per massimizzare l'engagement o il profitto. Non sfruttiamo contenuti emotivi per click o ricavi pubblicitari. Non trattiamo gli uccelli come prodotti. Invece, ci concentriamo su connessioni genuine, storie significative e sulla costruzione di una comunità solidale. Wihngo esiste perché gli uccelli meritano di meglio, e anche le persone che li amano.",
+    "q9": "Come posso connettermi con altri amanti degli uccelli?",
+    "a9": "L'app Wihngo fornisce funzionalità per connettersi con altri membri della comunità. Puoi leggere e reagire alle storie, seguire uccelli e i loro umani, e partecipare a una comunità che comprende veramente la gioia e la responsabilità uniche della cura degli uccelli. Questo sito web pubblico ti mostra un'anteprima della comunità, ma l'interazione completa avviene nell'app.",
+    "q10": "Come è costruito Wihngo?",
+    "a10": "Wihngo è costruito con cura, intenzione e rispetto sia per gli uccelli che per gli umani. Usiamo tecnologia moderna per creare un'esperienza fluida e accessibile, ma la tecnologia serve sempre la missione - mai il contrario. L'app mobile è disponibile su Android e iOS, e questo sito web fornisce accesso pubblico alle storie e informazioni sulla comunità Wihngo."
+  },
+  "privacy": {
+    "pageTitle": "Informativa sulla Privacy",
+    "lastUpdated": "Ultimo aggiornamento:",
+    "lastUpdatedDate": "15 dicembre 2025",
+    "intro": "Wihngo rispetta la tua privacy e si impegna a proteggere i tuoi dati personali.",
+    "whoWeAreTitle": "Chi siamo",
+    "whoWeAreContent": "Wihngo è una piattaforma operante nell'Unione Europea. L'azienda è in fase di registrazione in Estonia.",
+    "whatDataTitle": "Quali dati raccogliamo",
+    "whatDataIntro": "Quando visiti wihngo.com, potremmo raccogliere:",
+    "whatDataItem1": "Dati tecnici di base (come indirizzo IP, tipo di browser, informazioni sul dispositivo)",
+    "whatDataItem2": "Dati di utilizzo anonimi per le prestazioni del sito e l'analisi",
+    "whatDataNote": "Il sito web è in sola lettura. Non vengono effettuati account, pagamenti o interazioni sul sito.",
+    "whyCollectTitle": "Perché raccogliamo questi dati",
+    "whyCollectIntro": "Raccogliamo questi dati per:",
+    "whyCollectItem1": "Assicurare che il sito web funzioni correttamente",
+    "whyCollectItem2": "Migliorare le prestazioni e l'esperienza utente",
+    "whyCollectItem3": "Mantenere la sicurezza",
+    "legalBasisTitle": "Base legale",
+    "legalBasisContent": "I dati sono trattati ai sensi del Regolamento Generale sulla Protezione dei Dati (GDPR) sulla base del legittimo interesse.",
+    "dataSharingTitle": "Condivisione dei dati",
+    "dataSharingContent": "Non vendiamo i tuoi dati. Alcuni dati potrebbero essere elaborati da fornitori di servizi affidabili (come servizi di analisi o hosting).",
+    "dataRetentionTitle": "Conservazione dei dati",
+    "dataRetentionContent": "I dati vengono conservati solo per il tempo necessario agli scopi descritti sopra.",
+    "yourRightsTitle": "I tuoi diritti",
+    "yourRightsContent": "Hai il diritto di accedere, correggere o richiedere la cancellazione dei tuoi dati personali.",
+    "contactTitle": "Contatti",
+    "contactContent": "Per domande relative alla privacy, contatta:",
+    "metaTitle": "Informativa sulla Privacy | Wihngo",
+    "metaDescription": "Wihngo rispetta la tua privacy e si impegna a proteggere i tuoi dati personali."
+  },
+  "terms": {
+    "pageTitle": "Termini di Servizio",
+    "lastUpdated": "Ultimo aggiornamento:",
+    "lastUpdatedDate": "15 dicembre 2025",
+    "intro": "Accedendo a wihngo.com, accetti i seguenti termini.",
+    "platformRoleTitle": "Ruolo della piattaforma",
+    "platformRoleContent": "Wihngo è una piattaforma comunitaria. Non è un ente di beneficenza, un'istituzione finanziaria o un servizio veterinario.",
+    "websiteUsageTitle": "Uso del sito web",
+    "websiteUsageContent": "Il sito web è fornito solo a scopo informativo. I servizi principali di Wihngo vengono erogati tramite applicazioni mobili.",
+    "userContentTitle": "Contenuto utente",
+    "userContentContent": "Il contenuto mostrato sul sito web proviene dagli utenti della piattaforma Wihngo. Gli utenti rimangono proprietari dei loro contenuti.",
+    "noGuaranteesTitle": "Nessuna garanzia",
+    "noGuaranteesContent": "Wihngo non garantisce risultati relativi a uccelli, storie o attività di supporto.",
+    "limitationTitle": "Limitazione di responsabilità",
+    "limitationContent": "Wihngo non è responsabile per eventuali perdite o danni derivanti dall'uso del sito web.",
+    "governingLawTitle": "Legge applicabile",
+    "governingLawContent": "Questi termini sono regolati dalle leggi dell'Estonia e dell'Unione Europea.",
+    "contactTitle": "Contatti",
+    "contactContent": "Per domande o supporto, contatta:",
+    "metaTitle": "Termini di Servizio | Wihngo",
+    "metaDescription": "Termini di Servizio per la piattaforma Wihngo."
+  },
+  "contact": {
+    "pageTitle": "Contatti",
+    "supportIntro": "Per domande o supporto, contatta:",
+    "privacyIntro": "Per domande relative alla privacy:",
+    "metaTitle": "Contatti | Wihngo",
+    "metaDescription": "Contatta Wihngo."
+  },
+  "notFound": {
+    "title": "Pagina non trovata",
+    "description": "Questo uccello è volato via. Riportiamoti in un territorio familiare.",
+    "goHome": "Vai alla Home",
+    "readStories": "Leggi le Storie"
+  },
+  "loading": {
+    "text": "Caricamento..."
+  },
+  "download": {
+    "title": "Scarica l'app",
+    "description": "L'esperienza completa di Wihngo è nell'app mobile.",
+    "comingSoon": "In arrivo",
+    "availableOn": "Disponibile su iOS e Android"
+  },
+  "storiesList": {
+    "noStories": "Nessuna storia ancora. Torna presto!",
+    "loadMore": "Carica altre storie ({current} di {total})",
+    "loading": "Caricamento...",
+    "seenAll": "Hai visto tutte le {count} storie",
+    "failedToFetch": "Impossibile caricare le storie"
+  },
+  "cards": {
+    "readMore": "Leggi di più",
+    "meet": "Conosci {name}"
+  },
+  "moods": {
+    "happy": "felice",
+    "playful": "giocoso",
+    "calm": "calmo",
+    "curious": "curioso",
+    "adventurous": "avventuroso",
+    "loving": "affettuoso"
+  },
+  "language": {
+    "select": "Seleziona lingua",
+    "current": "Lingua attuale"
+  }
+}

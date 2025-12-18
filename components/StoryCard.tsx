@@ -1,5 +1,8 @@
-import Link from "next/link";
+"use client";
+
+import { Link } from "@/i18n/navigation";
 import Image from "next/image";
+import { useTranslations } from "next-intl";
 
 interface StoryCardProps {
   id: string;
@@ -20,6 +23,9 @@ export default function StoryCard({
   mood,
   date,
 }: StoryCardProps) {
+  const t = useTranslations("cards");
+  const tMoods = useTranslations("moods");
+
   const moodEmojis: { [key: string]: string } = {
     happy: "😊",
     playful: "🎉",
@@ -28,6 +34,13 @@ export default function StoryCard({
     adventurous: "🌟",
     loving: "💕",
   };
+
+  // Get translated mood if available
+  type MoodKey = "happy" | "playful" | "calm" | "curious" | "adventurous" | "loving";
+  const validMoods: MoodKey[] = ["happy", "playful", "calm", "curious", "adventurous", "loving"];
+  const translatedMood = validMoods.includes(mood as MoodKey)
+    ? tMoods(mood as MoodKey)
+    : mood;
 
   return (
     <Link href={`/stories/${id}`}>
@@ -40,7 +53,7 @@ export default function StoryCard({
             className="object-cover group-hover:scale-105 transition-transform duration-300"
           />
           <div className="absolute top-4 right-4 bg-white/90 backdrop-blur-sm px-3 py-1 rounded-full text-sm">
-            {moodEmojis[mood] || "🐦"} {mood}
+            {moodEmojis[mood] || "🐦"} {translatedMood}
           </div>
         </div>
 
@@ -55,7 +68,7 @@ export default function StoryCard({
           <div className="flex items-center justify-between text-sm text-slate-500">
             <span>{date}</span>
             <span className="text-teal-600 group-hover:translate-x-1 transition-transform inline-block">
-              Read more →
+              {t("readMore")} →
             </span>
           </div>
         </div>

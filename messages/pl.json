@@ -1,0 +1,200 @@
+{
+  "metadata": {
+    "title": "Wihngo - Społeczność oparta na miłości dla miłośników ptaków",
+    "titleTemplate": "{title} | Wihngo",
+    "description": "Wihngo to społeczność oparta na miłości dla osób, które kochają ptaki. Miejsce, gdzie dzielone są historie ptaków, tworzą się więzi i wsparcie jest dawane z troską.",
+    "twitterTitle": "Wihngo - Gdzie serca i skrzydła się spotykają",
+    "twitterDescription": "Platforma społecznościowa oparta na miłości dla miłośników ptaków."
+  },
+  "nav": {
+    "stories": "Historie",
+    "downloadApp": "Pobierz aplikację",
+    "menu": "Menu"
+  },
+  "footer": {
+    "tagline": "Społeczność oparta na miłości dla miłośników ptaków.",
+    "explore": "Odkrywaj",
+    "download": "Pobierz",
+    "android": "Android",
+    "ios": "iOS",
+    "privacyPolicy": "Prywatność",
+    "terms": "Regulamin",
+    "contact": "Kontakt",
+    "copyright": "Wihngo. Stworzone z miłością dla ptaków i ich ludzi."
+  },
+  "home": {
+    "heroTitle": "Wihngo",
+    "heroDescription": "Wihngo to społeczność oparta na miłości dla osób, które kochają ptaki. Miejsce, gdzie dzielone są historie ptaków, tworzą się więzi i wsparcie jest dawane z troską.",
+    "mobileAppCta": "Pełne doświadczenie Wihngo znajdziesz w aplikacji mobilnej.",
+    "downloadTheApp": "Pobierz aplikację",
+    "birdStoriesTitle": "Historie ptaków",
+    "birdStoriesSubtitle": "Każdy ptak ma swoją historię. Każda chwila się liczy.",
+    "viewAllStories": "Zobacz wszystkie historie"
+  },
+  "stories": {
+    "pageTitle": "Historie ptaków",
+    "pageDescription": "Każdy ptak ma swoją historię. Każda chwila się liczy. Oto niektóre z pięknych podróży dzielonych przez naszą społeczność.",
+    "storiesCount": "{count} historii i wciąż przybywa",
+    "haveStoryTitle": "Masz historię do podzielenia się?",
+    "haveStoryDescription": "Pobierz aplikację Wihngo, aby dzielić się wyjątkowymi chwilami swojego ptaka ze społecznością, która naprawdę je rozumie i celebruje.",
+    "getTheApp": "Pobierz aplikację",
+    "metaTitle": "Historie ptaków | Wihngo",
+    "metaDescription": "Czytaj wzruszające historie od miłośników ptaków z całego świata. Każde ćwierkanie, każda chwila, dzielone z miłością."
+  },
+  "storyDetail": {
+    "notFoundTitle": "Historia nie znaleziona | Wihngo",
+    "about": "O {name}",
+    "meetBird": "Poznaj {name}",
+    "wantToSupport": "Chcesz wesprzeć {name}?",
+    "supportDescription": "Pobierz aplikację Wihngo, aby połączyć się z {name} i jego człowiekiem, czytać więcej historii i opcjonalnie wspierać, gdy to potrzebne.",
+    "getWihngoApp": "Pobierz aplikację Wihngo",
+    "backToStories": "Wróć do wszystkich historii"
+  },
+  "bird": {
+    "notFoundTitle": "Ptak nie znaleziony | Wihngo",
+    "personality": "Osobowość",
+    "communitySince": "Członek społeczności Wihngo od {date}",
+    "storiesTitle": "Historie {name}",
+    "storiesSubtitle": "Śledź podróż {name} przez te wyjątkowe chwile",
+    "connectTitle": "Połącz się z {name}",
+    "connectDescription": "Pobierz aplikację Wihngo, aby śledzić podróż {name}, czytać nowe historie i opcjonalnie wspierać, gdy to potrzebne.",
+    "backToBirds": "Wróć do wszystkich ptaków",
+    "yearsOld": "{age}",
+    "meetTitle": "Poznaj {name}"
+  },
+  "faq": {
+    "pageTitle": "Często zadawane pytania",
+    "pageDescription": "Wszystko, co musisz wiedzieć o Wihngo, naszych wartościach i sposobie działania.",
+    "general": "Ogólne",
+    "generalDescription": "Poznaj podstawy Wihngo i co nas wyróżnia",
+    "support": "Wsparcie i darowizny",
+    "supportDescription": "Jak działa wsparcie finansowe w Wihngo",
+    "transparency": "Przejrzystość i zaufanie",
+    "transparencyDescription": "Nasze zaangażowanie w otwartość i uczciwość",
+    "community": "Społeczność",
+    "communityDescription": "Łączenie się z innymi miłośnikami ptaków",
+    "stillHaveQuestions": "Nadal masz pytania?",
+    "stillHaveQuestionsDescription": "Wierzymy w pełną przejrzystość. Jeśli masz pytania, na które tu nie odpowiedziano, chętnie Cię wysłuchamy. Pobierz aplikację, aby połączyć się z naszą społecznością i zespołem.",
+    "metaTitle": "Często zadawane pytania | Wihngo",
+    "metaDescription": "Dowiedz się więcej o Wihngo, jak to działa i naszym zaangażowaniu wobec ptaków i ich ludzi."
+  },
+  "faqItems": {
+    "q1": "Czym jest Wihngo?",
+    "a1": "Wihngo to platforma społecznościowa oparta na miłości dla miłośników ptaków. Miejsce, gdzie osoby głęboko troszczące się o swoich pierzastych towarzyszy mogą dzielić się historiami, łączyć z innymi i celebrować radość, którą ptaki wnoszą do naszego życia. Wihngo opiera się na przekonaniu, że nasze relacje z ptakami dotyczą miłości, troski i towarzystwa - nie komercjalizacji.",
+    "q2": "Czy Wihngo jest o pieniądzach?",
+    "a2": "Nie. Wihngo zasadniczo dotyczy miłości do ptaków i osób, które się nimi opiekują. Chociaż platforma zawiera opcjonalne sposoby wspierania ptaków w potrzebie, nigdy nie jest to wymagane ani narzucane. Wierzymy, że prawdziwa troska i społeczność są zawsze najważniejsze. Wihngo istnieje, aby celebrować i wzmacniać więź między ludźmi a ptakami, a nie czerpać z tego zyski.",
+    "q3": "Jak działa wsparcie finansowe w Wihngo?",
+    "a3": "Aplikacja Wihngo umożliwia członkom społeczności dobrowolne wspieranie ptaków potrzebujących pomocy w opiece weterynaryjnej, jedzeniu lub innych potrzebach. Całe wsparcie jest opcjonalne i przejrzyste. Dostarczamy jasnych informacji o tym, dokąd trafiają darowizny, i nigdy nie wywieramy presji na nikogo, aby dawał. Zawsze skupiamy się na dobrostanie ptaka i prawdziwym pragnieniu człowieka, aby pomóc.",
+    "q4": "Co się dzieje, gdy ptak umiera?",
+    "a4": "Utrata ptaka jest głęboko bolesna i Wihngo traktuje to z najwyższym szacunkiem i wrażliwością. Jeśli wsparcie finansowe zostało udzielone dla ptaka, który zmarł, zajmujemy się każdą sytuacją indywidualnie i z troską. Przejrzystość jest najważniejsza - komunikujemy się otwarcie ze wspierającymi i, gdy to właściwe, przekierowujemy darowizny do innych ptaków w potrzebie, zawsze za zgodą. Naszym priorytetem jest uhonorowanie pamięci ptaka i wspieranie jego człowieka w żałobie.",
+    "q5": "Jak przejrzyste jest Wihngo?",
+    "a5": "Pełna przejrzystość to podstawowa wartość Wihngo. Otwarcie dzielimy się tym, jak działa platforma, jak obsługiwane jest wsparcie finansowe i zasadami, które kierują naszymi decyzjami. Wierzymy, że zaufanie zdobywa się uczciwością i zobowiązujemy się być jasni w każdym aspekcie działania Wihngo. Jeśli masz pytania, mamy odpowiedzi.",
+    "q6": "Czy mogę podzielić się historią mojego ptaka na Wihngo?",
+    "a6": "Tak! Aplikacja Wihngo (dostępna na Android i iOS) pozwala dzielić się historiami, zdjęciami i wyjątkowymi chwilami swojego ptaka ze społecznością. Czy twój ptak nauczył się nowej sztuczki, miał zabawny moment, czy po prostu chcesz świętować jego obecność w swoim życiu, Wihngo jest miejscem do dzielenia się tym. Uwaga: Ta publiczna strona jest tylko do odczytu; publikowanie wymaga aplikacji mobilnej.",
+    "q7": "Czy Wihngo jest darmowe?",
+    "a7": "Tak, Wihngo jest darmowe do pobrania i użytkowania. Możesz dzielić się historiami, łączyć z innymi miłośnikami ptaków i uczestniczyć w społeczności bez żadnych kosztów. Istnieją opcjonalne funkcje wsparcia finansowego dla tych, którzy chcą pomóc ptakom w potrzebie, ale korzystanie z Wihngo jest całkowicie darmowe.",
+    "q8": "Co wyróżnia Wihngo od innych platform?",
+    "a8": "Wihngo opiera się na miłości, a nie na algorytmach zaprojektowanych w celu maksymalizacji zaangażowania lub zysku. Nie wykorzystujemy emocjonalnych treści dla kliknięć lub przychodów z reklam. Nie traktujemy ptaków jak produktów. Zamiast tego skupiamy się na prawdziwych połączeniach, znaczących historiach i budowaniu wspierającej społeczności. Wihngo istnieje, ponieważ ptaki zasługują na lepsze, tak samo jak ludzie, którzy je kochają.",
+    "q9": "Jak mogę połączyć się z innymi miłośnikami ptaków?",
+    "a9": "Aplikacja Wihngo oferuje funkcje łączenia z innymi członkami społeczności. Możesz czytać i reagować na historie, obserwować ptaki i ich ludzi oraz uczestniczyć w społeczności, która naprawdę rozumie wyjątkową radość i odpowiedzialność związaną z opieką nad ptakami. Ta publiczna strona pokazuje podgląd społeczności, ale pełna interakcja odbywa się w aplikacji.",
+    "q10": "Jak zbudowane jest Wihngo?",
+    "a10": "Wihngo jest zbudowane z troską, zamiarem i szacunkiem zarówno dla ptaków, jak i ludzi. Używamy nowoczesnej technologii, aby stworzyć płynne, dostępne doświadczenie, ale technologia zawsze służy misji - nigdy na odwrót. Aplikacja mobilna jest dostępna na Android i iOS, a ta strona zapewnia publiczny dostęp do historii i informacji o społeczności Wihngo."
+  },
+  "privacy": {
+    "pageTitle": "Polityka prywatności",
+    "lastUpdated": "Ostatnia aktualizacja:",
+    "lastUpdatedDate": "15 grudnia 2025",
+    "intro": "Wihngo szanuje Twoją prywatność i jest zobowiązane do ochrony Twoich danych osobowych.",
+    "whoWeAreTitle": "Kim jesteśmy",
+    "whoWeAreContent": "Wihngo to platforma działająca w Unii Europejskiej. Firma jest w trakcie rejestracji w Estonii.",
+    "whatDataTitle": "Jakie dane zbieramy",
+    "whatDataIntro": "Kiedy odwiedzasz wihngo.com, możemy zbierać:",
+    "whatDataItem1": "Podstawowe dane techniczne (takie jak adres IP, typ przeglądarki, informacje o urządzeniu)",
+    "whatDataItem2": "Anonimowe dane o użytkowaniu dla wydajności strony i analityki",
+    "whatDataNote": "Strona jest tylko do odczytu. Na stronie nie są tworzone konta, dokonywane płatności ani interakcje.",
+    "whyCollectTitle": "Dlaczego zbieramy te dane",
+    "whyCollectIntro": "Zbieramy te dane, aby:",
+    "whyCollectItem1": "Zapewnić prawidłowe działanie strony",
+    "whyCollectItem2": "Poprawić wydajność i doświadczenie użytkownika",
+    "whyCollectItem3": "Utrzymać bezpieczeństwo",
+    "legalBasisTitle": "Podstawa prawna",
+    "legalBasisContent": "Dane są przetwarzane zgodnie z Ogólnym Rozporządzeniem o Ochronie Danych (RODO) na podstawie uzasadnionego interesu.",
+    "dataSharingTitle": "Udostępnianie danych",
+    "dataSharingContent": "Nie sprzedajemy Twoich danych. Niektóre dane mogą być przetwarzane przez zaufanych dostawców usług (takich jak usługi analityczne lub hostingowe).",
+    "dataRetentionTitle": "Przechowywanie danych",
+    "dataRetentionContent": "Dane są przechowywane tylko tak długo, jak jest to konieczne dla celów opisanych powyżej.",
+    "yourRightsTitle": "Twoje prawa",
+    "yourRightsContent": "Masz prawo do dostępu, poprawiania lub żądania usunięcia swoich danych osobowych.",
+    "contactTitle": "Kontakt",
+    "contactContent": "W sprawach związanych z prywatnością skontaktuj się:",
+    "metaTitle": "Polityka prywatności | Wihngo",
+    "metaDescription": "Wihngo szanuje Twoją prywatność i jest zobowiązane do ochrony Twoich danych osobowych."
+  },
+  "terms": {
+    "pageTitle": "Regulamin",
+    "lastUpdated": "Ostatnia aktualizacja:",
+    "lastUpdatedDate": "15 grudnia 2025",
+    "intro": "Korzystając z wihngo.com, akceptujesz poniższe warunki.",
+    "platformRoleTitle": "Rola platformy",
+    "platformRoleContent": "Wihngo to platforma społecznościowa. Nie jest organizacją charytatywną, instytucją finansową ani usługą weterynaryjną.",
+    "websiteUsageTitle": "Korzystanie ze strony",
+    "websiteUsageContent": "Strona jest udostępniana wyłącznie w celach informacyjnych. Główne usługi Wihngo są dostarczane przez aplikacje mobilne.",
+    "userContentTitle": "Treści użytkowników",
+    "userContentContent": "Treści wyświetlane na stronie pochodzą od użytkowników platformy Wihngo. Użytkownicy pozostają właścicielami swoich treści.",
+    "noGuaranteesTitle": "Brak gwarancji",
+    "noGuaranteesContent": "Wihngo nie gwarantuje wyników związanych z ptakami, historiami lub działaniami wsparcia.",
+    "limitationTitle": "Ograniczenie odpowiedzialności",
+    "limitationContent": "Wihngo nie ponosi odpowiedzialności za jakiekolwiek straty lub szkody wynikające z korzystania ze strony.",
+    "governingLawTitle": "Prawo właściwe",
+    "governingLawContent": "Te warunki podlegają prawu Estonii i Unii Europejskiej.",
+    "contactTitle": "Kontakt",
+    "contactContent": "W razie pytań lub potrzeby wsparcia skontaktuj się:",
+    "metaTitle": "Regulamin | Wihngo",
+    "metaDescription": "Regulamin platformy Wihngo."
+  },
+  "contact": {
+    "pageTitle": "Kontakt",
+    "supportIntro": "W razie pytań lub potrzeby wsparcia skontaktuj się:",
+    "privacyIntro": "W sprawach związanych z prywatnością:",
+    "metaTitle": "Kontakt | Wihngo",
+    "metaDescription": "Skontaktuj się z Wihngo."
+  },
+  "notFound": {
+    "title": "Strona nie znaleziona",
+    "description": "Ten ptak odleciał. Wróćmy na znane terytoria.",
+    "goHome": "Strona główna",
+    "readStories": "Czytaj historie"
+  },
+  "loading": {
+    "text": "Ładowanie..."
+  },
+  "download": {
+    "title": "Pobierz aplikację",
+    "description": "Pełne doświadczenie Wihngo znajdziesz w aplikacji mobilnej.",
+    "comingSoon": "Wkrótce",
+    "availableOn": "Dostępne na iOS i Android"
+  },
+  "storiesList": {
+    "noStories": "Jeszcze nie ma historii. Wróć wkrótce!",
+    "loadMore": "Załaduj więcej ({current} z {total})",
+    "loading": "Ładowanie...",
+    "seenAll": "Zobaczyłeś wszystkie {count} historii",
+    "failedToFetch": "Nie udało się pobrać historii"
+  },
+  "cards": {
+    "readMore": "Czytaj więcej",
+    "meet": "Poznaj {name}"
+  },
+  "moods": {
+    "happy": "szczęśliwy",
+    "playful": "figlarny",
+    "calm": "spokojny",
+    "curious": "ciekawski",
+    "adventurous": "żądny przygód",
+    "loving": "kochający"
+  },
+  "language": {
+    "select": "Wybierz język",
+    "current": "Aktualny język"
+  }
+}

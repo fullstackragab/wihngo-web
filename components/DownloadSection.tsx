@@ -1,4 +1,10 @@
+"use client";
+
+import { useTranslations } from "next-intl";
+
 export default function DownloadSection() {
+  const t = useTranslations("download");
+
   return (
     <section
       id="download"
@@ -6,11 +12,9 @@ export default function DownloadSection() {
     >
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
         <h2 className="text-3xl md:text-4xl font-bold text-slate-800 mb-6">
-          Download the app
+          {t("title")}
         </h2>
-        <p className="text-lg text-slate-600 mb-8">
-          The full Wihngo experience lives in the mobile app.
-        </p>
+        <p className="text-lg text-slate-600 mb-8">{t("description")}</p>
 
         <div className="inline-flex items-center gap-3 bg-white/80 backdrop-blur-sm px-6 py-4 rounded-2xl shadow-sm border border-slate-200">
           <div className="flex items-center justify-center w-12 h-12 bg-gradient-to-br from-teal-500 to-teal-600 rounded-xl">
@@ -29,8 +33,8 @@ export default function DownloadSection() {
             </svg>
           </div>
           <div className="text-left">
-            <p className="text-sm font-medium text-teal-600">Coming Soon</p>
-            <p className="text-slate-600">Available on iOS & Android</p>
+            <p className="text-sm font-medium text-teal-600">{t("comingSoon")}</p>
+            <p className="text-slate-600">{t("availableOn")}</p>
           </div>
         </div>
       </div>

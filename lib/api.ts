@@ -50,6 +50,9 @@ export async function fetchStories(
       {
         next: { revalidate: 60 }, // Cache for 60 seconds
         signal: controller.signal,
+        headers: {
+          "ngrok-skip-browser-warning": "true",
+        },
       }
     );
 
@@ -108,6 +111,9 @@ export async function fetchStoryById(id: string): Promise<Story | null> {
     const response = await fetch(`${API_BASE_URL}/stories/${id}`, {
       next: { revalidate: 60 }, // Cache for 60 seconds
       signal: controller.signal,
+      headers: {
+        "ngrok-skip-browser-warning": "true",
+      },
     });
 
     clearTimeout(timeoutId);
