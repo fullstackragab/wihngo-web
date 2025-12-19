@@ -1,8 +1,5 @@
-"use client";
-
-import { useState } from "react";
 import { useTranslations } from "next-intl";
-import DonationModal from "./DonationModal";
+import { Link } from "@/i18n/navigation";
 
 interface DonationButtonProps {
   variant?: "primary" | "secondary" | "outline" | "link";
@@ -16,7 +13,6 @@ export default function DonationButton({
   className = "",
 }: DonationButtonProps) {
   const t = useTranslations("donation");
-  const [isModalOpen, setIsModalOpen] = useState(false);
 
   const baseStyles =
     "inline-flex items-center justify-center font-medium transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-offset-2";
@@ -40,14 +36,8 @@ export default function DonationButton({
   const classes = `${baseStyles} ${variants[variant]} ${sizes[size]} ${className}`;
 
   return (
-    <>
-      <button onClick={() => setIsModalOpen(true)} className={classes}>
-        {t("buttonText")}
-      </button>
-      <DonationModal
-        isOpen={isModalOpen}
-        onClose={() => setIsModalOpen(false)}
-      />
-    </>
+    <Link href="/support" className={classes}>
+      {t("buttonText")}
+    </Link>
   );
 }

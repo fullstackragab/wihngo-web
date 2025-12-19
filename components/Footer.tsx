@@ -38,6 +38,30 @@ export default function Footer() {
                   {tNav("stories")}
                 </Link>
               </li>
+              <li>
+                <Link
+                  href="/why-birds-matter"
+                  className="text-slate-600 hover:text-teal-600 transition-colors"
+                >
+                  {tNav("whyBirdsMatter")}
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href="/about"
+                  className="text-slate-600 hover:text-teal-600 transition-colors"
+                >
+                  {tNav("about")}
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href="/support"
+                  className="text-slate-600 hover:text-teal-600 transition-colors"
+                >
+                  {tNav("support")}
+                </Link>
+              </li>
             </ul>
           </div>
 

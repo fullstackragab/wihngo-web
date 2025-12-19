@@ -30,6 +30,18 @@ export default function Header() {
             >
               {t("stories")}
             </Link>
+            <Link
+              href="/why-birds-matter"
+              className="text-slate-600 hover:text-teal-600 transition-colors"
+            >
+              {t("whyBirdsMatter")}
+            </Link>
+            <Link
+              href="/about"
+              className="text-slate-600 hover:text-teal-600 transition-colors"
+            >
+              {t("about")}
+            </Link>
             <LanguageSwitcher />
             <Link
               href="#download"
