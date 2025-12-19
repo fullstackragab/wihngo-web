@@ -43,8 +43,7 @@ export const birds: Bird[] = [
     name: "Oliver",
     species: "Cockatiel",
     age: "4 years",
-    imageUrl:
-      "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=800&q=80",
+    imageUrl: "https://i.ibb.co/cK3mKVqg/Lone-Rooster.jpg",
     description:
       "Oliver is a calm and collected cockatiel who enjoys quiet moments and gentle head scratches. He has a sweet whistle that melts hearts.",
     personality: ["Calm", "Sweet", "Loyal"],
