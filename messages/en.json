@@ -1,7 +1,7 @@
 {
   "metadata": {
     "title": "Wihngo - A love-centric community for people who care about birds",
-    "titleTemplate": "{title} | Wihngo",
+    "titleTemplate": "%s | Wihngo",
     "description": "Wihngo is a love-centric community for people who care about birds. A place where bird stories are shared, connections are formed, and support is given with care.",
     "twitterTitle": "Wihngo - Where Hearts & Wings Gather",
     "twitterDescription": "A love-centric community platform for bird lovers."
@@ -265,7 +265,7 @@
     "value4Title": "Care",
     "value4Content": "We promote proper care practices including nutrition, hygiene, and health for all birds.",
     "visionTitle": "Our Vision",
-    "visionContent": "We envision a world where every bird is treated with dignity, lives in a clean environment, enjoys proper nutrition, and feels loved. Wihngo exists to make that vision a reality, one bird at a time."
+    "visionContent": "We envision a world where every bird is treated with dignity, lives in a clean environment, enjoys proper nutrition, and feels loved."
   },
   "blogStory": {
     "pageTitle": "A Story of Care",

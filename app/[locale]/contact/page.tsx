@@ -34,7 +34,7 @@ function ContactPageContent() {
   return (
     <main className="py-20 px-4">
       <div className="max-w-4xl mx-auto text-center">
-        <div className="text-6xl mb-6">📩</div>
+        <div className="text-6xl mb-6">💌</div>
 
         <h1 className="text-4xl md:text-5xl font-bold text-slate-800 mb-8">
           {t("pageTitle")}

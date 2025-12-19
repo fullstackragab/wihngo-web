@@ -1,7 +1,7 @@
 {
   "metadata": {
     "title": "Wihngo - 一个以爱为中心的鸟类爱好者社区",
-    "titleTemplate": "{title} | Wihngo",
+    "titleTemplate": "%s | Wihngo",
     "description": "Wihngo是一个以爱为中心的鸟类爱好者社区。这是一个分享鸟类故事、建立联系、用心给予支持的地方。",
     "twitterTitle": "Wihngo - 心与翼相遇的地方",
     "twitterDescription": "一个以爱为中心的鸟类爱好者社区平台。"
@@ -265,7 +265,7 @@
     "value4Title": "关爱",
     "value4Content": "我们提倡适当的护理方法，包括所有鸟类的营养、卫生和健康。",
     "visionTitle": "我们的愿景",
-    "visionContent": "我们设想一个每只鸟都被尊严对待、生活在清洁环境中、享受适当营养并感受到爱的世界。Wihngo 的存在就是为了实现这个愿景，一只鸟接一只鸟。"
+    "visionContent": "我们设想一个每只鸟都被尊严对待、生活在清洁环境中、享受适当营养并感受到爱的世界。"
   },
   "blogStory": {
     "pageTitle": "一个关于关爱的故事",

@@ -1,7 +1,7 @@
 {
   "metadata": {
     "title": "Wihngo - 새를 사랑하는 사람들을 위한 사랑 중심의 커뮤니티",
-    "titleTemplate": "{title} | Wihngo",
+    "titleTemplate": "%s | Wihngo",
     "description": "Wihngo는 새를 사랑하는 사람들을 위한 사랑 중심의 커뮤니티입니다. 새의 이야기가 공유되고, 연결이 형성되며, 따뜻한 지원이 제공되는 곳입니다.",
     "twitterTitle": "Wihngo - 마음과 날개가 만나는 곳",
     "twitterDescription": "새를 사랑하는 사람들을 위한 사랑 중심의 커뮤니티 플랫폼."
@@ -265,7 +265,7 @@
     "value4Title": "돌봄",
     "value4Content": "모든 새를 위한 영양, 위생, 건강을 포함한 적절한 돌봄 관행을 촉진합니다.",
     "visionTitle": "우리의 비전",
-    "visionContent": "모든 새가 존엄하게 대우받고, 깨끗한 환경에서 살며, 적절한 영양을 즐기고, 사랑받는다고 느끼는 세상을 상상합니다. Wihngo는 그 비전을 현실로 만들기 위해 존재합니다, 한 마리씩."
+    "visionContent": "모든 새가 존엄하게 대우받고, 깨끗한 환경에서 살며, 적절한 영양을 즐기고, 사랑받는다고 느끼는 세상을 상상합니다."
   },
   "blogStory": {
     "pageTitle": "돌봄의 이야기",

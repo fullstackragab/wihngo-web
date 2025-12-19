@@ -1,7 +1,7 @@
 {
   "metadata": {
     "title": "Wihngo - Komunitas berbasis cinta untuk pecinta burung",
-    "titleTemplate": "{title} | Wihngo",
+    "titleTemplate": "%s | Wihngo",
     "description": "Wihngo adalah komunitas berbasis cinta untuk pecinta burung. Tempat di mana cerita burung dibagikan, koneksi terbentuk, dan dukungan diberikan dengan penuh perhatian.",
     "twitterTitle": "Wihngo - Tempat Hati dan Sayap Bertemu",
     "twitterDescription": "Platform komunitas berbasis cinta untuk pecinta burung."
@@ -265,7 +265,7 @@
     "value4Title": "Perawatan",
     "value4Content": "Kami mempromosikan praktik perawatan yang tepat termasuk nutrisi, kebersihan, dan kesehatan untuk semua burung.",
     "visionTitle": "Visi Kami",
-    "visionContent": "Kami membayangkan dunia di mana setiap burung diperlakukan dengan bermartabat, hidup di lingkungan bersih, menikmati nutrisi yang tepat, dan merasa dicintai. Wihngo ada untuk mewujudkan visi itu, satu burung pada satu waktu."
+    "visionContent": "Kami membayangkan dunia di mana setiap burung diperlakukan dengan bermartabat, hidup di lingkungan bersih, menikmati nutrisi yang tepat, dan merasa dicintai."
   },
   "blogStory": {
     "pageTitle": "Sebuah Cerita Perawatan",

@@ -1,7 +1,7 @@
 {
   "metadata": {
     "title": "Wihngo - Eine liebesorientierte Gemeinschaft für Menschen, die Vögel lieben",
-    "titleTemplate": "{title} | Wihngo",
+    "titleTemplate": "%s | Wihngo",
     "description": "Wihngo ist eine liebesorientierte Gemeinschaft für Menschen, die Vögel lieben. Ein Ort, an dem Vogelgeschichten geteilt, Verbindungen geknüpft und Unterstützung mit Fürsorge gegeben wird.",
     "twitterTitle": "Wihngo - Wo Herzen und Flügel zusammenkommen",
     "twitterDescription": "Eine liebesorientierte Gemeinschaftsplattform für Vogelliebhaber."
@@ -265,7 +265,7 @@
     "value4Title": "Fürsorge",
     "value4Content": "Wir fördern richtige Pflegepraktiken einschließlich Ernährung, Hygiene und Gesundheit für alle Vögel.",
     "visionTitle": "Unsere Vision",
-    "visionContent": "Wir stellen uns eine Welt vor, in der jeder Vogel mit Würde behandelt wird, in einer sauberen Umgebung lebt, richtige Ernährung genießt und sich geliebt fühlt. Wihngo existiert, um diese Vision Wirklichkeit werden zu lassen, ein Vogel nach dem anderen."
+    "visionContent": "Wir stellen uns eine Welt vor, in der jeder Vogel mit Würde behandelt wird, in einer sauberen Umgebung lebt, richtige Ernährung genießt und sich geliebt fühlt."
   },
   "blogStory": {
     "pageTitle": "Eine Geschichte der Fürsorge",

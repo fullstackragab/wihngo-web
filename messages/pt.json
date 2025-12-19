@@ -1,7 +1,7 @@
 {
   "metadata": {
     "title": "Wihngo - Uma comunidade baseada no amor para quem ama pássaros",
-    "titleTemplate": "{title} | Wihngo",
+    "titleTemplate": "%s | Wihngo",
     "description": "Wihngo é uma comunidade baseada no amor para pessoas que amam pássaros. Um lugar onde histórias de pássaros são compartilhadas, conexões são formadas e apoio é dado com carinho.",
     "twitterTitle": "Wihngo - Onde corações e asas se encontram",
     "twitterDescription": "Uma plataforma comunitária baseada no amor para amantes de pássaros."
@@ -265,7 +265,7 @@
     "value4Title": "Cuidado",
     "value4Content": "Promovemos práticas de cuidado adequadas incluindo nutrição, higiene e saúde para todas as aves.",
     "visionTitle": "Nossa visão",
-    "visionContent": "Imaginamos um mundo onde cada ave seja tratada com dignidade, viva em um ambiente limpo, desfrute de nutrição adequada e se sinta amada. O Wihngo existe para tornar essa visão realidade, uma ave de cada vez."
+    "visionContent": "Imaginamos um mundo onde cada ave seja tratada com dignidade, viva em um ambiente limpo, desfrute de nutrição adequada e se sinta amada."
   },
   "blogStory": {
     "pageTitle": "Uma história de cuidado",

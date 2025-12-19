@@ -1,7 +1,7 @@
 {
   "metadata": {
     "title": "Wihngo - Społeczność oparta na miłości dla miłośników ptaków",
-    "titleTemplate": "{title} | Wihngo",
+    "titleTemplate": "%s | Wihngo",
     "description": "Wihngo to społeczność oparta na miłości dla osób, które kochają ptaki. Miejsce, gdzie dzielone są historie ptaków, tworzą się więzi i wsparcie jest dawane z troską.",
     "twitterTitle": "Wihngo - Gdzie serca i skrzydła się spotykają",
     "twitterDescription": "Platforma społecznościowa oparta na miłości dla miłośników ptaków."
@@ -265,7 +265,7 @@
     "value4Title": "Opieka",
     "value4Content": "Promujemy właściwe praktyki opieki, w tym żywienie, higienę i zdrowie dla wszystkich ptaków.",
     "visionTitle": "Nasza wizja",
-    "visionContent": "Wyobrażamy sobie świat, w którym każdy ptak jest traktowany z godnością, żyje w czystym środowisku, cieszy się odpowiednim żywieniem i czuje się kochany. Wihngo istnieje, by urzeczywistnić tę wizję, ptak po ptaku."
+    "visionContent": "Wyobrażamy sobie świat, w którym każdy ptak jest traktowany z godnością, żyje w czystym środowisku, cieszy się odpowiednim żywieniem i czuje się kochany."
   },
   "blogStory": {
     "pageTitle": "Historia opieki",

@@ -1,7 +1,7 @@
 {
   "metadata": {
     "title": "Wihngo - Une communauté centrée sur l'amour pour les passionnés d'oiseaux",
-    "titleTemplate": "{title} | Wihngo",
+    "titleTemplate": "%s | Wihngo",
     "description": "Wihngo est une communauté centrée sur l'amour pour les passionnés d'oiseaux. Un endroit où les histoires d'oiseaux sont partagées, les liens se forment et le soutien est donné avec attention.",
     "twitterTitle": "Wihngo - Où les cœurs et les ailes se rencontrent",
     "twitterDescription": "Une plateforme communautaire centrée sur l'amour pour les amoureux des oiseaux."
@@ -265,7 +265,7 @@
     "value4Title": "Soin",
     "value4Content": "Nous promouvons des pratiques de soins appropriées incluant nutrition, hygiène et santé pour tous les oiseaux.",
     "visionTitle": "Notre vision",
-    "visionContent": "Nous envisageons un monde où chaque oiseau est traité avec dignité, vit dans un environnement propre, bénéficie d'une nutrition appropriée et se sent aimé. Wihngo existe pour réaliser cette vision, un oiseau à la fois."
+    "visionContent": "Nous envisageons un monde où chaque oiseau est traité avec dignité, vit dans un environnement propre, bénéficie d'une nutrition appropriée et se sent aimé."
   },
   "blogStory": {
     "pageTitle": "Une histoire de soin",

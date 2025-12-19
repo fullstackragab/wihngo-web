@@ -1,7 +1,7 @@
 {
   "metadata": {
     "title": "Wihngo - Kuşları seven insanlar için sevgi merkezli bir topluluk",
-    "titleTemplate": "{title} | Wihngo",
+    "titleTemplate": "%s | Wihngo",
     "description": "Wihngo, kuşları seven insanlar için sevgi merkezli bir topluluktur. Kuş hikayelerinin paylaşıldığı, bağlantıların kurulduğu ve desteğin özenle verildiği bir yer.",
     "twitterTitle": "Wihngo - Kalplerin ve Kanatların Buluştuğu Yer",
     "twitterDescription": "Kuş severler için sevgi merkezli bir topluluk platformu."
@@ -265,7 +265,7 @@
     "value4Title": "Bakım",
     "value4Content": "Tüm kuşlar için beslenme, hijyen ve sağlık dahil uygun bakım uygulamalarını teşvik ediyoruz.",
     "visionTitle": "Vizyonumuz",
-    "visionContent": "Her kuşun onurla muamele gördüğü, temiz bir ortamda yaşadığı, uygun beslenmenin tadını çıkardığı ve sevildiğini hissettiği bir dünya hayal ediyoruz. Wihngo bu vizyonu gerçekleştirmek için var, tek tek."
+    "visionContent": "Her kuşun onurla muamele gördüğü, temiz bir ortamda yaşadığı, uygun beslenmenin tadını çıkardığı ve sevildiğini hissettiği bir dünya hayal ediyoruz."
   },
   "blogStory": {
     "pageTitle": "Bir Bakım Hikayesi",

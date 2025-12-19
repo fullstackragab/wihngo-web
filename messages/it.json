@@ -1,7 +1,7 @@
 {
   "metadata": {
     "title": "Wihngo - Una comunità basata sull'amore per chi ama gli uccelli",
-    "titleTemplate": "{title} | Wihngo",
+    "titleTemplate": "%s | Wihngo",
     "description": "Wihngo è una comunità basata sull'amore per chi ama gli uccelli. Un luogo dove le storie degli uccelli vengono condivise, le connessioni si formano e il supporto viene dato con cura.",
     "twitterTitle": "Wihngo - Dove cuori e ali si incontrano",
     "twitterDescription": "Una piattaforma comunitaria basata sull'amore per gli amanti degli uccelli."
@@ -265,7 +265,7 @@
     "value4Title": "Cura",
     "value4Content": "Promuoviamo pratiche di cura adeguate incluse nutrizione, igiene e salute per tutti gli uccelli.",
     "visionTitle": "La nostra visione",
-    "visionContent": "Immaginiamo un mondo in cui ogni uccello sia trattato con dignità, viva in un ambiente pulito, goda di una nutrizione adeguata e si senta amato. Wihngo esiste per realizzare questa visione, un uccello alla volta."
+    "visionContent": "Immaginiamo un mondo in cui ogni uccello sia trattato con dignità, viva in un ambiente pulito, goda di una nutrizione adeguata e si senta amato."
   },
   "blogStory": {
     "pageTitle": "Una storia di cura",

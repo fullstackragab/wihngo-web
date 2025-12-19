@@ -1,7 +1,7 @@
 {
   "metadata": {
     "title": "Wihngo - Cộng đồng yêu thương dành cho những người yêu chim",
-    "titleTemplate": "{title} | Wihngo",
+    "titleTemplate": "%s | Wihngo",
     "description": "Wihngo là cộng đồng yêu thương dành cho những người quan tâm đến chim. Nơi câu chuyện về chim được chia sẻ, kết nối được hình thành, và sự hỗ trợ được trao đi với tình yêu thương.",
     "twitterTitle": "Wihngo - Nơi trái tim và đôi cánh gặp nhau",
     "twitterDescription": "Nền tảng cộng đồng yêu thương dành cho người yêu chim."
@@ -265,7 +265,7 @@
     "value4Title": "Chăm sóc",
     "value4Content": "Chúng tôi thúc đẩy các thực hành chăm sóc đúng đắn bao gồm dinh dưỡng, vệ sinh và sức khỏe cho tất cả các loài chim.",
     "visionTitle": "Tầm nhìn của chúng tôi",
-    "visionContent": "Chúng tôi hình dung một thế giới nơi mọi chú chim được đối xử với phẩm giá, sống trong môi trường sạch sẽ, có dinh dưỡng phù hợp và cảm thấy được yêu thương. Wihngo tồn tại để biến tầm nhìn đó thành hiện thực, từng chú chim một."
+    "visionContent": "Chúng tôi hình dung một thế giới nơi mọi chú chim được đối xử với phẩm giá, sống trong môi trường sạch sẽ, có dinh dưỡng phù hợp và cảm thấy được yêu thương."
   },
   "blogStory": {
     "pageTitle": "Một câu chuyện về sự chăm sóc",

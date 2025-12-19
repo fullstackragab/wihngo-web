@@ -1,7 +1,7 @@
 {
   "metadata": {
     "title": "Wihngo - 鳥を愛する人のための愛に基づくコミュニティ",
-    "titleTemplate": "{title} | Wihngo",
+    "titleTemplate": "%s | Wihngo",
     "description": "Wihngoは鳥を愛する人のための愛に基づくコミュニティです。鳥の物語が共有され、つながりが生まれ、心のこもったサポートが提供される場所です。",
     "twitterTitle": "Wihngo - 心と翼が出会う場所",
     "twitterDescription": "鳥愛好家のための愛に基づくコミュニティプラットフォーム。"
@@ -265,7 +265,7 @@
     "value4Title": "世話",
     "value4Content": "すべての鳥のための栄養、衛生、健康を含む適切なケアの実践を促進します。",
     "visionTitle": "私たちのビジョン",
-    "visionContent": "すべての鳥が尊厳をもって扱われ、清潔な環境で暮らし、適切な栄養を楽しみ、愛されていると感じる世界を思い描いています。Wihngoはそのビジョンを現実にするために存在しています、一羽ずつ。"
+    "visionContent": "すべての鳥が尊厳をもって扱われ、清潔な環境で暮らし、適切な栄養を楽しみ、愛されていると感じる世界を思い描いています。"
   },
   "blogStory": {
     "pageTitle": "世話の物語",
