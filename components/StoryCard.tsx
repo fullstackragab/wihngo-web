@@ -1,6 +1,5 @@
 "use client";
 
-import { Link } from "@/i18n/navigation";
 import Image from "next/image";
 import { useTranslations } from "next-intl";
 
@@ -15,7 +14,6 @@ interface StoryCardProps {
 }
 
 export default function StoryCard({
-  id,
   birdName,
   title,
   excerpt,
@@ -23,7 +21,6 @@ export default function StoryCard({
   mood,
   date,
 }: StoryCardProps) {
-  const t = useTranslations("cards");
   const tMoods = useTranslations("moods");
 
   const moodEmojis: { [key: string]: string } = {
@@ -43,36 +40,31 @@ export default function StoryCard({
     : mood;
 
   return (
-    <Link href={`/stories/${id}`}>
-      <article className="bg-white rounded-2xl shadow-sm hover:shadow-lg transition-all duration-300 overflow-hidden group">
-        <div className="relative h-48 overflow-hidden">
-          <Image
-            src={imageUrl}
-            alt={`${birdName}'s story`}
-            fill
-            className="object-cover group-hover:scale-105 transition-transform duration-300"
-          />
-          <div className="absolute top-4 right-4 bg-white/90 backdrop-blur-sm px-3 py-1 rounded-full text-sm">
-            {moodEmojis[mood] || "🐦"} {translatedMood}
-          </div>
+    <article className="bg-white rounded-2xl shadow-sm overflow-hidden">
+      <div className="relative h-48 overflow-hidden">
+        <Image
+          src={imageUrl}
+          alt={`${birdName}'s story`}
+          fill
+          className="object-cover"
+        />
+        <div className="absolute top-4 right-4 bg-white/90 backdrop-blur-sm px-3 py-1 rounded-full text-sm">
+          {moodEmojis[mood] || "🐦"} {translatedMood}
         </div>
+      </div>
 
-        <div className="p-6">
-          <div className="text-sm text-teal-600 font-medium mb-2">
-            {birdName}
-          </div>
-          <h3 className="text-xl font-semibold text-slate-800 mb-2 group-hover:text-teal-600 transition-colors">
-            {title}
-          </h3>
-          <p className="text-slate-600 mb-4 line-clamp-3">{excerpt}</p>
-          <div className="flex items-center justify-between text-sm text-slate-500">
-            <span>{date}</span>
-            <span className="text-teal-600 group-hover:translate-x-1 transition-transform inline-block">
-              {t("readMore")} →
-            </span>
-          </div>
+      <div className="p-6">
+        <div className="text-sm text-teal-600 font-medium mb-2">
+          {birdName}
         </div>
-      </article>
-    </Link>
+        <h3 className="text-xl font-semibold text-slate-800 mb-2">
+          {title}
+        </h3>
+        <p className="text-slate-600 mb-4 line-clamp-3">{excerpt}</p>
+        <div className="text-sm text-slate-500">
+          <span>{date}</span>
+        </div>
+      </div>
+    </article>
   );
 }
