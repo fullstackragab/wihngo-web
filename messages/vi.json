@@ -196,5 +196,19 @@
   "language": {
     "select": "Chọn ngôn ngữ",
     "current": "Ngôn ngữ hiện tại"
+  },
+  "donation": {
+    "buttonText": "Ủng hộ Wihngo",
+    "title": "Hỗ trợ chim bằng khoản quyên góp của bạn",
+    "description": "Bạn có thể ủng hộ Wihngo bằng cách quyên góp USDC hoặc SOL trên mạng Solana. Vui lòng đảm bảo rằng bạn đang gửi trên Solana, không phải Ethereum hay mạng nào khác.",
+    "acceptedTokens": "Token được chấp nhận",
+    "solana": "Solana",
+    "walletAddress": "Địa chỉ Ví Solana",
+    "copy": "Sao chép",
+    "copied": "Đã sao chép!",
+    "warning": "Gửi tiền qua mạng sai có thể dẫn đến mất mát vĩnh viễn. Vui lòng kiểm tra kỹ rằng bạn đang sử dụng mạng Solana.",
+    "helpMessage": "Mỗi khoản quyên góp giúp cung cấp thức ăn và chăm sóc cho chim.",
+    "thankYou": "Cảm ơn bạn đã ủng hộ Wihngo",
+    "close": "Đóng"
   }
 }

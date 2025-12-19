@@ -196,5 +196,19 @@
   "language": {
     "select": "Pilih bahasa",
     "current": "Bahasa saat ini"
+  },
+  "donation": {
+    "buttonText": "Dukung Wihngo",
+    "title": "Dukung Burung dengan Donasi Anda",
+    "description": "Anda dapat mendukung Wihngo dengan mendonasikan USDC atau SOL di jaringan Solana. Pastikan Anda mengirim di Solana, bukan Ethereum atau jaringan lainnya.",
+    "acceptedTokens": "Token yang diterima",
+    "solana": "Solana",
+    "walletAddress": "Alamat Dompet Solana",
+    "copy": "Salin",
+    "copied": "Disalin!",
+    "warning": "Mengirim dana di jaringan yang salah dapat mengakibatkan kehilangan permanen. Pastikan Anda menggunakan jaringan Solana.",
+    "helpMessage": "Setiap donasi membantu menyediakan makanan dan perawatan untuk burung.",
+    "thankYou": "Terima kasih telah mendukung Wihngo",
+    "close": "Tutup"
   }
 }

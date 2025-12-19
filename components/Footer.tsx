@@ -3,6 +3,7 @@
 import Image from "next/image";
 import { useTranslations } from "next-intl";
 import { Link } from "@/i18n/navigation";
+import DonationButton from "@/components/DonationButton";
 
 export default function Footer() {
   const t = useTranslations("footer");
@@ -23,6 +24,7 @@ export default function Footer() {
               <span className="text-xl font-bold text-slate-800">Wihngo</span>
             </div>
             <p className="text-slate-600 mb-4">{t("tagline")}</p>
+            <DonationButton variant="outline" size="sm" />
           </div>
 
           <div>

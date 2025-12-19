@@ -196,5 +196,19 @@
   "language": {
     "select": "言語を選択",
     "current": "現在の言語"
+  },
+  "donation": {
+    "buttonText": "Wihngoを支援",
+    "title": "ご寄付で鳥たちを支援してください",
+    "description": "SolanaネットワークでUSDCまたはSOLを寄付してWihngoを支援できます。Ethereumや他のネットワークではなく、必ずSolanaで送信してください。",
+    "acceptedTokens": "受け付けているトークン",
+    "solana": "Solana",
+    "walletAddress": "Solanaウォレットアドレス",
+    "copy": "コピー",
+    "copied": "コピーしました！",
+    "warning": "間違ったネットワークで送金すると、永久に失われる可能性があります。Solanaネットワークを使用していることを必ず確認してください。",
+    "helpMessage": "すべての寄付が鳥たちの餌と世話に役立ちます。",
+    "thankYou": "Wihngoをご支援いただきありがとうございます",
+    "close": "閉じる"
   }
 }

@@ -196,5 +196,19 @@
   "language": {
     "select": "언어 선택",
     "current": "현재 언어"
+  },
+  "donation": {
+    "buttonText": "Wihngo 후원하기",
+    "title": "기부로 새들을 도와주세요",
+    "description": "Solana 네트워크에서 USDC 또는 SOL을 기부하여 Wihngo를 후원할 수 있습니다. Ethereum이나 다른 네트워크가 아닌 Solana로 보내는지 확인해 주세요.",
+    "acceptedTokens": "허용되는 토큰",
+    "solana": "Solana",
+    "walletAddress": "Solana 지갑 주소",
+    "copy": "복사",
+    "copied": "복사됨!",
+    "warning": "잘못된 네트워크로 자금을 보내면 영구적인 손실이 발생할 수 있습니다. Solana 네트워크를 사용하고 있는지 다시 확인해 주세요.",
+    "helpMessage": "모든 기부는 새들에게 먹이와 보살핌을 제공하는 데 도움이 됩니다.",
+    "thankYou": "Wihngo를 후원해 주셔서 감사합니다",
+    "close": "닫기"
   }
 }

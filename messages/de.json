@@ -196,5 +196,19 @@
   "language": {
     "select": "Sprache wählen",
     "current": "Aktuelle Sprache"
+  },
+  "donation": {
+    "buttonText": "Wihngo unterstützen",
+    "title": "Unterstütze Vögel mit deiner Spende",
+    "description": "Du kannst Wihngo unterstützen, indem du USDC oder SOL im Solana-Netzwerk spendest. Bitte stelle sicher, dass du über Solana sendest, nicht über Ethereum oder ein anderes Netzwerk.",
+    "acceptedTokens": "Akzeptierte Token",
+    "solana": "Solana",
+    "walletAddress": "Solana Wallet-Adresse",
+    "copy": "Kopieren",
+    "copied": "Kopiert!",
+    "warning": "Das Senden von Geldern über das falsche Netzwerk kann zu dauerhaftem Verlust führen. Bitte überprüfe, dass du das Solana-Netzwerk verwendest.",
+    "helpMessage": "Jede Spende hilft, Futter und Pflege für Vögel bereitzustellen.",
+    "thankYou": "Danke für deine Unterstützung von Wihngo",
+    "close": "Schließen"
   }
 }

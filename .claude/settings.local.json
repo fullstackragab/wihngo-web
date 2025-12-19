@@ -10,7 +10,8 @@
       "Bash(powershell -Command:*)",
       "Bash(curl:*)",
       "Bash(netstat:*)",
-      "Bash(ss:*)"
+      "Bash(ss:*)",
+      "Bash(dir:*)"
     ]
   }
 }

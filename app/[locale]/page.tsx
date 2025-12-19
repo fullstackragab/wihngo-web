@@ -2,6 +2,7 @@ import Image from "next/image";
 import { useTranslations } from "next-intl";
 import { setRequestLocale } from "next-intl/server";
 import Button from "@/components/Button";
+import DonationButton from "@/components/DonationButton";
 import DownloadSection from "@/components/DownloadSection";
 import StoryCard from "@/components/StoryCard";
 import { fetchStories } from "@/lib/api";
@@ -55,6 +56,7 @@ function HomeContent({ recentStories }: { recentStories: Awaited<ReturnType<type
             <Button href="#download" variant="primary" size="lg">
               {t("downloadTheApp")}
             </Button>
+            <DonationButton variant="secondary" size="lg" />
           </div>
         </div>
 

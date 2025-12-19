@@ -196,5 +196,19 @@
   "language": {
     "select": "选择语言",
     "current": "当前语言"
+  },
+  "donation": {
+    "buttonText": "支持 Wihngo",
+    "title": "通过捐款支持小鸟",
+    "description": "您可以通过在 Solana 网络上捐赠 USDC 或 SOL 来支持 Wihngo。请确保您是在 Solana 上发送，而不是 Ethereum 或任何其他网络。",
+    "acceptedTokens": "接受的代币",
+    "solana": "Solana",
+    "walletAddress": "Solana 钱包地址",
+    "copy": "复制",
+    "copied": "已复制！",
+    "warning": "在错误的网络上发送资金可能导致永久损失。请仔细检查您是否正在使用 Solana 网络。",
+    "helpMessage": "每一笔捐款都有助于为小鸟提供食物和照料。",
+    "thankYou": "感谢您支持 Wihngo",
+    "close": "关闭"
   }
 }

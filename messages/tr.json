@@ -196,5 +196,19 @@
   "language": {
     "select": "Dil seçin",
     "current": "Mevcut dil"
+  },
+  "donation": {
+    "buttonText": "Wihngo'yu Destekle",
+    "title": "Bağışınızla Kuşları Destekleyin",
+    "description": "Solana ağında USDC veya SOL bağışlayarak Wihngo'yu destekleyebilirsiniz. Lütfen Ethereum veya başka bir ağ değil, Solana üzerinden gönderdiğinizden emin olun.",
+    "acceptedTokens": "Kabul edilen tokenlar",
+    "solana": "Solana",
+    "walletAddress": "Solana Cüzdan Adresi",
+    "copy": "Kopyala",
+    "copied": "Kopyalandı!",
+    "warning": "Yanlış ağdan para göndermek kalıcı kayba neden olabilir. Lütfen Solana ağını kullandığınızdan emin olun.",
+    "helpMessage": "Her bağış kuşlara yiyecek ve bakım sağlamaya yardımcı olur.",
+    "thankYou": "Wihngo'yu desteklediğiniz için teşekkürler",
+    "close": "Kapat"
   }
 }
