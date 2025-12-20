@@ -12,7 +12,8 @@
       "Bash(netstat:*)",
       "Bash(ss:*)",
       "Bash(dir:*)",
-      "Bash(del \"c:\\\\next\\\\wihngo-web\\\\middleware.ts\")"
+      "Bash(del \"c:\\\\next\\\\wihngo-web\\\\middleware.ts\")",
+      "Bash(cat:*)"
     ]
   }
 }
