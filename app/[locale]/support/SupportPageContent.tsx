@@ -58,6 +58,48 @@ export default function SupportPageContent() {
         </div>
       </section>
 
+      {/* What You Are Supporting Right Now Section */}
+      <section className="py-20 px-4">
+        <div className="max-w-3xl mx-auto space-y-8">
+          <h2 className="text-2xl font-bold text-slate-800 text-center">
+            {tDonation("currentSupportTitle")}
+          </h2>
+
+          <p className="text-lg text-slate-700 leading-relaxed">
+            {tDonation("currentSupportIntro")}
+          </p>
+
+          <p className="text-lg text-slate-700 leading-relaxed">
+            {tDonation("currentSupportExplanation")}
+          </p>
+
+          <div>
+            <p className="text-lg text-slate-700 leading-relaxed mb-4">
+              {tDonation("currentSupportContributes")}
+            </p>
+
+            <ul className="space-y-3 pl-4">
+              <li className="flex items-start text-lg text-slate-700 leading-relaxed">
+                <span className="text-teal-500 mr-3 mt-1">•</span>
+                {tDonation("currentSupportItem1")}
+              </li>
+              <li className="flex items-start text-lg text-slate-700 leading-relaxed">
+                <span className="text-teal-500 mr-3 mt-1">•</span>
+                {tDonation("currentSupportItem2")}
+              </li>
+              <li className="flex items-start text-lg text-slate-700 leading-relaxed">
+                <span className="text-teal-500 mr-3 mt-1">•</span>
+                {tDonation("currentSupportItem3")}
+              </li>
+            </ul>
+          </div>
+
+          <p className="text-lg text-slate-700 leading-relaxed italic">
+            {tDonation("currentSupportConclusion")}
+          </p>
+        </div>
+      </section>
+
       {/* Donation Section */}
       <section className="py-20 px-4 bg-gradient-to-br from-teal-50 to-amber-50">
         <div className="max-w-xl mx-auto">
