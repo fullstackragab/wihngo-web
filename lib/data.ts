@@ -137,8 +137,7 @@ In our fast-paced world, Oliver teaches me the value of simply being present. No
 These are the moments I treasure most. Not the loud celebrations or exciting adventures, but these gentle reminders that love doesn't always need to be loud.
 
 Thank you, Oliver, for teaching me to appreciate the quiet.`,
-    imageUrl:
-      "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=800&q=80",
+    imageUrl: "https://i.ibb.co/cK3mKVqg/Lone-Rooster.jpg",
     mood: "calm",
     date: "Dec 5, 2024",
     createdAt: new Date("2024-12-05"),
