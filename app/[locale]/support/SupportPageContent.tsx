@@ -58,44 +58,29 @@ export default function SupportPageContent() {
         </div>
       </section>
 
-      {/* What You Are Supporting Right Now Section */}
-      <section className="py-20 px-4">
+      {/* About Wihngo Clarification */}
+      <section className="py-20 px-4 bg-slate-50">
         <div className="max-w-3xl mx-auto space-y-8">
           <h2 className="text-2xl font-bold text-slate-800 text-center">
-            {tDonation("currentSupportTitle")}
+            {t("clarificationTitle")}
           </h2>
-
           <p className="text-lg text-slate-700 leading-relaxed">
-            {tDonation("currentSupportIntro")}
+            {t("clarificationChickens")}
           </p>
-
           <p className="text-lg text-slate-700 leading-relaxed">
-            {tDonation("currentSupportExplanation")}
+            {t("clarificationNotCharity")}
           </p>
-
-          <div>
-            <p className="text-lg text-slate-700 leading-relaxed mb-4">
-              {tDonation("currentSupportContributes")}
-            </p>
-
-            <ul className="space-y-3 pl-4">
-              <li className="flex items-start text-lg text-slate-700 leading-relaxed">
-                <span className="text-teal-500 mr-3 mt-1">•</span>
-                {tDonation("currentSupportItem1")}
-              </li>
-              <li className="flex items-start text-lg text-slate-700 leading-relaxed">
-                <span className="text-teal-500 mr-3 mt-1">•</span>
-                {tDonation("currentSupportItem2")}
-              </li>
-              <li className="flex items-start text-lg text-slate-700 leading-relaxed">
-                <span className="text-teal-500 mr-3 mt-1">•</span>
-                {tDonation("currentSupportItem3")}
-              </li>
-            </ul>
-          </div>
-
+          <p className="text-lg text-slate-700 leading-relaxed">
+            {t("clarificationCommunity")}
+          </p>
+          <p className="text-lg text-slate-700 leading-relaxed">
+            {t("clarificationDiscover")}
+          </p>
+          <p className="text-lg text-slate-700 leading-relaxed">
+            {t("clarificationBusiness")}
+          </p>
           <p className="text-lg text-slate-700 leading-relaxed italic">
-            {tDonation("currentSupportConclusion")}
+            {t("clarificationConclusion")}
           </p>
         </div>
       </section>
