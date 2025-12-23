@@ -39,6 +39,12 @@ export default function Header() {
               {t("whyBirdsMatter")}
             </Link>
             <Link
+              href="/chicken-happiness"
+              className="text-slate-600 hover:text-teal-600 transition-colors"
+            >
+              {t("chickenHappiness")}
+            </Link>
+            <Link
               href="/about"
               className="text-slate-600 hover:text-teal-600 transition-colors"
             >
@@ -99,6 +105,13 @@ export default function Header() {
                 onClick={() => setIsMenuOpen(false)}
               >
                 {t("whyBirdsMatter")}
+              </Link>
+              <Link
+                href="/chicken-happiness"
+                className="text-slate-600 hover:text-teal-600 transition-colors px-2 py-1"
+                onClick={() => setIsMenuOpen(false)}
+              >
+                {t("chickenHappiness")}
               </Link>
               <Link
                 href="/about"

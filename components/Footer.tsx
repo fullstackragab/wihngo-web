@@ -48,6 +48,14 @@ export default function Footer() {
               </li>
               <li>
                 <Link
+                  href="/chicken-happiness"
+                  className="text-slate-600 hover:text-teal-600 transition-colors"
+                >
+                  {tNav("chickenHappiness")}
+                </Link>
+              </li>
+              <li>
+                <Link
                   href="/about"
                   className="text-slate-600 hover:text-teal-600 transition-colors"
                 >
