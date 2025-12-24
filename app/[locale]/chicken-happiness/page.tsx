@@ -54,12 +54,7 @@ function ChickenHappinessContent() {
     t("dontClaimItem3"),
   ];
 
-  const ourMessage = [
-    t("messageItem1"),
-    t("messageItem2"),
-    t("messageItem3"),
-    t("messageItem4"),
-  ];
+  const ourMessage = [t("messageItem1"), t("messageItem3"), t("messageItem4")];
 
   return (
     <main>
@@ -98,9 +93,6 @@ function ChickenHappinessContent() {
               </li>
             ))}
           </ul>
-          <blockquote className="text-lg text-slate-700 mt-8 leading-relaxed rtl:text-right ltr:text-left relative rtl:pr-6 ltr:pl-6 rtl:border-r-4 ltr:border-l-4 border-gray-300">
-            {t("chickenIsVulnerable")}
-          </blockquote>
         </div>
       </section>
 
@@ -133,6 +125,26 @@ function ChickenHappinessContent() {
           <p className="text-lg text-slate-700 leading-relaxed">
             {t("weAcknowledgeContent")}
           </p>
+        </div>
+      </section>
+
+      {/* Chicken as Living Being Section */}
+      <section className="py-20 px-4 bg-gradient-to-br from-amber-50 to-teal-50">
+        <div className="max-w-3xl mx-auto">
+          <h2 className="text-3xl font-bold text-slate-800 mb-8 text-center">
+            {t("chickenAsLivingBeingTitle")}
+          </h2>
+          <div className="space-y-6 text-lg text-slate-700 leading-relaxed">
+            <p className="rtl:text-right ltr:text-left">
+              {t("chickenAsLivingBeingPara1")}
+            </p>
+            <p className="rtl:text-right ltr:text-left">
+              {t("chickenAsLivingBeingPara2")}
+            </p>
+            <p className="rtl:text-right ltr:text-left">
+              {t("chickenAsLivingBeingPara3")}
+            </p>
+          </div>
         </div>
       </section>
 
