@@ -168,7 +168,7 @@ function ChickenHappinessContent() {
           <p className="text-lg text-slate-700 mb-4 leading-relaxed">
             {t("ethicalPositionContent2")}
           </p>
-          <p className="text-xl font-semibold text-teal-700 mt-8">
+          <p className="text-xl font-semibold mt-8">
             {t("ethicalPositionConclusion")}
           </p>
         </div>

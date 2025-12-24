@@ -15,12 +15,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div className="col-span-1 md:col-span-2">
             <div className="flex items-center space-x-2 mb-4">
-              <Image
-                src="/icon.png"
-                alt="Wihngo"
-                width={32}
-                height={32}
-              />
+              <Image src="/icon.png" alt="Wihngo" width={32} height={32} />
               <span className="text-xl font-bold text-slate-800">Wihngo</span>
             </div>
             <p className="text-slate-600 mb-4">{t("tagline")}</p>
@@ -28,7 +23,9 @@ export default function Footer() {
           </div>
 
           <div>
-            <h3 className="font-semibold text-slate-800 mb-4">{t("explore")}</h3>
+            <h3 className="font-semibold text-slate-800 mb-4">
+              {t("explore")}
+            </h3>
             <ul className="space-y-2">
               <li>
                 <Link
@@ -74,7 +71,9 @@ export default function Footer() {
           </div>
 
           <div>
-            <h3 className="font-semibold text-slate-800 mb-4">{t("download")}</h3>
+            <h3 className="font-semibold text-slate-800 mb-4">
+              {t("download")}
+            </h3>
             <ul className="space-y-2">
               <li>
                 <a
@@ -121,16 +120,6 @@ export default function Footer() {
           </div>
           <p>
             &copy; {new Date().getFullYear()} {t("copyright")}
-          </p>
-          <p className="mt-2">
-            <a
-              href="https://www.freepik.com/icon/bird_3069186"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="hover:text-teal-600 transition-colors"
-            >
-              Bird icon by Freepik
-            </a>
           </p>
         </div>
       </div>
