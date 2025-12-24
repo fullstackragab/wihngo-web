@@ -54,8 +54,6 @@ function ChickenHappinessContent() {
     t("dontClaimItem3"),
   ];
 
-  const ourMessage = [t("messageItem1"), t("messageItem3"), t("messageItem4")];
-
   return (
     <main>
       {/* Hero Section */}
@@ -145,26 +143,6 @@ function ChickenHappinessContent() {
               {t("chickenAsLivingBeingPara3")}
             </p>
           </div>
-        </div>
-      </section>
-
-      {/* Our Message Section */}
-      <section className="py-20 px-4 bg-gradient-to-br from-teal-50 to-amber-50">
-        <div className="max-w-3xl mx-auto">
-          <h2 className="text-3xl font-bold text-slate-800 mb-8 text-center">
-            {t("ourMessageTitle")}
-          </h2>
-          <ul className="space-y-4">
-            {ourMessage.map((item, index) => (
-              <li
-                key={index}
-                className="flex items-start gap-3 text-lg text-slate-700"
-              >
-                <span className="text-teal-500 mt-1">&#8226;</span>
-                <span>{item}</span>
-              </li>
-            ))}
-          </ul>
         </div>
       </section>
 
